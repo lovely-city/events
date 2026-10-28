@@ -1,15 +1,19 @@
 
+const LANG=((document.querySelector(".lc-dosug")||{}).dataset||{}).lang||"ru", EN=LANG==="en";
+const T=(ru,en)=>EN?en:ru;
+const CITY_EN={"Дубай":"Dubai","Абу-Даби":"Abu Dhabi","Рас-эль-Хайма":"Ras Al Khaimah","Шарджа":"Sharjah"};
+const cityName=c=>EN?(CITY_EN[c]||c):c;
 const EVENTS = [];
 let ITEMS = EVENTS.map(e=>Object.assign({status:"approved"},e));
 let DB=null, EDITOR=false, view="site", edOn=false;
-const CATS = {concert:"Концерты и шоу",places:"Интересные места",sport:"Спорт",sportev:"Спортивные события",master:"Мастер-классы",hobby:"Хобби и курсы",expo:"Выставки и лекции",weekend:"Куда сходить на выходные",date:"Куда сходить на свидание",games:"Игры и общение"};
-const SUBS = {padel:"Падел",tennis:"Теннис",dance:"Танцы",yoga:"Йога и пилатес",water:"Водный спорт",riding:"Верховая езда",winter:"Каток и лыжи",run:"Бег",cycle:"Вело",fight:"Единоборства",outdoor:"Хайкинг и выезды",other:"Другое"};
+const CATS = EN?{concert:"Concerts & shows",places:"Places to visit",sport:"Sport",sportev:"Sports events",master:"Workshops",hobby:"Hobbies & courses",expo:"Exhibitions & talks",weekend:"Weekend ideas",date:"Date ideas",games:"Games & socialising"}:{concert:"Концерты и шоу",places:"Интересные места",sport:"Спорт",sportev:"Спортивные события",master:"Мастер-классы",hobby:"Хобби и курсы",expo:"Выставки и лекции",weekend:"Куда сходить на выходные",date:"Куда сходить на свидание",games:"Игры и общение"};
+const SUBS = EN?{padel:"Padel",tennis:"Tennis",dance:"Dance",yoga:"Yoga & Pilates",water:"Water sports",riding:"Horse riding",winter:"Ice & ski",run:"Running",cycle:"Cycling",fight:"Combat sports",outdoor:"Hiking & trips",other:"Other"}:{padel:"Падел",tennis:"Теннис",dance:"Танцы",yoga:"Йога и пилатес",water:"Водный спорт",riding:"Верховая езда",winter:"Каток и лыжи",run:"Бег",cycle:"Вело",fight:"Единоборства",outdoor:"Хайкинг и выезды",other:"Другое"};
 const OLD2NEW = {kidsfun:"weekend",kidsdev:"hobby",adults:"date",sport:"sport",yoga:"sport",food:"date",beauty:"date",cowork:"places",other:"weekend"};
 const tagsRaw = e => Array.isArray(e.tags)&&e.tags.length ? e.tags : [...new Set((e.cats||[]).map(c=>OLD2NEW[c]||"weekend"))];
-const SURVEY = {sportev:"sport",concert:"razvlecheniya-dlya-vzroslyh",places:"razvlecheniya-dlya-vzroslyh",sport:"sport",master:"razvlecheniya-dlya-vzroslyh",hobby:"razvlecheniya-dlya-vzroslyh",expo:"razvlecheniya-dlya-vzroslyh",weekend:"razvlecheniya-dlya-detej",date:"razvlecheniya-dlya-vzroslyh",games:"razvlecheniya-dlya-vzroslyh"};
-const AUDS = {any:"Все",kids:"С детьми",adults:"Взрослым"};
-const MON = ["янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"];
-const WD = ["вс","пн","вт","ср","чт","пт","сб"];
+const SURVEY = EN?{sportev:"en/sport",sport:"en/sport",weekend:"en/kidsentertainment",concert:"en/entertainment",places:"en/entertainment",master:"en/entertainment",hobby:"en/entertainment",expo:"en/entertainment",date:"en/entertainment",games:"en/entertainment"}:{sportev:"sport",concert:"razvlecheniya-dlya-vzroslyh",places:"razvlecheniya-dlya-vzroslyh",sport:"sport",master:"razvlecheniya-dlya-vzroslyh",hobby:"razvlecheniya-dlya-vzroslyh",expo:"razvlecheniya-dlya-vzroslyh",weekend:"razvlecheniya-dlya-detej",date:"razvlecheniya-dlya-vzroslyh",games:"razvlecheniya-dlya-vzroslyh"};
+const AUDS = EN?{any:"All",kids:"With kids",adults:"Adults"}:{any:"Все",kids:"С детьми",adults:"Взрослым"};
+const MON = EN?["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]:["янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"];
+const WD = EN?["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]:["вс","пн","вт","ср","чт","пт","сб"];
 const state = {w:"weekend", cat:null, sub:null, aud:"any", city:"all", q:"", d1:"", d2:""};
 try{const s=JSON.parse(localStorage.getItem("leisure-f")||"null"); if(s){state.w=s.w||state.w; state.aud=s.aud||"any"; state.city=s.city||"all";}}catch(e){}
 
@@ -55,25 +59,25 @@ function passFilters(e,{cat=true}={}){
 const esc = s => String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function dateCell(e,a){
-  if(e.ty==="venue") return e.st&&e.st>TODAY?`с ${fmt(e.st)}<small>${e.en?"до "+fmt(e.en):"откроется"}</small>`:(e.en?`работает<small>до ${fmt(e.en)}</small>`:(e.st&&e.st>=add(TODAY,-21)?`открыто<small>с ${fmt(e.st)}</small>`:`в любой день`));
-  if(e.ty==="recurring"){const days=e.wd.length===7?"ежедневно":e.wd.map(x=>WD[x]).join(", "); return `${days}<small>${e.en?"до "+fmt(e.en):"регулярно"}</small>`;}
+  if(e.ty==="venue") return e.st&&e.st>TODAY?`${T("с","from")} ${fmt(e.st)}<small>${e.en?T("до ","until ")+fmt(e.en):T("откроется","opening")}</small>`:(e.en?`${T("работает","open")}<small>${T("до","until")} ${fmt(e.en)}</small>`:(e.st&&e.st>=add(TODAY,-21)?`${T("открыто","now open")}<small>${T("с","since")} ${fmt(e.st)}</small>`:T(`в любой день`,`any day`)));
+  if(e.ty==="recurring"){const days=e.wd.length===7?T("ежедневно","daily"):e.wd.map(x=>WD[x]).join(", "); return `${days}<small>${e.en?T("до ","until ")+fmt(e.en):T("регулярно","regular")}</small>`;}
   const st=e.st,en=e.en||st, now = st<TODAY && en>=TODAY;
   let h = fmtRange(st,en) + `<small>${st===en?wdOf(st):wdOf(st)+" – "+wdOf(en)}</small>`;
-  if(now) h += `<span class="now">идёт сейчас</span>`; else if(st===TODAY) h+=`<span class="now">сегодня</span>`;
+  if(now) h += `<span class="now">${T("идёт сейчас","on now")}</span>`; else if(st===TODAY) h+=`<span class="now">${T("сегодня","today")}</span>`;
   return h;
 }
 function card(e,a){
-  const audT = e.aud==="kids"?"детям":e.aud==="adults"?"взрослым":"всей семье";
+  const audT = e.aud==="kids"?T("детям","kids"):e.aud==="adults"?T("взрослым","adults"):T("всей семье","all ages");
   const links = [];
   // гостям — только ссылка на само событие или организатора; пост в Telegram видит только редактор
   const u=String(e.u||"");
-  if(e.src==="pl") links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Билеты на Platinumlist ↗</a>`);
+  if(e.src==="pl") links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${T("Билеты на Platinumlist","Tickets on Platinumlist")} ↗</a>`);
   else {
-    if(u && !/t\.me\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/instagram\.com/.test(u)?"Организатор в Instagram ↗":/platinumlist/.test(u)?"Билеты на Platinumlist ↗":"Сайт организатора ↗"}</a>`);
+    if(u && !/t\.me\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/instagram\.com/.test(u)?T("Организатор в Instagram ↗","Organiser on Instagram ↗"):/platinumlist/.test(u)?T("Билеты на Platinumlist ↗","Tickets on Platinumlist ↗"):T("Сайт организатора ↗","Organiser website ↗")}</a>`);
     if(EDITOR && e.s && e.p) links.push(`<a href="https://t.me/${esc(e.s)}/${esc(e.p)}" target="_blank" rel="noopener">Источник в Telegram (видно только вам) ↗</a>`);
   }
   return `<article class="item"><div class="date">${dateCell(e,a)}</div><div style="min-width:0">
-    <h3>${esc(e.ti)}</h3><div class="meta">${esc(e.pl)}${e.city&&!String(e.pl).includes(e.city)?" · "+esc(e.city):""}</div>
+    <h3>${esc(e.ti)}</h3><div class="meta">${esc(e.pl)}${e.city&&!String(e.pl).includes(e.city)&&!String(e.pl).includes(cityName(e.city))?" · "+esc(cityName(e.city)):""}</div>
     <p>${esc(e.sm)}</p>
     <div class="tags">${[...tagsOf(e)].map(c=>`<span class="tag">${c==="sport"&&e.sub&&SUBS[e.sub]?SUBS[e.sub]:CATS[c]}</span>`).join("")}<span class="tag">${audT}</span>${e.pr?`<span class="tag price">${esc(e.pr)}</span>`:""}</div>
     <div class="links">${links.join("")}</div>${(EDITOR&&(edOn||view!=="site"))?editor(e):""}</div></article>`;
@@ -133,22 +137,22 @@ function render(){
   const [a,b]=windowFor();
   document.querySelectorAll(".seg").forEach(x=>x.setAttribute("aria-pressed",x.dataset.w===state.w));
   document.getElementById("rangeBox").hidden = state.w!=="custom";
-  document.getElementById("span").textContent = b===FAR ? `с ${fmt(a)} и дальше` : (a===b?`${fmt(a)}, ${wdOf(a)}`:`${fmtRange(a,b)} · ${wdOf(a)}–${wdOf(b)}`);
+  document.getElementById("span").textContent = b===FAR ? T(`с ${fmt(a)} и дальше`,`from ${fmt(a)} onwards`) : (a===b?`${fmt(a)}, ${wdOf(a)}`:`${fmtRange(a,b)} · ${wdOf(a)}–${wdOf(b)}`);
   const inWin = ITEMS.filter(e=>(e.status||"approved")==="approved" && matches(e,a,b));
   // счётчики категорий по текущему окну и прочим фильтрам
   const base = inWin.filter(e=>passFilters(e,{cat:false}));
   const cnt={}, scnt={}; base.forEach(e=>{const t=tagsOf(e); t.forEach(c=>cnt[c]=(cnt[c]||0)+1); if(state.cat&&t.has(state.cat)){const k=e.sub||"other"; scnt[k]=(scnt[k]||0)+1;}});
-  document.getElementById("cats").innerHTML = `<button class="chip" data-cat="" aria-pressed="${!state.cat}">Все</button>` + Object.keys(CATS).filter(k=>cnt[k]||state.cat===k).map(k=>`<button class="chip" data-cat="${k}" aria-pressed="${state.cat===k}">${CATS[k]}<span class="n">${cnt[k]||0}</span></button>`).join("");
+  document.getElementById("cats").innerHTML = `<button class="chip" data-cat="" aria-pressed="${!state.cat}">${T("Все","All")}</button>` + Object.keys(CATS).filter(k=>cnt[k]||state.cat===k).map(k=>`<button class="chip" data-cat="${k}" aria-pressed="${state.cat===k}">${CATS[k]}<span class="n">${cnt[k]||0}</span></button>`).join("");
   document.getElementById("subRow").hidden = !(state.cat==="sport"||state.cat==="sportev");
-  document.getElementById("subs").innerHTML = `<button class="chip" data-sub="" aria-pressed="${!state.sub}">Все виды</button>` + Object.keys(SUBS).filter(k=>scnt[k]||state.sub===k).map(k=>`<button class="chip" data-sub="${k}" aria-pressed="${state.sub===k}">${SUBS[k]}<span class="n">${scnt[k]||0}</span></button>`).join("");
+  document.getElementById("subs").innerHTML = `<button class="chip" data-sub="" aria-pressed="${!state.sub}">${T("Все виды","All sports")}</button>` + Object.keys(SUBS).filter(k=>scnt[k]||state.sub===k).map(k=>`<button class="chip" data-sub="${k}" aria-pressed="${state.sub===k}">${SUBS[k]}<span class="n">${scnt[k]||0}</span></button>`).join("");
   document.getElementById("auds").innerHTML = Object.entries(AUDS).map(([k,v])=>`<button class="chip" data-aud="${k}" aria-pressed="${state.aud===k}">${v}</button>`).join("");
-  document.getElementById("cities").innerHTML = [["all","Все"],["dubai","Дубай"],["ad","Абу-Даби"],["other","Другие эмираты"]].map(([k,v])=>`<button class="chip" data-city="${k}" aria-pressed="${state.city===k}">${v}</button>`).join("");
+  document.getElementById("cities").innerHTML = [["all",T("Все","All")],["dubai",T("Дубай","Dubai")],["ad",T("Абу-Даби","Abu Dhabi")],["other",T("Другие эмираты","Other emirates")]].map(([k,v])=>`<button class="chip" data-city="${k}" aria-pressed="${state.city===k}">${v}</button>`).join("");
   const shown = inWin.filter(passFilters);
   const evs = shown.filter(e=>e.ty!=="venue").sort((x,y)=>{const xs=(x.st||"")<a?a:x.st, ys=(y.st||"")<a?a:y.st; return xs<ys?-1:xs>ys?1:(x.en||x.st||"").localeCompare(y.en||y.st||"");});
   const vns = shown.filter(e=>e.ty==="venue").sort((x,y)=>(y.st||y.d).localeCompare(x.st||x.d));
-  document.getElementById("evSub").textContent = evs.length ? `${evs.length} ${plural(evs.length,"событие","события","событий")} в выбранные даты` : "";
-  document.getElementById("events").innerHTML = evs.map(e=>card(e,a)).join("") || `<div class="empty">В эти даты событий не нашлось. Попробуйте другие дни или уберите фильтры — места ниже открыты всегда.</div>`;
-  document.getElementById("venues").innerHTML = vns.map(e=>card(e,a)).join("") || `<div class="empty">Под эти фильтры мест нет.</div>`;
+  document.getElementById("evSub").textContent = evs.length ? (EN?`${evs.length} event${evs.length===1?"":"s"} on the selected dates`:`${evs.length} ${plural(evs.length,"событие","события","событий")} в выбранные даты`) : "";
+  document.getElementById("events").innerHTML = evs.map(e=>card(e,a)).join("") || `<div class="empty">${T("В эти даты событий не нашлось. Попробуйте другие дни или уберите фильтры — места ниже открыты всегда.","No events on these dates. Try other days or clear the filters — the places below are open any day.")}</div>`;
+  document.getElementById("venues").innerHTML = vns.map(e=>card(e,a)).join("") || `<div class="empty">${T("Под эти фильтры мест нет.","No places match these filters.")}</div>`;
   const one = state.cat;
   document.getElementById("ctaA").href = "https://lovely.city/"+(one?SURVEY[one]+"/":""); document.querySelectorAll(".ctaB").forEach(x=>x.href=document.getElementById("ctaA").href);
   
@@ -187,4 +191,7 @@ document.getElementById("edOn").addEventListener("change",ev=>{edOn=ev.target.ch
   }catch(e){}
 })();
 
-(async()=>{try{const r=await fetch("https://raw.githubusercontent.com/lovely-city/events/main/events.json?t="+Math.floor(Date.now()/3600e3),{cache:"no-store"});const d=await r.json();if(Array.isArray(d)&&!DB){ITEMS=d.map(e=>Object.assign({status:"approved"},e));render();}}catch(e){}})();
+(async()=>{try{const h=Math.floor(Date.now()/3600e3), base="https://raw.githubusercontent.com/lovely-city/events/main/";
+const d=await fetch(base+"events.json?t="+h,{cache:"no-store"}).then(r=>r.json());
+let tr={}; if(EN){try{tr=await fetch(base+"tr.json?t="+h,{cache:"no-store"}).then(r=>r.json());}catch(e){}}
+if(Array.isArray(d)&&!DB){ITEMS=d.map(e=>Object.assign({status:"approved"},e,EN&&tr[e.id]?tr[e.id]:{}));render();}}catch(e){}})();
