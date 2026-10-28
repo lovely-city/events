@@ -1,0 +1,397 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap">
+<style>
+.lc-dosug{
+  --bg:#F5F5F5; --surface:#FFFFFF; --ink:#000000; --muted:#5E6270; --line:#E8E8E8;
+  --accent:#345DC2; --accent-soft:#EEF2FB; --btn:#718ED7; --btnh:#345DC2; --hot:#C2410C; --hot-soft:#FCE9DE;
+  --display:"Roboto",system-ui,sans-serif; --body:"Roboto",system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"Roboto",system-ui,sans-serif;
+  color-scheme:light;
+}
+.lc-dosug, .lc-dosug *{box-sizing:border-box}
+.lc-dosug [hidden]{display:none!important}
+.lc-dosug{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.lc-dosug .wrap{max-width:860px;margin:0 auto;padding-block:28px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.lc-dosug header h1{font-family:var(--display);font-weight:700;font-size:clamp(26px,5vw,38px);line-height:1.1;margin:0 0 8px;text-wrap:balance;letter-spacing:-.01em}
+.lc-dosug header p{margin:0;color:var(--muted);max-width:62ch}
+.lc-dosug .when{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 10px}
+.lc-dosug .seg{border:1px solid var(--line);background:var(--surface);color:var(--ink);font:500 14px var(--body);padding:9px 14px;border-radius:999px;cursor:pointer}
+.lc-dosug .seg[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.lc-dosug .seg:focus-visible,.lc-dosug .chip:focus-visible,.lc-dosug select:focus-visible,.lc-dosug input:focus-visible,.lc-dosug a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.lc-dosug .range{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px;color:var(--muted);font-size:14px}
+.lc-dosug .range input{font:500 14px var(--mono);padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.lc-dosug .span{font:500 13px var(--mono);color:var(--accent);margin-bottom:18px}
+.lc-dosug .filters{display:flex;flex-direction:column;gap:10px;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.lc-dosug .row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.lc-dosug .lbl{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);width:84px;flex:none}
+.lc-dosug .chip{border:1px solid var(--line);background:transparent;color:var(--ink);font:500 13px var(--body);padding:5px 11px;border-radius:999px;cursor:pointer}
+.lc-dosug .chip[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.lc-dosug .chip .n{font-family:var(--mono);font-size:11px;opacity:.7;margin-left:4px}
+.lc-dosug #q{flex:1;min-width:0;font:400 14px var(--body);padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.lc-dosug h2{font-family:var(--display);font-weight:500;font-size:18px;margin:30px 0 4px;letter-spacing:-.005em}
+.lc-dosug .sub{color:var(--muted);font-size:13px;margin:0 0 12px}
+.lc-dosug .list{display:flex;flex-direction:column}
+.lc-dosug .item{display:grid;grid-template-columns:92px minmax(0,1fr);gap:16px;padding:16px 0;border-bottom:1px solid var(--line)}
+.lc-dosug .date{font-family:var(--mono);font-size:13px;line-height:1.35;color:var(--ink);font-variant-numeric:tabular-nums}
+.lc-dosug .date small{display:block;color:var(--muted);font-size:11px;margin-top:3px}
+.lc-dosug .now{display:inline-block;margin-top:6px;font:500 10px var(--body);text-transform:uppercase;letter-spacing:.06em;color:var(--hot);background:var(--hot-soft);padding:2px 6px;border-radius:4px}
+.lc-dosug .item h3{font-size:16px;font-weight:600;margin:0 0 3px;line-height:1.3;text-wrap:balance}
+.lc-dosug .meta{color:var(--muted);font-size:13px}
+.lc-dosug .item p{margin:6px 0 8px;max-width:65ch}
+.lc-dosug .tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px}
+.lc-dosug .tag{padding:2px 8px;border-radius:4px;background:var(--bg);border:1px solid var(--line);color:var(--muted)}
+.lc-dosug .tag.price{color:var(--ink)}
+.lc-dosug .links{display:flex;flex-wrap:wrap;gap:14px;margin-top:8px;font-size:13px}
+.lc-dosug .links a{color:var(--accent);text-decoration:none;font-weight:500}
+.lc-dosug .links a:hover{text-decoration:underline}
+.lc-dosug .empty{padding:22px 0;color:var(--muted)}
+.lc-dosug .cta{margin-top:36px;background:var(--ink);color:var(--bg);border-radius:14px;padding:22px;display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between}
+.lc-dosug .cta b{font-family:var(--display);font-weight:500;font-size:17px;display:block;margin-bottom:4px}
+.lc-dosug .cta span{opacity:.8;font-size:14px}
+.lc-dosug .cta a{background:var(--accent);color:#fff;text-decoration:none;font-weight:600;padding:10px 16px;border-radius:999px;white-space:nowrap}
+.lc-dosug footer{margin-top:22px;color:var(--muted);font-size:12px;line-height:1.6}
+.lc-dosug footer a{color:var(--muted)}
+.lc-dosug .edbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:20px 0 0;padding:10px 12px;border:1px dashed var(--accent);border-radius:12px;background:var(--accent-soft)}
+.lc-dosug .edbar b{font-size:13px;color:var(--accent);margin-right:6px}
+.lc-dosug .edbar .seg{padding:6px 12px;font-size:13px}
+.lc-dosug .edbar .note{font-size:12px;color:var(--muted);flex-basis:100%}
+.lc-dosug .ed{margin-top:10px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);display:flex;flex-direction:column;gap:8px}
+.lc-dosug .ed .row label{font-size:12px;color:var(--muted)}
+.lc-dosug .ed input[type=text],.lc-dosug .ed input[type=date],.lc-dosug .ed select{font:400 13px var(--body);padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);min-width:0}
+.lc-dosug .ed input[type=text]{flex:1;min-width:0}
+.lc-dosug .ed .chip{font-size:12px;padding:4px 9px}
+.lc-dosug .btn{font:600 13px var(--body);padding:7px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.lc-dosug .btn.ok{background:var(--accent);border-color:var(--accent);color:#fff}
+.lc-dosug .btn.no{color:var(--hot);border-color:var(--hot)}
+.lc-dosug .btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.lc-dosug .st{font:500 11px var(--body);text-transform:uppercase;letter-spacing:.05em;padding:2px 6px;border-radius:4px}
+.lc-dosug .st.pending{background:var(--hot-soft);color:var(--hot)}
+.lc-dosug .st.rejected{background:var(--bg);color:var(--muted);border:1px solid var(--line)}
+.lc-dosug .saving{font-size:12px;color:var(--muted)}
+@media (max-width:520px){.lc-dosug .item{grid-template-columns:1fr;gap:6px}
+.lc-dosug .date{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.lc-dosug .date small{margin:0}
+.lc-dosug .lbl{width:100%}
+}
+@media (prefers-reduced-motion:reduce){.lc-dosug, .lc-dosug *{transition:none!important}
+}
+.lc-dosug{font-weight:300}
+.lc-dosug .brand{display:inline-block;border:3px solid var(--btn);padding:6px 14px;font-weight:900;font-size:15px;color:#000}
+.lc-dosug .bar{display:block;width:120px;height:8px;background:var(--btn);margin:22px 0 14px}
+.lc-dosug header h1{font-family:var(--body);font-weight:900;font-size:clamp(34px,7vw,60px);letter-spacing:0;text-transform:uppercase}
+.lc-dosug header h1 .b{color:var(--btn)}
+.lc-dosug header p{color:#000;font-weight:300;font-size:16px}
+.lc-dosug .seg,.lc-dosug .chip,.lc-dosug .tag,.lc-dosug .btn,.lc-dosug .st,.lc-dosug #q,.lc-dosug .range input,.lc-dosug .ed input[type=text],.lc-dosug .ed input[type=date],.lc-dosug .ed select,.lc-dosug .edbar,.lc-dosug .ed,.lc-dosug .now{border-radius:0!important}
+.lc-dosug .seg{background:#fff;font-weight:500}
+.lc-dosug .seg[aria-pressed="true"]{background:var(--btn);border-color:var(--btn);color:#fff}
+.lc-dosug .chip{background:#fff;font-weight:500}
+.lc-dosug .chip[aria-pressed="true"]{background:var(--btn);border-color:var(--btn);color:#fff}
+.lc-dosug .span{color:var(--btn);font-weight:500}
+.lc-dosug .filters{background:#fff;padding-left:16px;padding-right:16px;border:0}
+.lc-dosug h2{font-family:var(--body);font-weight:900;font-size:22px;color:var(--btn)}
+.lc-dosug .item{background:#fff;padding:16px 18px;border:0;margin-bottom:10px}
+.lc-dosug .item h3{font-weight:700}
+.lc-dosug .date{font-family:var(--body);font-weight:500;color:var(--btn)}
+.lc-dosug .links a{color:var(--accent)}
+.lc-dosug .btn.ok{background:var(--btn);border-color:var(--btn)}
+.lc-dosug .edbar{border-color:var(--btn);background:var(--accent-soft)}
+.lc-dosug .edbar b{color:var(--accent)}
+.lc-dosug .cta{background:#fff;color:var(--ink);border-radius:0;border-left:8px solid var(--btn)}
+.lc-dosug .cta b{font-family:var(--body);font-weight:900}
+.lc-dosug .cta span{opacity:1;color:var(--muted)}
+.lc-dosug .cta a,.lc-dosug .need a{background:var(--btn);border-radius:0}
+.lc-dosug .cta a:hover,.lc-dosug .need a:hover{background:var(--btnh)}
+.lc-dosug .need{position:fixed;left:0;right:0;bottom:0;z-index:20;background:#fff;border-top:3px solid var(--btn);box-shadow:0 -6px 20px rgba(20,24,40,.08);padding-block:10px calc(10px + env(safe-area-inset-bottom,0px));padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.lc-dosug .need .in{max-width:860px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.lc-dosug .need b{font-size:14px;font-weight:700}
+.lc-dosug .need span{color:var(--muted);font-size:13px;display:block}
+.lc-dosug .need a{color:#fff;text-decoration:none;font-weight:600;padding:10px 18px;white-space:nowrap;font-size:14px}
+.lc-dosug 
+.lc-dosug footer{background:var(--btn);color:#fff;padding:18px;margin-top:28px}
+.lc-dosug footer a{color:#fff}
+.lc-dosug section.cta{display:block;margin-top:36px;background:var(--btn)!important;color:#fff!important;border:0!important;border-radius:0;padding:28px 24px 26px;position:relative;overflow:hidden}
+.lc-dosug section.cta::after{content:"";position:absolute;right:-40px;top:-40px;width:180px;height:180px;border:18px solid rgba(255,255,255,.18);border-radius:50%}
+.lc-dosug .cta-k{display:inline-block;background:#fff;color:var(--btnh);font:900 11px var(--body);text-transform:uppercase;letter-spacing:.08em;padding:4px 8px;margin-bottom:12px}
+.lc-dosug section.cta h2{color:#fff!important;font:900 clamp(26px,5vw,40px)/1.05 var(--body)!important;text-transform:uppercase;margin:0 0 12px;max-width:16ch;position:relative;z-index:1}
+.lc-dosug section.cta h2 span{color:#0F1E4A}
+.lc-dosug section.cta p{color:#fff;font-size:16px;font-weight:300;max-width:56ch;margin:0 0 16px;position:relative;z-index:1}
+.lc-dosug .ideas{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px;position:relative;z-index:1}
+.lc-dosug .idea{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.55);text-decoration:none;font:500 14px var(--body);padding:8px 12px}
+.lc-dosug .idea:hover{background:#fff;color:var(--btnh)}
+.lc-dosug .cta-btn{display:inline-block;background:#fff;color:var(--btnh);font:900 15px var(--body);text-transform:uppercase;letter-spacing:.03em;text-decoration:none;padding:13px 22px;position:relative;z-index:1}
+.lc-dosug .cta-btn:hover{background:#0F1E4A;color:#fff}
+.lc-dosug .need{background:var(--btn)!important;border-top:0!important;box-shadow:0 -6px 20px rgba(20,24,40,.12)}
+.lc-dosug .need .in{justify-content:space-between}
+.lc-dosug .need b{color:#fff;font:900 15px var(--body);text-transform:uppercase;letter-spacing:.02em}
+.lc-dosug .need b u{text-decoration:none;color:#0F1E4A}
+.lc-dosug .need a{background:#fff!important;color:var(--btnh)!important;font-weight:900!important}
+.lc-dosug .need a:hover{background:#0F1E4A!important;color:#fff!important}
+.lc-dosug section.cta h2 span{font:inherit!important;color:#0F1E4A!important}
+.lc-dosug section.cta a.cta-btn{background:#fff!important;color:var(--btnh)!important;padding:13px 22px!important;font:900 15px var(--body)!important;text-transform:uppercase}
+.lc-dosug section.cta a.cta-btn:hover{background:#0F1E4A!important;color:#fff!important}
+.lc-dosug section.cta a.idea{background:rgba(255,255,255,.16)!important;color:#fff!important;padding:8px 12px!important;font:500 14px var(--body)!important;border:1px solid rgba(255,255,255,.55)}
+.lc-dosug section.cta a.idea:hover{background:#fff!important;color:var(--btnh)!important}
+.lc-dosug section.e-cta{display:grid!important;align-items:stretch!important;gap:0!important;grid-template-columns:1.1fr 1fr;background:#fff!important;color:var(--ink)!important;padding:0!important;border:0!important}
+.lc-dosug section.e-cta::after{display:none}
+.lc-dosug .e-cta .l{background:var(--btn);color:#fff;padding:28px 24px}
+.lc-dosug .e-cta .l h2{color:#fff!important;font:900 clamp(24px,4vw,34px)/1.05 var(--body)!important;text-transform:uppercase;margin:0 0 10px}
+.lc-dosug .e-cta .l p{color:#fff;margin:0;font-size:16px}
+.lc-dosug .e-cta .r{padding:24px}
+.lc-dosug .e-cta ol{margin:0 0 16px;padding:0;list-style:none;counter-reset:s}
+.lc-dosug .e-cta li{counter-increment:s;display:flex;gap:12px;margin-bottom:12px;font-size:15px}
+.lc-dosug .e-cta li::before{content:counter(s);flex:none;width:30px;height:30px;background:var(--btn);color:#fff;font:900 15px/30px var(--body);text-align:center}
+.lc-dosug .e-cta a.bbtn{display:inline-block;background:var(--btn)!important;color:#fff!important;font:900 15px var(--body)!important;text-transform:uppercase;padding:13px 22px!important;text-decoration:none}
+.lc-dosug .e-cta a.bbtn:hover{background:var(--btnh)!important}
+@media(max-width:620px){.lc-dosug section.e-cta{grid-template-columns:1fr}
+}
+</style>
+<div class="lc-dosug">
+<div class="wrap">
+<header>
+  
+  <span class="bar" aria-hidden="true"></span>
+  <h1><span class="b">Куда</span> пойти в Дубае</h1>
+</header>
+
+<div class="edbar" id="edbar" hidden>
+  <b>Редактор</b>
+  <button class="seg" data-v="site">Сайт</button>
+  <button class="seg" data-v="pending">На проверке <span id="nPend">0</span></button>
+  <button class="seg" data-v="rejected">Отклонено <span id="nRej">0</span></button>
+  <label class="row" style="gap:6px;font-size:13px;margin-left:auto"><input type="checkbox" id="edOn"> Править карточки на сайте</label>
+  <div class="note" id="edNote">Эту панель видите только вы. Гостям показываются только опубликованные карточки.</div>
+</div>
+<div id="queueBox" hidden>
+  <h2 id="qH">На проверке</h2>
+  <p class="sub" id="qSub">Новые находки из каналов. Отметьте категории и опубликуйте или отклоните.</p>
+  <div class="list" id="queue"></div>
+</div>
+<div id="siteBox">
+
+<div class="when" role="group" aria-label="Когда">
+  <button class="seg" id="w-all" data-w="all">Все предстоящие</button>
+  <button class="seg" id="w-today" data-w="today">Сегодня</button>
+  <button class="seg" id="w-tomorrow" data-w="tomorrow">Завтра</button>
+  <button class="seg" id="w-weekend" data-w="weekend">Ближайшие выходные</button>
+  <button class="seg" id="w-custom" data-w="custom">Свои даты</button>
+</div>
+<div class="range" id="rangeBox" hidden>
+  <label for="d1">с</label><input type="date" id="d1">
+  <label for="d2">по</label><input type="date" id="d2">
+</div>
+<div class="span" id="span"></div>
+
+<div class="filters">
+  <div class="row"><span class="lbl">Что</span><div class="row" id="cats"></div></div>
+  <div class="row" id="subRow" hidden><span class="lbl">Вид спорта</span><div class="row" id="subs"></div></div>
+  <div class="row"><span class="lbl">Для кого</span><div class="row" id="auds"></div></div>
+  <div class="row"><span class="lbl">Где</span><div class="row" id="cities"></div></div>
+  <div class="row"><label class="lbl" for="q">Поиск</label><input id="q" type="search" placeholder="Название, место, район…"></div>
+</div>
+
+<h2 id="evH">События</h2>
+<p class="sub" id="evSub"></p>
+<div class="list" id="events"></div>
+
+<h2 id="vnH">Доступный досуг</h2>
+<p class="sub">Парки, музеи, выставки, сезонные площадки и кафе — работают в выбранные даты, можно прийти в любой день.</p>
+<div class="list" id="venues"></div>
+
+</div>
+<section class="cta e-cta" aria-labelledby="ctaH">
+  <div class="l"><h2 id="ctaH">Ваша идея может стать новым местом</h2><p>Расскажите, чего вам не хватает рядом с домом.</p></div>
+  <div class="r"><ol><li>Расскажите, какого досуга вам не хватает</li><li>Мы соберём ответы жителей по районам</li><li>Покажем их тем, кто открывает студии, клубы и площадки</li></ol><a id="ctaA" class="bbtn" href="https://lovely.city/" target="_blank" rel="noopener">Рассказать</a></div>
+</section>
+
+</div>
+
+<script>
+const EVENTS = [];
+let ITEMS = EVENTS.map(e=>Object.assign({status:"approved"},e));
+let DB=null, EDITOR=false, view="site", edOn=false;
+const CATS = {concert:"Концерты и шоу",places:"Интересные места",sport:"Спорт",sportev:"Спортивные события",master:"Мастер-классы",hobby:"Хобби и курсы",expo:"Выставки и лекции",weekend:"Куда сходить на выходные",date:"Куда сходить на свидание",games:"Игры и общение"};
+const SUBS = {padel:"Падел",tennis:"Теннис",dance:"Танцы",yoga:"Йога и пилатес",water:"Водный спорт",riding:"Верховая езда",winter:"Каток и лыжи",run:"Бег",cycle:"Вело",fight:"Единоборства",outdoor:"Хайкинг и выезды",other:"Другое"};
+const OLD2NEW = {kidsfun:"weekend",kidsdev:"hobby",adults:"date",sport:"sport",yoga:"sport",food:"date",beauty:"date",cowork:"places",other:"weekend"};
+const tagsRaw = e => Array.isArray(e.tags)&&e.tags.length ? e.tags : [...new Set((e.cats||[]).map(c=>OLD2NEW[c]||"weekend"))];
+const SURVEY = {sportev:"sport",concert:"razvlecheniya-dlya-vzroslyh",places:"razvlecheniya-dlya-vzroslyh",sport:"sport",master:"razvlecheniya-dlya-vzroslyh",hobby:"razvlecheniya-dlya-vzroslyh",expo:"razvlecheniya-dlya-vzroslyh",weekend:"razvlecheniya-dlya-detej",date:"razvlecheniya-dlya-vzroslyh",games:"razvlecheniya-dlya-vzroslyh"};
+const AUDS = {any:"Все",kids:"С детьми",adults:"Взрослым"};
+const MON = ["янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"];
+const WD = ["вс","пн","вт","ср","чт","пт","сб"];
+const state = {w:"weekend", cat:null, sub:null, aud:"any", city:"all", q:"", d1:"", d2:""};
+try{const s=JSON.parse(localStorage.getItem("leisure-f")||"null"); if(s){state.w=s.w||state.w; state.aud=s.aud||"any"; state.city=s.city||"all";}}catch(e){}
+
+const iso = d => d.toISOString().slice(0,10);
+const parse = s => new Date(s+"T00:00:00Z");
+const add = (s,n) => { const d=parse(s); d.setUTCDate(d.getUTCDate()+n); return iso(d); };
+const TODAY = iso(new Date(Date.now()+4*3600e3)); // время Дубая, UTC+4
+const FAR = "2099-12-31";
+
+function windowFor(){
+  if(state.w==="today") return [TODAY,TODAY];
+  if(state.w==="tomorrow"){const t=add(TODAY,1);return [t,t];}
+  if(state.w==="weekend"){const g=parse(TODAY).getUTCDay(); if(g===0) return [TODAY,TODAY]; const sat=add(TODAY,(6-g+7)%7); return [sat,add(sat,1)];}
+  if(state.w==="custom"){let a=state.d1||TODAY,b=state.d2||a; if(b<a)[a,b]=[b,a]; return [a,b];}
+  return [TODAY,FAR];
+}
+function fmt(s){const d=parse(s);return d.getUTCDate()+" "+MON[d.getUTCMonth()];}
+function fmtRange(a,b){ if(!b||a===b) return fmt(a); const A=parse(a),B=parse(b); if(A.getUTCMonth()===B.getUTCMonth()&&A.getUTCFullYear()===B.getUTCFullYear()) return A.getUTCDate()+"–"+B.getUTCDate()+" "+MON[B.getUTCMonth()]; return fmt(a)+" – "+fmt(b);}
+function wdOf(s){return WD[parse(s).getUTCDay()];}
+
+function matches(e,a,b){
+  if(e.ty==="venue") return (!e.st || e.st<=b) && (!e.en || e.en>=a);
+  const st=e.st||"1900-01-01", en=e.en||(e.ty==="recurring"?FAR:st);
+  if(st>b||en<a) return false;
+  if(e.ty!=="recurring") return true;
+  let from = a>st?a:st, to = b<en?b:en, n=0;
+  for(let d=from; d<=to && n<8; d=add(d,1), n++) if(e.wd.includes(parse(d).getUTCDay())) return true;
+  return false;
+}
+function weekendWin(){const g=parse(TODAY).getUTCDay(); if(g===0) return [TODAY,TODAY]; const sat=add(TODAY,(6-g+7)%7); return [sat,add(sat,1)];}
+function tagsOf(e){const s=new Set(tagsRaw(e)); if(e.ty!=="venue"){const [a,b]=weekendWin(); if(matches(e,a,b)) s.add("weekend");} return s;}
+function passFilters(e,{cat=true}={}){
+  if(cat && state.cat && !tagsOf(e).has(state.cat)) return false;
+  if(cat && (state.cat==="sport"||state.cat==="sportev") && state.sub && e.sub!==state.sub) return false;
+  if(state.aud==="kids" && !(e.aud==="kids"||e.aud==="all")) return false;
+  if(state.aud==="adults" && !(e.aud==="adults"||e.aud==="all")) return false;
+  if(state.city==="dubai" && e.city!=="Дубай") return false;
+  if(state.city==="ad" && e.city!=="Абу-Даби") return false;
+  if(state.city==="other" && (e.city==="Дубай"||e.city==="Абу-Даби")) return false;
+  if(state.q){const h=(e.ti+" "+e.pl+" "+e.sm+" "+e.city).toLowerCase(); if(!h.includes(state.q)) return false;}
+  return true;
+}
+const esc = s => String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function dateCell(e,a){
+  if(e.ty==="venue") return e.st&&e.st>TODAY?`с ${fmt(e.st)}<small>${e.en?"до "+fmt(e.en):"откроется"}</small>`:(e.en?`работает<small>до ${fmt(e.en)}</small>`:(e.st&&e.st>=add(TODAY,-21)?`открыто<small>с ${fmt(e.st)}</small>`:`в любой день`));
+  if(e.ty==="recurring"){const days=e.wd.length===7?"ежедневно":e.wd.map(x=>WD[x]).join(", "); return `${days}<small>${e.en?"до "+fmt(e.en):"регулярно"}</small>`;}
+  const st=e.st,en=e.en||st, now = st<TODAY && en>=TODAY;
+  let h = fmtRange(st,en) + `<small>${st===en?wdOf(st):wdOf(st)+" – "+wdOf(en)}</small>`;
+  if(now) h += `<span class="now">идёт сейчас</span>`; else if(st===TODAY) h+=`<span class="now">сегодня</span>`;
+  return h;
+}
+function card(e,a){
+  const audT = e.aud==="kids"?"детям":e.aud==="adults"?"взрослым":"всей семье";
+  const links = [];
+  // гостям — только ссылка на само событие или организатора; пост в Telegram видит только редактор
+  const u=String(e.u||"");
+  if(e.src==="pl") links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Билеты на Platinumlist ↗</a>`);
+  else {
+    if(u && !/t\.me\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/instagram\.com/.test(u)?"Организатор в Instagram ↗":/platinumlist/.test(u)?"Билеты на Platinumlist ↗":"Сайт организатора ↗"}</a>`);
+    if(EDITOR && e.s && e.p) links.push(`<a href="https://t.me/${esc(e.s)}/${esc(e.p)}" target="_blank" rel="noopener">Источник в Telegram (видно только вам) ↗</a>`);
+  }
+  return `<article class="item"><div class="date">${dateCell(e,a)}</div><div style="min-width:0">
+    <h3>${esc(e.ti)}</h3><div class="meta">${esc(e.pl)}${e.city&&!String(e.pl).includes(e.city)?" · "+esc(e.city):""}</div>
+    <p>${esc(e.sm)}</p>
+    <div class="tags">${[...tagsOf(e)].map(c=>`<span class="tag">${c==="sport"&&e.sub&&SUBS[e.sub]?SUBS[e.sub]:CATS[c]}</span>`).join("")}<span class="tag">${audT}</span>${e.pr?`<span class="tag price">${esc(e.pr)}</span>`:""}</div>
+    <div class="links">${links.join("")}</div>${(EDITOR&&(edOn||view!=="site"))?editor(e):""}</div></article>`;
+}
+
+function editor(e){
+  const id=esc(e.id);
+  const tg=tagsRaw(e);
+  const chips=Object.keys(CATS).map(k=>`<button class="chip" data-act="cat" data-id="${id}" data-c="${k}" aria-pressed="${tg.includes(k)}">${CATS[k]}</button>`).join("")
+    + ((tg.includes("sport")||tg.includes("sportev"))?`<select aria-label="Вид спорта" data-act="f" data-f="sub" data-id="${id}">${Object.entries(SUBS).map(([k,v])=>`<option value="${k}"${(e.sub||"other")===k?" selected":""}>${v}</option>`).join("")}</select>`:"");
+  const st=e.status||"approved";
+  const acts = st==="approved" ? `<button class="btn no" data-act="status" data-id="${id}" data-s="rejected">Снять с сайта</button>`
+    : st==="pending" ? `<button class="btn ok" data-act="status" data-id="${id}" data-s="approved">Опубликовать</button><button class="btn no" data-act="status" data-id="${id}" data-s="rejected">Отклонить</button>`
+    : `<button class="btn" data-act="status" data-id="${id}" data-s="pending">Вернуть на проверку</button>`;
+  return `<div class="ed">
+    <div class="row"><span class="st ${st}">${st==="approved"?"на сайте":st==="pending"?"на проверке":"отклонено"}</span><input type="text" aria-label="Название" data-act="f" data-f="ti" data-id="${id}" value="${esc(e.ti)}"></div>
+    <div class="row">${chips}</div>
+    <div class="row"><label>Ссылка организатора</label><input type="text" aria-label="Ссылка организатора" data-act="f" data-f="u" data-id="${id}" value="${esc(e.u)}" placeholder="https://…"></div>
+    <div class="row"><label>Для кого</label><select data-act="f" data-f="aud" data-id="${id}">${[["all","всей семье"],["kids","детям"],["adults","взрослым"]].map(([v,l])=>`<option value="${v}"${e.aud===v?" selected":""}>${l}</option>`).join("")}</select>
+      ${e.ty==="venue"?"":`<label>с</label><input type="date" data-act="f" data-f="st" data-id="${id}" value="${esc(e.st)}"><label>по</label><input type="date" data-act="f" data-f="en" data-id="${id}" value="${esc(e.en)}">`}</div>
+    <div class="row">${acts}<span class="saving" data-saving="${id}"></span></div></div>`;
+}
+const chains={};
+function save(id,patch){
+  const it=ITEMS.find(x=>x.id===id); if(!it) return;
+  Object.assign(it,patch); render();
+  if(!DB) return;
+  const el=()=>document.querySelector(`[data-saving="${CSS.escape(id)}"]`);
+  chains[id]=(chains[id]||Promise.resolve()).then(()=>DB.collection("items").doc(id).update(Object.assign({},patch,{updatedAt:new Date().toISOString()})))
+    .then(()=>{const s=el(); if(s) s.textContent="Сохранено";})
+    .catch(err=>{const s=el(); if(s) s.textContent="Не сохранилось: "+(err&&err.code||"ошибка")+". Обновите страницу и попробуйте ещё раз.";});
+}
+function onEdit(ev){
+  const t=ev.target.closest("[data-act]"); if(!t||!EDITOR) return;
+  const id=t.dataset.id, it=ITEMS.find(x=>x.id===id); if(!it) return;
+  if(ev.type==="click"&&t.dataset.act==="cat"){const c=t.dataset.c, cur=tagsRaw(it); let cs=cur.includes(c)?cur.filter(x=>x!==c):[...cur,c]; if(!cs.length) return; const p={tags:cs}; if((c==="sport"||c==="sportev")&&cs.includes(c)&&!it.sub) p.sub="other"; save(id,p);}
+  if(ev.type==="click"&&t.dataset.act==="status") save(id,{status:t.dataset.s});
+  if(ev.type==="change"&&t.dataset.act==="f"){const v=t.value.trim(); if(t.dataset.f==="ti"&&!v) return; save(id,{[t.dataset.f]:v});}
+}
+["events","venues","queue"].forEach(k=>{const el=document.getElementById(k); el.addEventListener("click",onEdit); el.addEventListener("change",onEdit);});
+function renderEditor(){
+  const bar=document.getElementById("edbar"); bar.hidden=!EDITOR; if(!EDITOR) return;
+  bar.querySelectorAll(".seg").forEach(x=>x.setAttribute("aria-pressed",x.dataset.v===view));
+  const pend=ITEMS.filter(e=>e.status==="pending"), rej=ITEMS.filter(e=>e.status==="rejected");
+  document.getElementById("nPend").textContent=pend.length; document.getElementById("nRej").textContent=rej.length;
+  document.getElementById("siteBox").hidden = view!=="site";
+  document.getElementById("queueBox").hidden = view==="site";
+  if(view!=="site"){
+    const list=(view==="pending"?pend:rej).slice().sort((x,y)=>(y.d||"").localeCompare(x.d||""));
+    document.getElementById("qH").textContent = view==="pending"?"На проверке":"Отклонено";
+    document.getElementById("qSub").textContent = view==="pending"?"Новые находки из каналов. Отметьте категории, поправьте название или даты и опубликуйте или отклоните.":"Карточки, которые не попадут на сайт. Любую можно вернуть на проверку.";
+    document.getElementById("queue").innerHTML = list.map(e=>card(e,TODAY)).join("") || `<div class="empty">${view==="pending"?"Очередь пуста. Новые находки появятся после ежедневного обновления.":"Отклонённых нет."}</div>`;
+  }
+}
+function render(){
+  renderEditor();
+  const [a,b]=windowFor();
+  document.querySelectorAll(".seg").forEach(x=>x.setAttribute("aria-pressed",x.dataset.w===state.w));
+  document.getElementById("rangeBox").hidden = state.w!=="custom";
+  document.getElementById("span").textContent = b===FAR ? `с ${fmt(a)} и дальше` : (a===b?`${fmt(a)}, ${wdOf(a)}`:`${fmtRange(a,b)} · ${wdOf(a)}–${wdOf(b)}`);
+  const inWin = ITEMS.filter(e=>(e.status||"approved")==="approved" && matches(e,a,b));
+  // счётчики категорий по текущему окну и прочим фильтрам
+  const base = inWin.filter(e=>passFilters(e,{cat:false}));
+  const cnt={}, scnt={}; base.forEach(e=>{const t=tagsOf(e); t.forEach(c=>cnt[c]=(cnt[c]||0)+1); if(state.cat&&t.has(state.cat)){const k=e.sub||"other"; scnt[k]=(scnt[k]||0)+1;}});
+  document.getElementById("cats").innerHTML = `<button class="chip" data-cat="" aria-pressed="${!state.cat}">Все</button>` + Object.keys(CATS).filter(k=>cnt[k]||state.cat===k).map(k=>`<button class="chip" data-cat="${k}" aria-pressed="${state.cat===k}">${CATS[k]}<span class="n">${cnt[k]||0}</span></button>`).join("");
+  document.getElementById("subRow").hidden = !(state.cat==="sport"||state.cat==="sportev");
+  document.getElementById("subs").innerHTML = `<button class="chip" data-sub="" aria-pressed="${!state.sub}">Все виды</button>` + Object.keys(SUBS).filter(k=>scnt[k]||state.sub===k).map(k=>`<button class="chip" data-sub="${k}" aria-pressed="${state.sub===k}">${SUBS[k]}<span class="n">${scnt[k]||0}</span></button>`).join("");
+  document.getElementById("auds").innerHTML = Object.entries(AUDS).map(([k,v])=>`<button class="chip" data-aud="${k}" aria-pressed="${state.aud===k}">${v}</button>`).join("");
+  document.getElementById("cities").innerHTML = [["all","Все"],["dubai","Дубай"],["ad","Абу-Даби"],["other","Другие эмираты"]].map(([k,v])=>`<button class="chip" data-city="${k}" aria-pressed="${state.city===k}">${v}</button>`).join("");
+  const shown = inWin.filter(passFilters);
+  const evs = shown.filter(e=>e.ty!=="venue").sort((x,y)=>{const xs=(x.st||"")<a?a:x.st, ys=(y.st||"")<a?a:y.st; return xs<ys?-1:xs>ys?1:(x.en||x.st||"").localeCompare(y.en||y.st||"");});
+  const vns = shown.filter(e=>e.ty==="venue").sort((x,y)=>(y.st||y.d).localeCompare(x.st||x.d));
+  document.getElementById("evSub").textContent = evs.length ? `${evs.length} ${plural(evs.length,"событие","события","событий")} в выбранные даты` : "";
+  document.getElementById("events").innerHTML = evs.map(e=>card(e,a)).join("") || `<div class="empty">В эти даты событий не нашлось. Попробуйте другие дни или уберите фильтры — места ниже открыты всегда.</div>`;
+  document.getElementById("venues").innerHTML = vns.map(e=>card(e,a)).join("") || `<div class="empty">Под эти фильтры мест нет.</div>`;
+  const one = state.cat;
+  document.getElementById("ctaA").href = "https://lovely.city/"+(one?SURVEY[one]+"/":""); document.querySelectorAll(".ctaB").forEach(x=>x.href=document.getElementById("ctaA").href);
+  
+  try{localStorage.setItem("leisure-f",JSON.stringify({w:state.w,aud:state.aud,city:state.city}));}catch(e){}
+}
+function plural(n,a,b,c){const m=n%10,h=n%100;return m===1&&h!==11?a:m>=2&&m<=4&&(h<12||h>14)?b:c;}
+
+document.querySelector(".when").addEventListener("click",ev=>{const t=ev.target.closest(".seg"); if(!t) return; state.w=t.dataset.w; if(state.w==="custom"&&!state.d1){state.d1=TODAY; state.d2=add(TODAY,6); d1.value=state.d1; d2.value=state.d2;} render();});
+document.querySelector(".filters").addEventListener("click",ev=>{const t=ev.target.closest(".chip"); if(!t) return;
+  if(t.dataset.cat!==undefined){const k=t.dataset.cat||null; state.cat = state.cat===k?null:k; state.sub=null;}
+  if(t.dataset.sub!==undefined){state.sub=t.dataset.sub||null;}
+  if(t.dataset.aud) state.aud=t.dataset.aud;
+  if(t.dataset.city) state.city=t.dataset.city;
+  render();});
+const d1=document.getElementById("d1"), d2=document.getElementById("d2");
+d1.addEventListener("change",()=>{state.d1=d1.value; render();});
+d2.addEventListener("change",()=>{state.d2=d2.value; render();});
+document.getElementById("q").addEventListener("input",ev=>{state.q=ev.target.value.trim().toLowerCase(); render();});
+if(state.w==="custom"){state.d1=TODAY;state.d2=add(TODAY,6);d1.value=state.d1;d2.value=state.d2;}
+render();
+document.getElementById("edbar").addEventListener("click",ev=>{const t=ev.target.closest(".seg"); if(!t) return; view=t.dataset.v; render();});
+document.getElementById("edOn").addEventListener("change",ev=>{edOn=ev.target.checked; render();});
+(async()=>{
+  try{
+    const c=window.claude; if(!c||!c.use) return;
+    const [db,user]=await Promise.all([c.use("db"),c.use("user")]);
+    if(!db) return;
+    DB=db;
+    EDITOR = !!(user && ((await user.isOwner()) || (await user.canEdit())));
+    db.collection("items").onSnapshot(snap=>{
+      if(snap.empty){ render(); return; }
+      ITEMS = snap.docs.map(d=>Object.assign({id:d.id},d.data())).filter(e=>Array.isArray(e.tags)||Array.isArray(e.cats));
+      render();
+    },()=>{});
+    render();
+  }catch(e){}
+})();
+
+(async()=>{try{const r=await fetch("https://raw.githubusercontent.com/lovely-city/events/main/events.json?t="+Math.floor(Date.now()/3600e3),{cache:"no-store"});const d=await r.json();if(Array.isArray(d)&&!DB){ITEMS=d.map(e=>Object.assign({status:"approved"},e));render();}}catch(e){}})();
+</script>
+</div>
