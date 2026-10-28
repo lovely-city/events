@@ -154,7 +154,7 @@ function render(){
   document.getElementById("events").innerHTML = evs.map(e=>card(e,a)).join("") || `<div class="empty">${T("В эти даты событий не нашлось. Попробуйте другие дни или уберите фильтры — места ниже открыты всегда.","No events on these dates. Try other days or clear the filters — the places below are open any day.")}</div>`;
   document.getElementById("venues").innerHTML = vns.map(e=>card(e,a)).join("") || `<div class="empty">${T("Под эти фильтры мест нет.","No places match these filters.")}</div>`;
   const one = state.cat;
-  document.getElementById("ctaA").href = "https://lovely.city/"+(one?SURVEY[one]+"/":""); document.querySelectorAll(".ctaB").forEach(x=>x.href=document.getElementById("ctaA").href);
+  document.getElementById("ctaA").href = "https://lovely.city/"+(one?SURVEY[one]+"/":(EN?"en/":"")); document.querySelectorAll(".ctaB").forEach(x=>x.href=document.getElementById("ctaA").href);
   
   try{localStorage.setItem("leisure-f",JSON.stringify({w:state.w,aud:state.aud,city:state.city}));}catch(e){}
 }
