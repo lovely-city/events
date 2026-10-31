@@ -75,7 +75,7 @@ function card(e,a){
   const u=String(e.u||"");
   if(e.src==="pl") links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${T("Билеты на Platinumlist","Tickets on Platinumlist")} ↗</a>`);
   else {
-    if(u && !/t\.me\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/instagram\.com/.test(u)?T("Организатор в Instagram ↗","Organiser on Instagram ↗"):/platinumlist/.test(u)?T("Билеты на Platinumlist ↗","Tickets on Platinumlist ↗"):T("Сайт организатора ↗","Organiser website ↗")}</a>`);
+    if(u && !/t\.me\/c\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/t\.me\//.test(u)?T("Подробнее в Telegram ↗","More on Telegram ↗"):/instagram\.com/.test(u)?T("Организатор в Instagram ↗","Organiser on Instagram ↗"):/platinumlist/.test(u)?T("Билеты на Platinumlist ↗","Tickets on Platinumlist ↗"):T("Сайт организатора ↗","Organiser website ↗")}</a>`);
     if(EDITOR && e.s && e.p) links.push(`<a href="https://t.me/${esc(e.s)}/${esc(e.p)}" target="_blank" rel="noopener">Источник в Telegram (видно только вам) ↗</a>`);
   }
   return `<article class="item"><div class="date">${dateCell(e,a)}</div><div style="min-width:0">
