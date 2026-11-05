@@ -4182,7 +4182,10 @@
 "ti": "Семейный бранч в Sana",
 "ty": "recurring",
 "u": "https://www.jumeirah.com/en/stay/dubai/jumeirah-mina-a-salam/dining/mina-a-salam-sana",
-"id": "tg-dubai_petrovich-15429"
+"id": "tg-dubai_petrovich-15429",
+"wd": [
+0
+]
 },
 {
 "aud": "all",
@@ -6037,7 +6040,10 @@
 "ti": "Way of Water — воскресные яхт-вечеринки The Morning Party",
 "ty": "recurring",
 "u": "https://www.themorningparty.com",
-"id": "tg-dubai_pike-9307"
+"id": "tg-dubai_pike-9307",
+"wd": [
+0
+]
 },
 {
 "aud": "all",
@@ -6273,7 +6279,16 @@
 "ti": "Camelicious — экскурсия на верблюжью ферму",
 "ty": "recurring",
 "u": "https://camelicious.ae/pages/farm-tour",
-"id": "tg-dubaidecode-2815"
+"id": "tg-dubaidecode-2815",
+"wd": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+]
 },
 {
 "aud": "all",
@@ -6351,7 +6366,10 @@
 "ti": "Бесплатные субботние мастер-классы для детей в Safari Park",
 "ty": "recurring",
 "u": "https://www.dubaisafari.ae/",
-"id": "tg-dubaidecode-2878"
+"id": "tg-dubaidecode-2878",
+"wd": [
+6
+]
 },
 {
 "aud": "adults",
@@ -6536,7 +6554,11 @@
 "ti": "Ripe Market — фермерский и семейный маркет",
 "ty": "recurring",
 "u": "https://ripeme.com/the-ripe-markets/",
-"id": "tg-dubaidecode-2894"
+"id": "tg-dubaidecode-2894",
+"wd": [
+6,
+0
+]
 },
 {
 "aud": "all",
@@ -7015,7 +7037,10 @@
 "ti": "Klaster: проекты для подростков 14–20 лет",
 "ty": "recurring",
 "u": "https://theyoungceo.klaster.me/",
-"id": "tg-dubaidecode-2945"
+"id": "tg-dubaidecode-2945",
+"wd": [
+6
+]
 },
 {
 "aud": "all",
@@ -7492,7 +7517,15 @@
 "ti": "Bungee at Yas Bay — банджи-джампинг",
 "ty": "recurring",
 "u": "https://www.khaleejtimes.com/travel/uae-attractions/bungee-at-yas-bay-yas-island-abu-dhabi-nov-1-2026-tickets-from-dh299",
-"id": "tg-dubaitop777-9449"
+"id": "tg-dubaitop777-9449",
+"wd": [
+0,
+2,
+3,
+4,
+5,
+6
+]
 },
 {
 "aud": "all",
@@ -7886,7 +7919,16 @@
 "ti": "Padel Club: игры и тренировки каждый день",
 "ty": "recurring",
 "u": "",
-"id": "tg-padel_club-43883"
+"id": "tg-padel_club-43883",
+"wd": [
+0,
+1,
+2,
+3,
+4,
+5,
+6
+]
 },
 {
 "aud": "adults",
@@ -7936,7 +7978,11 @@
 "ti": "Американо с тренером для девушек (Dock and Court)",
 "ty": "recurring",
 "u": "https://app.padelindubai.club/",
-"id": "tg-padeldubai-35182-24"
+"id": "tg-padeldubai-35182-24",
+"wd": [
+2,
+4
+]
 },
 {
 "aud": "adults",
@@ -7962,7 +8008,10 @@
 "ti": "Американо для новичков D/D+ (Casa Padel)",
 "ty": "recurring",
 "u": "https://app.padelindubai.club/",
-"id": "tg-padeldubai-35182"
+"id": "tg-padeldubai-35182",
+"wd": [
+2
+]
 },
 {
 "aud": "adults",
@@ -8063,7 +8112,10 @@
 "ti": "«Квиз, плиз!» — командная игра",
 "ty": "recurring",
 "u": "https://dubai.quizplease.com/",
-"id": "tg-quizplease_dubai-1233"
+"id": "tg-quizplease_dubai-1233",
+"wd": [
+0
+]
 },
 {
 "aud": "all",
