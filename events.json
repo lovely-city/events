@@ -1751,32 +1751,6 @@
 "adults"
 ],
 "city": "Дубай",
-"d": "2026-10-30",
-"en": "2026-11-06",
-"id": "pl-desiree-at-be-beach-dubai",
-"p": 0,
-"pl": "Be Beach, Dubai Harbour; 20:00",
-"pr": "от 100 AED",
-"s": "pl",
-"sm": "Music & dance.",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"date",
-"weekend"
-],
-"ti": "Desiree at Be Beach",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/109555/desiree-at-be-beach-dubai"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
 "d": "2026-10-26",
 "en": "2026-11-07",
 "id": "pl-dhb-at-skydive-dubai",
@@ -1979,32 +1953,6 @@
 "ti": "Echoes of Japan: Whispers in the Winds",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/109711/echoes-of-japan-whispers-in-the-winds"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-10-27",
-"en": "2026-11-06",
-"id": "pl-eden-presents-ahmet-kilic-live-at-cavo-in-dubai",
-"p": 0,
-"pl": "Cavo, Ramee Dream Hotel",
-"pr": "от 150 AED",
-"s": "pl",
-"sm": "",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert",
-"date"
-],
-"ti": "Ahmet Kilic live в Cavo",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/108923/eden-presents-ahmet-kilic-live-at-cavo-in-dubai"
 },
 {
 "aud": "adults",
@@ -2933,31 +2881,6 @@
 "adults"
 ],
 "city": "Дубай",
-"d": "2026-10-30",
-"en": "2026-11-06",
-"id": "pl-new-covent-garden-presents-the-laughter-lounge-by-3albaraka",
-"p": 0,
-"pl": "The New Covent Garden Theatre",
-"pr": "от 80 AED",
-"s": "pl",
-"sm": "",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert"
-],
-"ti": "The Laughter Lounge by 3albaraka — стендап",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/109215/new-covent-garden-presents-the-laughter-lounge-by-3albaraka"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
 "d": "2026-10-26",
 "en": "2026-12-31",
 "id": "pl-new-years-eve-under-the-stars-gala-dinner-featuring-katy-perry-in-dubai",
@@ -3085,31 +3008,6 @@
 ],
 "city": "Дубай",
 "d": "2026-10-26",
-"en": "2026-11-06",
-"id": "pl-orkestr",
-"p": 0,
-"pl": "Dubai Performing Arts Academy",
-"pr": "от 160 AED",
-"s": "pl",
-"sm": "Спектакль на русском.",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert"
-],
-"ti": "Спектакль «Оркестр»",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/108814/orkestr"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-10-26",
 "en": "2026-11-20",
 "id": "pl-pesocnye-celovecki",
 "p": 0,
@@ -3179,31 +3077,6 @@
 "ti": "Pluma — цирковое шоу",
 "ty": "range",
 "u": "https://dubai.platinumlist.net/event-tickets/pluma"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-10-26",
-"en": "2026-11-06",
-"id": "pl-queen-of-the-night-in-dubai",
-"p": 0,
-"pl": "Дубай",
-"pr": "от 290 AED",
-"s": "pl",
-"sm": "",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"weekend"
-],
-"ti": "Queen of the Night",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/108961/queen-of-the-night-in-dubai"
 },
 {
 "aud": "adults",
@@ -3702,33 +3575,6 @@
 "u": "https://dubai.platinumlist.net/event-tickets/106971/synthony-x-faithless-live-in-dubai"
 },
 {
-"aud": "all",
-"cats": [
-"adults",
-"kidsfun"
-],
-"city": "Дубай",
-"d": "2026-10-26",
-"en": "2026-11-06",
-"id": "pl-tabletopme",
-"p": 0,
-"pl": "Dubai Outlet Mall, Convention Center",
-"pr": "от 49 AED",
-"s": "pl",
-"sm": "",
-"src": "pl",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"games",
-"weekend"
-],
-"ti": "tabletop.me — фестиваль настольных игр",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/tabletopme"
-},
-{
 "aud": "adults",
 "cats": [
 "adults"
@@ -4198,56 +4044,6 @@
 "ti": "Музыкальный вечер в пустыне",
 "ty": "once",
 "u": "https://t.me/+qZBVOzzdb-U3ZDgy"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-04",
-"en": "2026-11-06",
-"id": "tg-c3051419488-2440",
-"p": 2440,
-"pl": "La Cantine; 19:00",
-"pr": "160 AED",
-"s": "c/3051419488",
-"sm": "Микст-турнир сообщества LUNA PADEL, уровень C/D+; вода, мячи победителям, медали за 2–3 места.",
-"src": "tg",
-"st": "2026-11-06",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "Mixed Doubles от LUNA PADEL",
-"ty": "once",
-"u": ""
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-05",
-"en": "2026-11-06",
-"id": "tg-c3051419488-2441",
-"p": 2441,
-"pl": "Playce; 20:30",
-"pr": "140 AED",
-"s": "c/3051419488",
-"sm": "Турнир сообщества LUNA PADEL, уровень C/D+, место подтверждается после оплаты.",
-"src": "tg",
-"st": "2026-11-06",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "King of the Court от LUNA PADEL в Playce",
-"ty": "once",
-"u": ""
 },
 {
 "aud": "adults",
@@ -8617,6 +8413,81 @@
 "ti": "Shrimp of the Court — падел-турнир в Casa Padel",
 "ty": "once",
 "u": "https://playtomic.com/clubs/casa-padel-ripe-market"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-07",
+"en": "2026-11-09",
+"id": "tg-padeldubai-35754",
+"p": 35754,
+"pl": "PAUS Club, Jumeirah; 21:30",
+"pr": "150 AED",
+"s": "padeldubai",
+"sm": "Игра сообщества «Падел в Дубае» для всех уровней D–C+; запись через бота.",
+"src": "tg",
+"st": "2026-11-09",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "Король корта в PAUS Club",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-07",
+"en": "2026-11-10",
+"id": "tg-padeldubai-35756",
+"p": 35756,
+"pl": "Casa Padel, Ripe Market, Al Khawaneej (открытые корты); 20:30",
+"pr": "",
+"s": "padeldubai",
+"sm": "Традиционный мужской турнир сообщества «Падел в Дубае»: 11 участников, 3 корта и приглашённый профессионал из топ-5 рейтинга FIP России.",
+"src": "tg",
+"st": "2026-11-10",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "TOPOR — мужской падел-турнир с игроком сборной России",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-08",
+"en": "2026-11-10",
+"id": "tg-padeldubai-35768",
+"p": 35768,
+"pl": "PAUS Club, Jumeirah; 21:30",
+"pr": "",
+"s": "padeldubai",
+"sm": "Американо сообщества «Падел в Дубае» для начинающих игроков уровня D/D+; запись через бота.",
+"src": "tg",
+"st": "2026-11-10",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "Американо для новичков D/D+ в PAUS Club",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
 },
 {
 "aud": "adults",
