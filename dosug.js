@@ -73,9 +73,10 @@ function card(e,a){
   const links = [];
   // гостям — только ссылка на само событие или организатора; пост в Telegram видит только редактор
   const u=String(e.u||"");
-  if(e.src==="pl") links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${T("Билеты на Platinumlist","Tickets on Platinumlist")} ↗</a>`);
+  const LBL=T("Перейти на сайт ↗","Go to website ↗");
+  if(e.src==="pl") { if(u) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${LBL}</a>`); }
   else {
-    if(u && !/t\.me\/c\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${/t\.me\//.test(u)?T("Подробнее в Telegram ↗","More on Telegram ↗"):/instagram\.com/.test(u)?T("Организатор в Instagram ↗","Organiser on Instagram ↗"):/platinumlist/.test(u)?T("Билеты на Platinumlist ↗","Tickets on Platinumlist ↗"):T("Сайт организатора ↗","Organiser website ↗")}</a>`);
+    if(u && !/t\.me\/c\//.test(u)) links.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${LBL}</a>`);
     if(EDITOR && e.s && e.p) links.push(`<a href="https://t.me/${esc(e.s)}/${esc(e.p)}" target="_blank" rel="noopener">Источник в Telegram (видно только вам) ↗</a>`);
   }
   return `<article class="item"><div class="date">${dateCell(e,a)}</div><div style="min-width:0">
