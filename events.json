@@ -500,6 +500,32 @@
 ]
 },
 {
+"aud": "all",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "",
+"id": "ig-alserkalavenue-DfkKk89tfQs",
+"p": "",
+"pl": "Hunna Art, Warehouse 49A, Alserkal Avenue",
+"pr": "",
+"s": "",
+"sm": "Новая галерея женщин-художниц Аравийского полуострова открылась первой персональной выставкой эмиратской художницы Wafa Al Falahi «Feathers in the Reeds, Milk in the Mud».",
+"src": "ig",
+"st": "2026-11-10",
+"status": "approved",
+"sub": null,
+"tags": [
+"expo",
+"places"
+],
+"ti": "Hunna Art в Alserkal: выставка Wafa Al Falahi",
+"ty": "venue",
+"u": "https://www.instagram.com/hunna.art/"
+},
+{
 "aud": "adults",
 "cats": [
 "adults"
@@ -555,6 +581,33 @@
 "u": "https://www.instagram.com/artdep_uae/"
 },
 {
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-28",
+"id": "ig-artdep_uae-DfkA38-DhKW",
+"p": "",
+"pl": "Cabinet of Curiosity, Al Quoz; 18:00",
+"pr": "159 AED + VAT до 17.11, затем 189 AED + VAT",
+"s": "",
+"sm": "Вечер об искусстве сюрреализма с искусствоведом в антикварной галерее; на английском. Запись через сайт ArtDep.",
+"src": "ig",
+"st": "2026-11-28",
+"status": "approved",
+"sub": null,
+"tags": [
+"expo",
+"weekend",
+"date"
+],
+"ti": "Сюрреализм: от Дали до Магритта — арт-вечер ArtDep",
+"ty": "once",
+"u": "https://www.instagram.com/artdep_uae/"
+},
+{
 "aud": "all",
 "cats": [
 "other"
@@ -580,6 +633,31 @@
 "ti": "Sharjah International Book Fair",
 "ty": "range",
 "u": "https://expo-centre.ae/event/sharjah-international-book-fair/"
+},
+{
+"aud": "all",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-12-04",
+"id": "ig-dubai_calendar-Dfj_H3NRZbM",
+"p": "",
+"pl": "Coca-Cola Arena",
+"pr": "",
+"s": "",
+"sm": "Концерт саудовского певца с оркестром под управлением Walid Fayed; билеты на Platinumlist.",
+"src": "ig",
+"st": "2026-12-04",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert"
+],
+"ti": "Rashed Al Majed с оркестром — открытие Dubai Shopping Festival",
+"ty": "once",
+"u": "https://www.instagram.com/p/Dfj_H3NRZbM/"
 },
 {
 "aud": "adults",
@@ -1262,6 +1340,61 @@
 {
 "aud": "adults",
 "cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "",
+"id": "mu-badminton-lovers-dubai",
+"p": "",
+"pl": "Danube Sports World, Al Habtoor City; вт 20:00–22:00, сб 13:00–16:00",
+"pr": "вторник 50 AED",
+"s": "",
+"sm": "Регулярные игры в бадминтон для любых уровней, у продвинутых игроков отдельные корты.",
+"src": "mu",
+"st": "2026-11-14",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sport"
+],
+"ti": "Badminton Lovers Dubai: игры для всех уровней",
+"ty": "recurring",
+"u": "https://www.instagram.com/badmintonlovers_dxb/",
+"wd": [
+2,
+6
+]
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-19",
+"id": "mu-hcd-uae-317078032",
+"p": "",
+"pl": "Building A5, Digital Park, Dubai Silicon Oasis; 18:30",
+"pr": "",
+"s": "",
+"sm": "Встреча сообщества Human Centred Design UAE: как изменился дизайн в ОАЭ с 2013 года и что дальше.",
+"src": "mu",
+"st": "2026-11-19",
+"status": "approved",
+"sub": null,
+"tags": [
+"expo",
+"games"
+],
+"ti": "The State of Design: UAE 2026 — встреча дизайнеров HCD UAE",
+"ty": "once",
+"u": "https://www.hcd.ae/"
+},
+{
+"aud": "adults",
+"cats": [
 "adults"
 ],
 "city": "Дубай",
@@ -1600,6 +1733,32 @@
 "adults"
 ],
 "city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-12-05",
+"id": "pl-baithak-ft-talat-aziz-in-dubai",
+"p": 0,
+"pl": "Le Méridien Dubai Hotel & Conference Centre; 19:00",
+"pr": "от 157.50 AED",
+"s": "pl",
+"sm": "Газели и трибьют Мехди Хасану.",
+"src": "pl",
+"st": "2026-12-05",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend"
+],
+"ti": "Baithak: Talat Aziz — вечер газелей",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/109728/baithak-ft-talat-aziz-in-dubai"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
 "d": "2026-11-10",
 "en": "2026-11-19",
 "id": "pl-bassam-wehbe-one-way-ticket",
@@ -1695,6 +1854,33 @@
 "ti": "Bohemia: Miguelle & Tons",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/108621/bohemia-presents-miguelle-tons-in-dubai"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "pl-bohemia-presents-mk-in-dubai",
+"p": 0,
+"pl": "Bohemia, FIVE Palm Jumeirah; 19:00",
+"pr": "от 100 AED",
+"s": "pl",
+"sm": "Сет MK: хаус-хиты.",
+"src": "pl",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"ti": "Bohemia: MK",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/107814/bohemia-presents-mk-in-dubai"
 },
 {
 "aud": "all",
@@ -2319,6 +2505,33 @@
 {
 "aud": "all",
 "cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-29",
+"id": "pl-emirates-dubai-rugby-7s",
+"p": 0,
+"pl": "The Sevens Stadium",
+"pr": "от 455 AED (28.11 с концертом)",
+"s": "pl",
+"sm": "Регби-7 и другие турниры фестиваля; хедлайнер концерта 28 ноября — Akon.",
+"src": "pl",
+"st": "2026-11-27",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sportev",
+"weekend",
+"concert"
+],
+"ti": "Emirates Dubai 7s: регби-фестиваль и концерт Akon",
+"ty": "range",
+"u": "https://dubai.platinumlist.net/event-tickets/emirates-dubai-rugby-7s"
+},
+{
+"aud": "all",
+"cats": [
 "adults"
 ],
 "city": "Дубай",
@@ -2369,6 +2582,33 @@
 "ti": "Live & Kicking: праздничная вечеринка",
 "ty": "range",
 "u": "https://dubai.platinumlist.net/event-tickets/fabulously-festive-party"
+},
+{
+"aud": "all",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-27",
+"id": "pl-fairuz-a-tribute-to-the-voices-of-generations-in-dubai",
+"p": 0,
+"pl": "Theatre of Digital Art (ToDA), Souk Madinat Jumeirah; 19:30",
+"pr": "от 180 AED",
+"s": "pl",
+"sm": "Песни Файруз вживую, истории и проекции на 360°.",
+"src": "pl",
+"st": "2026-11-27",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"ti": "Fairuz: трибьют-концерт в ToDA",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/109610/fairuz-a-tribute-to-the-voices-of-generations-in-dubai"
 },
 {
 "aud": "all",
@@ -2630,6 +2870,32 @@
 "u": "https://dubai.platinumlist.net/event-tickets/109772/hatta-fc-vs-al-ain-fc-adib-cup-4"
 },
 {
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-27",
+"id": "pl-hiba-tawaji-ibrahim-maalouf-a-la-francaise-at-dubai-opera",
+"p": 0,
+"pl": "Dubai Opera; 20:30",
+"pr": "от 355 AED",
+"s": "pl",
+"sm": "Певица Hiba Tawaji и трубач Ibrahim Maalouf исполняют французскую песенную классику.",
+"src": "pl",
+"st": "2026-11-27",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"date"
+],
+"ti": "Hiba Tawaji и Ibrahim Maalouf — «À la Française»",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/107286/hiba-tawaji-ibrahim-maalouf-a-la-francaise-at-dubai-opera"
+},
+{
 "aud": "all",
 "cats": [
 "sport",
@@ -2783,6 +3049,32 @@
 "ti": "Kids & Classics: «Алиса в музыкальной Стране чудес»",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/109381/kids-classics-alice-in-musical-wonderland"
+},
+{
+"aud": "kids",
+"cats": [
+"kidsfun"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "pl-kids-classics-the-frog-prince",
+"p": 0,
+"pl": "Theatre of Digital Art (ToDA), Souk Madinat Jumeirah; 10:30",
+"pr": "от 170 AED",
+"s": "pl",
+"sm": "Музыкальная сказка с живым фортепиано и арфой и проекциями на 360°.",
+"src": "pl",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend"
+],
+"ti": "Kids Classics: «Король-лягушонок»",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/109382/kids-classics-the-frog-prince"
 },
 {
 "aud": "all",
@@ -3403,6 +3695,33 @@
 "adults"
 ],
 "city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "pl-please-leave-by-10-dubai",
+"p": 0,
+"pl": "Studio A, Dubai Harbour; 17:00",
+"pr": "от 140 AED",
+"s": "pl",
+"sm": "Ранняя вечеринка с хитами прошлых лет, диджей Dean Curtis; заканчивается в 22:00.",
+"src": "pl",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"ti": "Please Leave By 10: All Hits Edition",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/please-leave-by-10-dubai"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
 "d": "2026-11-05",
 "en": "2026-11-14",
 "id": "pl-richy-ahmed-house-rules-at-the-penthouse",
@@ -3718,6 +4037,33 @@
 "adults"
 ],
 "city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "pl-soul-of-cavo-featuring-teddy-o-live-in-dubai",
+"p": 0,
+"pl": "Cavo, Dubai; 22:00",
+"pr": "от 150 AED",
+"s": "pl",
+"sm": "Дип-хаус, афро и соул: Teddy-O, Bazz Key, Hellfox и Qtee Rue.",
+"src": "pl",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"ti": "Soul of Cavo: Teddy-O",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/108832/soul-of-cavo-featuring-teddy-o-live-in-dubai"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
 "d": "2026-11-05",
 "en": "2026-11-14",
 "id": "pl-soul-of-cavo-presents-del-campo-live-in-dubai",
@@ -3787,6 +4133,32 @@
 "ti": "Sugar Daddy — мюзикл в рамках DSF",
 "ty": "range",
 "u": "https://dubai.platinumlist.net/event-tickets/109168/sugar-daddy-at-the-dubai-shopping-festival"
+},
+{
+"aud": "all",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "pl-suhani-shah-spellbound",
+"p": 0,
+"pl": "Emirates Theatre; 18:00",
+"pr": "от 150 AED",
+"s": "pl",
+"sm": "Интерактивное шоу чтения мыслей и психологических иллюзий.",
+"src": "pl",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend"
+],
+"ti": "Suhani Shah — «Spellbound», шоу ментализма",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/107478/suhani-shah-spellbound"
 },
 {
 "aud": "adults",
@@ -4448,31 +4820,6 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-07",
-"en": "2026-11-09",
-"id": "tg-c3051419488-2444",
-"p": 2444,
-"pl": "Playce; 21:00–22:30",
-"pr": "135 AED",
-"s": "c/3051419488",
-"sm": "Турнир сообщества LUNA PADEL, уровень C/D+; место подтверждается после оплаты.",
-"src": "tg",
-"st": "2026-11-09",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "King of the Court от LUNA PADEL в Playce",
-"ty": "once",
-"u": ""
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
 "d": "2026-11-08",
 "en": "2026-11-10",
 "id": "tg-c3051419488-2445",
@@ -4489,6 +4836,56 @@
 "sport"
 ],
 "ti": "Pizza & Padel: King of the Court от LUNA PADEL",
+"ty": "once",
+"u": ""
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-11",
+"id": "tg-c3051419488-2448",
+"p": 2448,
+"pl": "ZY Padel; 20:30–22:00",
+"pr": "150 AED",
+"s": "c/3051419488",
+"sm": "Микст-турнир сообщества LUNA PADEL, уровень C/D+; вода, мячи победителям, медали за 2–3 места.",
+"src": "tg",
+"st": "2026-11-11",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "Mixed Doubles от LUNA PADEL",
+"ty": "once",
+"u": ""
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-13",
+"id": "tg-c3051419488-2450",
+"p": 2450,
+"pl": "La Cantine Sports Club (Delano); 19:00–20:30",
+"pr": "160 AED",
+"s": "c/3051419488",
+"sm": "Турнир «Король корта» сообщества LUNA PADEL, уровень C/D+; запись после оплаты.",
+"src": "tg",
+"st": "2026-11-13",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "King of the Court от LUNA PADEL",
 "ty": "once",
 "u": ""
 },
@@ -6190,6 +6587,32 @@
 "ti": "RAK NYE — бесплатный новогодний фестиваль с шоу дронов",
 "ty": "once",
 "u": ""
+},
+{
+"aud": "all",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-09",
+"en": "2026-11-15",
+"id": "tg-dubai_petrovich-16110-3",
+"p": 16110,
+"pl": "Terra, Expo City Dubai; 07:00–13:00",
+"pr": "",
+"s": "dubai_petrovich",
+"sm": "Утро тренировок, активностей и здоровья в павильоне Terra.",
+"src": "tg",
+"st": "2026-11-15",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sport",
+"weekend"
+],
+"ti": "The Good Energy Club — день фитнеса и здоровья",
+"ty": "once",
+"u": "https://terra.expocitydubai.com/en/poi/good-energy-club"
 },
 {
 "aud": "all",
@@ -8309,6 +8732,32 @@
 {
 "aud": "adults",
 "cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-30",
+"id": "tg-dubaitop777-9578",
+"p": 9578,
+"pl": "adidas, Dubai Hills Mall",
+"pr": "Бесплатно",
+"s": "dubaitop777",
+"sm": "Фитнес-челлендж: 99 бёрпи за 4 минуты — кроссовки в подарок, за меньшее число повторов — скидка.",
+"src": "tg",
+"st": "2026-11-10",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sport",
+"sportev"
+],
+"ti": "99 Burpees Challenge в adidas",
+"ty": "range",
+"u": "https://t.me/dubaitop777/9578"
+},
+{
+"aud": "adults",
+"cats": [
 "adults"
 ],
 "city": "Дубай",
@@ -8446,16 +8895,41 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-04",
-"en": "2026-11-09",
-"id": "tg-padel_escape-1617",
-"p": 1617,
-"pl": "CLUB15; 13:00",
+"d": "2026-11-11",
+"en": "2026-11-11",
+"id": "tg-padel_club-44610",
+"p": 44610,
+"pl": "Padel One; 20:00–22:00",
+"pr": "145 AED",
+"s": "padel_club",
+"sm": "Игра «Король корта» сообщества Padel Club для уровня D+/C-.",
+"src": "tg",
+"st": "2026-11-11",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "King Strong D+/C- в Padel One",
+"ty": "once",
+"u": "https://t.me/padel_club/44610"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-11",
+"id": "tg-padel_escape-1871",
+"p": 1871,
+"pl": "CLUB15; 14:00",
 "pr": "160 AED (мячи, вода, медали)",
 "s": "padel_escape",
-"sm": "Турнир сообщества PADEL ESCAPE до 16 участников в новом спортклубе.",
+"sm": "Турнир сообщества PADEL ESCAPE до 12 участников.",
 "src": "tg",
-"st": "2026-11-09",
+"st": "2026-11-11",
 "status": "approved",
 "sub": "padel",
 "tags": [
@@ -8463,7 +8937,7 @@
 ],
 "ti": "Турнир PADEL ESCAPE в CLUB15",
 "ty": "once",
-"u": "https://t.me/padel_escape/1617"
+"u": "https://t.me/padel_escape/1871"
 },
 {
 "aud": "adults",
@@ -8530,31 +9004,6 @@
 ],
 "city": "Дубай",
 "d": "2026-11-07",
-"en": "2026-11-09",
-"id": "tg-padeldubai-35754",
-"p": 35754,
-"pl": "PAUS Club, Jumeirah; 21:30",
-"pr": "150 AED",
-"s": "padeldubai",
-"sm": "Игра сообщества «Падел в Дубае» для всех уровней D–C+; запись через бота.",
-"src": "tg",
-"st": "2026-11-09",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "Король корта в PAUS Club",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-07",
 "en": "2026-11-10",
 "id": "tg-padeldubai-35756",
 "p": 35756,
@@ -8595,6 +9044,31 @@
 "sport"
 ],
 "ti": "Американо для новичков D/D+ в PAUS Club",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-12",
+"id": "tg-padeldubai-35887",
+"p": 35887,
+"pl": "PAUS Club, Jumeirah; 21:30",
+"pr": "150 AED",
+"s": "padeldubai",
+"sm": "Турнир фикс-пар сообщества «Падел в Дубае», уровень C-/C; запись через бота.",
+"src": "tg",
+"st": "2026-11-12",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport"
+],
+"ti": "Фикс-пары «Король корта» C-/C в PAUS Club",
 "ty": "once",
 "u": "https://t.me/PadelDXB_bot"
 },
@@ -8888,6 +9362,32 @@
 "u": "https://dubai.squiz.ru/"
 },
 {
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-11-21",
+"id": "tg-squiz_dubai-2316",
+"p": 2316,
+"pl": "Mr Toad's Pub & Kitchen, Barsha Heights; 18:00",
+"pr": "",
+"s": "squiz_dubai",
+"sm": "Командный квиз на русском: вопросы, общение и новые знакомства.",
+"src": "tg",
+"st": "2026-11-21",
+"status": "approved",
+"sub": null,
+"tags": [
+"games",
+"weekend"
+],
+"ti": "Squiz — квиз в Mr Toad's Pub",
+"ty": "once",
+"u": "https://dubai.squiz.ru/"
+},
+{
 "aud": "all",
 "cats": [
 "sport"
@@ -9098,5 +9598,31 @@
 "ti": "Eva на Mamsha Al Saadiyat",
 "ty": "venue",
 "u": ""
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-11",
+"en": "2026-12-05",
+"id": "tg-sysoevfmdubai-7929",
+"p": 7929,
+"pl": "Дубай; 18:00–22:00",
+"pr": "17 000 AED",
+"s": "sysoevfmdubai",
+"sm": "Пять вечеров подряд, 25 часов практики публичной речи и общения в группе до 8 человек.",
+"src": "tg",
+"st": "2026-11-30",
+"status": "approved",
+"sub": null,
+"tags": [
+"hobby",
+"master"
+],
+"ti": "Курс Киры Альтман «Говорить и быть услышанным»",
+"ty": "range",
+"u": "https://t.me/sysoevfmdubai/7929"
 }
 ]

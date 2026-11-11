@@ -1218,11 +1218,6 @@
 "sm": "Regular morning games of the Let's Padel community; 26 November at iPadel.",
 "pl": "S7 Padel (Creek Harbour); mornings of 9, 11, 12, 16, 19, 23, 30 November"
 },
-"tg-padel_escape-1617": {
-"ti": "PADEL ESCAPE tournament at CLUB15",
-"sm": "PADEL ESCAPE community tournament for up to 16 players at a new sports club.",
-"pr": "160 AED (balls, water, medals)"
-},
 "tg-squiz_dubai-2305": {
 "ti": "Squiz — quiz at Mr Toad's Pub",
 "sm": "7 rounds, 50 questions, 2 hours of team play.",
@@ -1335,18 +1330,10 @@
 "sm": "Musical with live vocals, choreography and 360° effects.",
 "pr": "from 170 AED"
 },
-"tg-c3051419488-2444": {
-"ti": "King of the Court by LUNA PADEL at Playce",
-"sm": "LUNA PADEL community tournament, level C/D+; spot confirmed after payment."
-},
 "tg-creativedubai-29085": {
 "ti": "Poetfest.Dubai — poetry and music night",
 "sm": "Season opening: poets, readers, musicians and artists; perform or just listen. In Russian.",
 "pl": "Synergy University, JLT; 18:00"
-},
-"tg-padeldubai-35754": {
-"ti": "King of the Court at PAUS Club",
-"sm": "Padel in Dubai community game for all levels D–C+; sign up via the bot."
 },
 "tg-padeldubai-35756": {
 "ti": "TOPOR — men's padel tournament with a Russian national team player",
@@ -1565,5 +1552,109 @@
 "sm": "A breakfast meetup for the channel's readers; confirm with the channel's author so a table can be booked.",
 "pl": "BohoX, Downtown (2nd floor); 12:00",
 "pr": "no fee, order from the menu"
+},
+"ig-alserkalavenue-DfkKk89tfQs": {
+"ti": "Hunna Art at Alserkal: Wafa Al Falahi exhibition",
+"sm": "A new gallery for women artists from the Arabian Peninsula opens with Emirati artist Wafa Al Falahi's first solo show, “Feathers in the Reeds, Milk in the Mud”."
+},
+"ig-artdep_uae-DfkA38-DhKW": {
+"ti": "Surrealism from Dalí to Magritte — ArtDep art evening",
+"sm": "An evening on Surrealist art with an art historian at an antiques gallery; in English. Book via the ArtDep website.",
+"pr": "159 AED + VAT until 17 Nov, then 189 AED + VAT"
+},
+"ig-dubai_calendar-Dfj_H3NRZbM": {
+"ti": "Rashed Al Majed with orchestra — Dubai Shopping Festival opening",
+"sm": "The Saudi singer performs with an orchestra conducted by Walid Fayed; tickets on Platinumlist."
+},
+"mu-badminton-lovers-dubai": {
+"ti": "Badminton Lovers Dubai: games for all levels",
+"sm": "Regular badminton games for all levels, with separate courts for advanced players.",
+"pl": "Danube Sports World, Al Habtoor City; Tue 20:00–22:00, Sat 13:00–16:00",
+"pr": "Tuesday 50 AED"
+},
+"mu-hcd-uae-317078032": {
+"ti": "The State of Design: UAE 2026 — HCD UAE designers' meetup",
+"sm": "Human Centred Design UAE community meetup: how design in the UAE has changed since 2013 and what comes next."
+},
+"pl-baithak-ft-talat-aziz-in-dubai": {
+"ti": "Baithak: Talat Aziz — an evening of ghazals",
+"sm": "Ghazals and a tribute to Mehdi Hassan.",
+"pr": "from 157.50 AED"
+},
+"pl-bohemia-presents-mk-in-dubai": {
+"sm": "An MK set of house anthems.",
+"pr": "from 100 AED"
+},
+"pl-emirates-dubai-rugby-7s": {
+"ti": "Emirates Dubai 7s: rugby festival and Akon concert",
+"sm": "Rugby sevens and other festival tournaments; Akon headlines the concert on 28 November.",
+"pr": "from 455 AED (28 Nov with concert)"
+},
+"pl-fairuz-a-tribute-to-the-voices-of-generations-in-dubai": {
+"ti": "Fairuz: tribute concert at ToDA",
+"sm": "Fairuz songs live, storytelling and 360° visuals.",
+"pr": "from 180 AED"
+},
+"pl-hiba-tawaji-ibrahim-maalouf-a-la-francaise-at-dubai-opera": {
+"ti": "Hiba Tawaji and Ibrahim Maalouf — “À la Française”",
+"sm": "Singer Hiba Tawaji and trumpeter Ibrahim Maalouf perform French song classics.",
+"pr": "from 355 AED"
+},
+"pl-kids-classics-the-frog-prince": {
+"ti": "Kids Classics: “The Frog Prince”",
+"sm": "A musical fairy tale with live piano and harp and 360° visuals.",
+"pr": "from 170 AED"
+},
+"pl-please-leave-by-10-dubai": {
+"sm": "An early party of throwback hits with DJ Dean Curtis; ends at 22:00.",
+"pr": "from 140 AED"
+},
+"pl-soul-of-cavo-featuring-teddy-o-live-in-dubai": {
+"sm": "Deep house, Afro and soul: Teddy-O, Bazz Key, Hellfox and Qtee Rue.",
+"pr": "from 150 AED"
+},
+"pl-suhani-shah-spellbound": {
+"ti": "Suhani Shah — “Spellbound” mentalism show",
+"sm": "An interactive show of mind reading and psychological illusions.",
+"pr": "from 150 AED"
+},
+"tg-c3051419488-2448": {
+"ti": "Mixed Doubles by LUNA PADEL",
+"sm": "LUNA PADEL community mixed tournament, level C/D+; water, balls for the winners, medals for 2nd–3rd place."
+},
+"tg-c3051419488-2450": {
+"ti": "King of the Court by LUNA PADEL",
+"sm": "LUNA PADEL community “King of the Court” tournament, level C/D+; registration after payment."
+},
+"tg-dubai_petrovich-16110-3": {
+"ti": "The Good Energy Club — fitness and wellness day",
+"sm": "A morning of workouts, activities and wellness at the Terra pavilion."
+},
+"tg-dubaitop777-9578": {
+"ti": "99 Burpees Challenge at adidas",
+"sm": "Fitness challenge: 99 burpees in 4 minutes wins a pair of trainers; fewer reps earn a discount.",
+"pr": "Free"
+},
+"tg-padel_club-44610": {
+"ti": "King Strong D+/C- at Padel One",
+"sm": "Padel Club community “King of the Court” game for level D+/C-."
+},
+"tg-padel_escape-1871": {
+"ti": "PADEL ESCAPE tournament at CLUB15",
+"sm": "PADEL ESCAPE community tournament for up to 12 players.",
+"pr": "160 AED (balls, water, medals)"
+},
+"tg-padeldubai-35887": {
+"ti": "Fixed pairs “King of the Court” C-/C at PAUS Club",
+"sm": "“Padel in Dubai” community fixed-pairs tournament, level C-/C; sign up via the bot."
+},
+"tg-squiz_dubai-2316": {
+"ti": "Squiz — quiz at Mr Toad's Pub",
+"sm": "A team quiz in Russian: questions, socialising and new friends."
+},
+"tg-sysoevfmdubai-7929": {
+"ti": "Kira Altman's course “Speak and Be Heard”",
+"sm": "Five evenings in a row, 25 hours of public-speaking and communication practice in a group of up to 8.",
+"pl": "Dubai; 18:00–22:00"
 }
 }
