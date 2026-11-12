@@ -41,9 +41,6 @@
 "pl": "Dubai",
 "pr": "from 149 AED"
 },
-"pl-cavos-global-groove-presents-dj-sleezy-stereo-in-dubai": {
-"pr": "from 150 AED"
-},
 "pl-cego-xotiat-zenshhiny": {
 "ti": "Play “What Women Want” (in Russian)",
 "sm": "A play in Russian.",
@@ -201,11 +198,6 @@
 "sm": "Regular stand-up nights in English; dates on the website.",
 "pl": "Dubai",
 "pr": "from 85 AED"
-},
-"pl-the-very-hungry-caterpillar-dubai": {
-"ti": "The Very Hungry Caterpillar — children's show",
-"sm": "A show based on Eric Carle's book, in English.",
-"pr": "from 125 AED"
 },
 "pl-the-way-back-home-live-on-stage": {
 "ti": "The Way Back Home — children's show",
@@ -603,12 +595,6 @@
 "tg-dubaitop777-9479-3": {
 "ti": "Andrea Bocelli — concert"
 },
-"tg-dubaitop777-9488": {
-"ti": "Diwali at Global Village",
-"sm": "Festival of lights: decorations, dance, games and a fair with Indian treats.",
-"pl": "Global Village, India pavilion; 600-drone show on 8 November at 20:00",
-"pr": "entry 25–30 AED"
-},
 "tg-eventsindubai-13301": {
 "ti": "Kvartet I — “Kvartetnik” (in Russian)",
 "sm": "An improvised evening: stories, songs and poems on topics from the audience."
@@ -634,10 +620,6 @@
 "tg-silachi_duha-2392": {
 "ti": "Bolshoi Theatre Orchestra symphony concert",
 "sm": "Part of the Bolshoi Theatre's December tour."
-},
-"tg-silachi_duha-2412": {
-"ti": "AIGEL — concert",
-"sm": "Electronic duo AIGEL in Dubai for the first time."
 },
 "tg-silachi_duha-2422-3": {
 "ti": "Dubai Run — a run through Downtown",
@@ -707,10 +689,6 @@
 "tg-eventsindubai-13328": {
 "ti": "Sergey Orlov — stand-up «Zvezda»",
 "sm": "New 2026 show, in Russian."
-},
-"ig-dubai_womensclub-DeygpWWNVKz-3": {
-"ti": "Puppy Pilates (EVA Women's Club)",
-"sm": "Pilates with puppies; book via Instagram DM."
 },
 "ig-dubai_womensclub-DeygpWWNVKz-4": {
 "ti": "Sunset horse riding (EVA Women's Club)",
@@ -1335,15 +1313,6 @@
 "sm": "Season opening: poets, readers, musicians and artists; perform or just listen. In Russian.",
 "pl": "Synergy University, JLT; 18:00"
 },
-"tg-padeldubai-35756": {
-"ti": "TOPOR — men's padel tournament with a Russian national team player",
-"sm": "The Padel in Dubai community's traditional men's tournament: 11 players, 3 courts and a guest pro from Russia's FIP top 5.",
-"pl": "Casa Padel, Ripe Market, Al Khawaneej (outdoor courts); 20:30"
-},
-"tg-padeldubai-35768": {
-"ti": "Beginner Americano D/D+ at PAUS Club",
-"sm": "Padel in Dubai community Americano for beginners, level D/D+; sign up via the bot."
-},
 "pl-bongos-bingo-dubai": {
 "sm": "Bingo party with singalongs, rave rounds, dance-offs and confetti.",
 "pr": "from 150 AED"
@@ -1376,14 +1345,6 @@
 "ti": "Un Air de Famille — play",
 "sm": "A fierce comedy where a family dinner brings unspoken truths to light.",
 "pr": "from 170 AED"
-},
-"tg-c3051419488-2445": {
-"ti": "Pizza & Padel: King of the Court by LUNA PADEL",
-"sm": "LUNA PADEL community tournament with pizza, level C/D+; spot confirmed after payment."
-},
-"tg-padel_club-44531": {
-"ti": "King D/D+ — beginner padel at Padel Pro",
-"sm": "King of the Court game for levels D/D+ by the Padel Club community."
 },
 "ig-dubai_womensclub-DeygpWWNVKz-10": {
 "ti": "Wellness Morning × MedPalm Clinic (EVA women's club)",
@@ -1569,7 +1530,7 @@
 "mu-badminton-lovers-dubai": {
 "ti": "Badminton Lovers Dubai: games for all levels",
 "sm": "Regular badminton games for all levels, with separate courts for advanced players.",
-"pl": "Danube Sports World, Al Habtoor City; Tue 20:00–22:00, Sat 13:00–16:00",
+"pl": "Danube Sports World, Al Habtoor City; Tue and Thu 20:00–22:00, Sat 13:00–16:00",
 "pr": "Tuesday 50 AED"
 },
 "mu-hcd-uae-317078032": {
@@ -1656,5 +1617,52 @@
 "ti": "Kira Altman's course “Speak and Be Heard”",
 "sm": "Five evenings in a row, 25 hours of public-speaking and communication practice in a group of up to 8.",
 "pl": "Dubai; 18:00–22:00"
+},
+"dn-2026-11-14-vagabond": {
+"ti": "Vagabond: Adam Ten at Surf Club",
+"sm": "Adam Ten plays house, funk and psychedelic sounds; also Kaytek vs Baron, Miss Rich and Versa."
+},
+"ig-dubai_calendar-DfmlgGlMACH": {
+"sm": "A stage of the women's Triathlon World Cup: swimming, cycling and running in one day; come and cheer.",
+"pl": "Al Mamzar Park; from 07:00"
+},
+"mu-badminton-for-all": {
+"ti": "Badminton For All: Thursday badminton in Jumeirah",
+"sm": "Weekly badminton games for all levels.",
+"pl": "Jumeirah (Al Manara); Thu 20:00–22:00"
+},
+"mu-badmintonactive": {
+"ti": "Badminton Active: evening games for advanced players",
+"sm": "A weekly badminton session for advanced players.",
+"pl": "Baseline Sports, Dubai Investments Park; Thu 20:00–22:00"
+},
+"pl-hitty-mash-up-fridays-at-the-penthouse": {
+"ti": "Hitty: Mash-Up Fridays at The Penthouse",
+"sm": "A house set with hip-hop and dancehall samples.",
+"pr": "from 100 AED"
+},
+"tg-creativedubai-29095": {
+"ti": "Disco band and music bingo at Magadan",
+"sm": "Live hits from Russian pop to ABBA and Kylie Minogue; guests pick the next song and play bingo, with prizes from the restaurant.",
+"pr": "free entry with registration"
+},
+"tg-dubaitop777-9583": {
+"ti": "Christmas films at VOX Cinemas",
+"sm": "Home Alone, Elf, The Grinch, Wonka and other Christmas films on the big screen; meet Santa at VOX Mall of the Emirates on 19–25 December.",
+"pl": "VOX Cinemas across the UAE"
+},
+"tg-dubaitop777-9584": {
+"ti": "Drone and laser shows at JBR (Dubai Shopping Festival)",
+"sm": "Two drone shows every evening, laser projections and mapping on the JBR towers.",
+"pl": "Waterfront between The Beach JBR and Bluewaters; 19:30–22:30",
+"pr": "free"
+},
+"tg-padeldubai-35968": {
+"ti": "King of the Court at Club 15 (all levels)",
+"sm": "“Padel in Dubai” community King of the Court tournament at the new Club 15, level D/C+; sign up via the bot."
+},
+"tg-padeldubai-35978": {
+"ti": "Shrimp of the Court — padel tournament at Casa Padel",
+"sm": "“Padel in Dubai” community tournament supported by SeaLux Yacht, level D/C+; sign up via the community bot."
 }
 }

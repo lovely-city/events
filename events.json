@@ -1,5 +1,32 @@
 [
 {
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-11-14",
+"id": "dn-2026-11-14-vagabond",
+"p": "",
+"pl": "Surf Club, West Beach, Palm Jumeirah",
+"pr": "",
+"s": "",
+"sm": "Adam Ten играет хаус, фанк и психоделику; также Kaytek vs Baron, Miss Rich и Versa.",
+"src": "dn",
+"st": "2026-11-14",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"ti": "Vagabond: Adam Ten в Surf Club",
+"ty": "once",
+"u": "https://www.instagram.com/surfclubdubai/"
+},
+{
 "aud": "all",
 "cats": [
 "sport",
@@ -660,6 +687,32 @@
 "u": "https://www.instagram.com/p/Dfj_H3NRZbM/"
 },
 {
+"aud": "all",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-12-06",
+"id": "ig-dubai_calendar-DfmlgGlMACH",
+"p": "",
+"pl": "Al Mamzar Park; с 07:00",
+"pr": "",
+"s": "",
+"sm": "Этап Кубка мира по триатлону среди женщин: плавание, велогонка и бег в один день; можно прийти болеть.",
+"src": "ig",
+"st": "2026-12-06",
+"status": "approved",
+"sub": "run",
+"tags": [
+"sportev",
+"weekend"
+],
+"ti": "World Triathlon Women’s Cup Dubai",
+"ty": "once",
+"u": "https://wtwc.premieronline.com/"
+},
+{
 "aud": "adults",
 "cats": [
 "beauty"
@@ -710,34 +763,6 @@
 "hobby"
 ],
 "ti": "Конная прогулка на закате, 26 ноября (женский клуб EVA)",
-"ty": "once",
-"u": "https://www.instagram.com/dubai_womensclub/"
-},
-{
-"aud": "adults",
-"cats": [
-"sport",
-"yoga"
-],
-"city": "Дубай",
-"d": "2026-10-30",
-"en": "2026-11-10",
-"id": "ig-dubai_womensclub-DeygpWWNVKz-3",
-"p": "",
-"pl": "Al Quoz; 11:00",
-"pr": "480 AED",
-"s": "",
-"sm": "Пилатес со щенками; запись в директ.",
-"src": "ig",
-"st": "2026-11-10",
-"status": "approved",
-"sub": "yoga",
-"tags": [
-"sport",
-"sportev",
-"games"
-],
-"ti": "Puppy Pilates (женский клуб EVA)",
 "ty": "once",
 "u": "https://www.instagram.com/dubai_womensclub/"
 },
@@ -1343,16 +1368,44 @@
 "sport"
 ],
 "city": "Дубай",
+"d": "2026-11-12",
+"en": "",
+"id": "mu-badminton-for-all",
+"p": "",
+"pl": "Jumeirah (Al Manara); чт 20:00–22:00",
+"pr": "",
+"s": "",
+"sm": "Еженедельные игры в бадминтон для всех уровней.",
+"src": "mu",
+"st": "2026-11-12",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sport"
+],
+"ti": "Badminton For All: бадминтон по четвергам в Jumeirah",
+"ty": "recurring",
+"u": "https://www.instagram.com/badminton.dxb/",
+"wd": [
+4
+]
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
 "d": "2026-11-11",
 "en": "",
 "id": "mu-badminton-lovers-dubai",
 "p": "",
-"pl": "Danube Sports World, Al Habtoor City; вт 20:00–22:00, сб 13:00–16:00",
+"pl": "Danube Sports World, Al Habtoor City; вт и чт 20:00–22:00, сб 13:00–16:00",
 "pr": "вторник 50 AED",
 "s": "",
 "sm": "Регулярные игры в бадминтон для любых уровней, у продвинутых игроков отдельные корты.",
 "src": "mu",
-"st": "2026-11-14",
+"st": "2026-11-12",
 "status": "approved",
 "sub": "other",
 "tags": [
@@ -1363,7 +1416,36 @@
 "u": "https://www.instagram.com/badmintonlovers_dxb/",
 "wd": [
 2,
+4,
 6
+]
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "",
+"id": "mu-badmintonactive",
+"p": "",
+"pl": "Baseline Sports, Dubai Investments Park; чт 20:00–22:00",
+"pr": "",
+"s": "",
+"sm": "Еженедельная сессия бадминтона для игроков продвинутого уровня.",
+"src": "mu",
+"st": "2026-11-12",
+"status": "approved",
+"sub": "other",
+"tags": [
+"sport"
+],
+"ti": "Badminton Active: вечерние игры для продвинутых",
+"ty": "recurring",
+"u": "https://www.instagram.com/badminton_active/",
+"wd": [
+4
 ]
 },
 {
@@ -1983,32 +2065,6 @@
 "ti": "Cavo Global Groove: DJ Poly & Pami",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/109801/cavos-global-groove-presents-dj-poly-pami-in-dubai"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-10-27",
-"en": "2026-11-10",
-"id": "pl-cavos-global-groove-presents-dj-sleezy-stereo-in-dubai",
-"p": 0,
-"pl": "Cavo, Ramee Dream Hotel",
-"pr": "от 150 AED",
-"s": "pl",
-"sm": "",
-"src": "pl",
-"st": "2026-11-10",
-"status": "approved",
-"sub": null,
-"tags": [
-"date",
-"concert"
-],
-"ti": "Cavo Global Groove: DJ Sleezy Stereo",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/108808/cavos-global-groove-presents-dj-sleezy-stereo-in-dubai"
 },
 {
 "aud": "adults",
@@ -2894,6 +2950,32 @@
 "ti": "Hiba Tawaji и Ibrahim Maalouf — «À la Française»",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/107286/hiba-tawaji-ibrahim-maalouf-a-la-francaise-at-dubai-opera"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-11-13",
+"id": "pl-hitty-mash-up-fridays-at-the-penthouse",
+"p": 0,
+"pl": "The Penthouse, FIVE Palm Jumeirah; 22:00",
+"pr": "от 100 AED",
+"s": "pl",
+"sm": "Хаус-сет с семплами хип-хопа и дэнсхолла.",
+"src": "pl",
+"st": "2026-11-13",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"date"
+],
+"ti": "Hitty: Mash-Up Fridays в The Penthouse",
+"ty": "once",
+"u": "https://dubai.platinumlist.net/event-tickets/109935/hitty-mash-up-fridays-at-the-penthouse"
 },
 {
 "aud": "all",
@@ -4428,32 +4510,6 @@
 "kidsfun"
 ],
 "city": "Дубай",
-"d": "2026-10-26",
-"en": "2026-11-10",
-"id": "pl-the-very-hungry-caterpillar-dubai",
-"p": 0,
-"pl": "Meyana Theatre",
-"pr": "от 125 AED",
-"s": "pl",
-"sm": "Спектакль по книге Эрика Карла, на английском.",
-"src": "pl",
-"st": "2026-11-08",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert",
-"weekend"
-],
-"ti": "The Very Hungry Caterpillar — детский спектакль",
-"ty": "range",
-"u": "https://dubai.platinumlist.net/event-tickets/the-very-hungry-caterpillar-dubai"
-},
-{
-"aud": "kids",
-"cats": [
-"kidsfun"
-],
-"city": "Дубай",
 "d": "2026-10-27",
 "en": "2027-05-16",
 "id": "pl-the-way-back-home-live-on-stage",
@@ -4820,31 +4876,6 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-08",
-"en": "2026-11-10",
-"id": "tg-c3051419488-2445",
-"p": 2445,
-"pl": "Padel Park; 20:00–21:30",
-"pr": "140 AED",
-"s": "c/3051419488",
-"sm": "Турнир сообщества LUNA PADEL с пиццей, уровень C/D+; место подтверждается после оплаты.",
-"src": "tg",
-"st": "2026-11-10",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "Pizza & Padel: King of the Court от LUNA PADEL",
-"ty": "once",
-"u": ""
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
 "d": "2026-11-11",
 "en": "2026-11-11",
 "id": "tg-c3051419488-2448",
@@ -4915,6 +4946,33 @@
 "ti": "Poetfest.Dubai — вечер поэзии и музыки",
 "ty": "once",
 "u": "https://t.me/creativedubai/29085"
+},
+{
+"aud": "adults",
+"cats": [
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-11-14",
+"id": "tg-creativedubai-29095",
+"p": 29095,
+"pl": "Magadan, Palm West Beach; 21:00",
+"pr": "вход бесплатный по регистрации",
+"s": "creativedubai",
+"sm": "Живая музыка от Меладзе и Агутина до ABBA и Kylie Minogue; гости выбирают следующий хит и играют в бинго, призы от ресторана.",
+"src": "tg",
+"st": "2026-11-14",
+"status": "approved",
+"sub": null,
+"tags": [
+"concert",
+"games",
+"weekend"
+],
+"ti": "Disco band и музыкальное бинго в Magadan",
+"ty": "once",
+"u": "https://forms.gle/5s4RDFUDUTDwNEPu7"
 },
 {
 "aud": "all",
@@ -8598,35 +8656,6 @@
 "adults"
 ],
 "city": "Дубай",
-"d": "2026-10-27",
-"en": "2026-11-10",
-"id": "tg-dubaitop777-9488",
-"p": 9488,
-"pl": "Global Village, индийский павильон; шоу 600 дронов 8 ноября в 20:00",
-"pr": "вход 25–30 AED",
-"s": "dubaitop777",
-"sm": "Праздник огней: декорации, танцы, игры, ярмарка с индийскими угощениями.",
-"src": "tg",
-"st": "2026-11-06",
-"status": "approved",
-"sub": null,
-"tags": [
-"date",
-"weekend",
-"concert",
-"places"
-],
-"ti": "Дивали в Global Village",
-"ty": "range",
-"u": "https://www.globalvillage.ae/"
-},
-{
-"aud": "all",
-"cats": [
-"kidsfun",
-"adults"
-],
-"city": "Дубай",
 "d": "2026-10-28",
 "en": "",
 "id": "tg-dubaitop777-9502",
@@ -8756,6 +8785,61 @@
 "u": "https://t.me/dubaitop777/9578"
 },
 {
+"aud": "all",
+"cats": [
+"kidsfun",
+"adults"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2027-01-07",
+"id": "tg-dubaitop777-9583",
+"p": 9583,
+"pl": "Кинотеатры VOX Cinemas по ОАЭ",
+"pr": "",
+"s": "dubaitop777",
+"sm": "«Один дома», «Эльф», «Гринч», «Вонка» и другие рождественские фильмы на большом экране; с 19 по 25 декабря у VOX в Mall of the Emirates можно встретить Санта-Клауса.",
+"src": "tg",
+"st": "2026-12-08",
+"status": "approved",
+"sub": null,
+"tags": [
+"weekend",
+"places"
+],
+"ti": "Рождественские фильмы в VOX Cinemas",
+"ty": "range",
+"u": "https://uae.voxcinemas.com/"
+},
+{
+"aud": "all",
+"cats": [
+"adults",
+"kidsfun"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2027-01-17",
+"id": "tg-dubaitop777-9584",
+"p": 9584,
+"pl": "Набережная между The Beach JBR и Bluewaters; 19:30–22:30",
+"pr": "бесплатно",
+"s": "dubaitop777",
+"sm": "Каждый вечер два шоу дронов, лазерные проекции и мэппинг на башнях JBR.",
+"src": "tg",
+"st": "2026-12-05",
+"status": "approved",
+"sub": null,
+"tags": [
+"places",
+"date",
+"weekend"
+],
+"ti": "Шоу дронов и лазерное шоу на JBR (Dubai Shopping Festival)",
+"ty": "range",
+"u": "https://www.visitdubai.com/en/festivals-and-events/dubai-shopping-festival"
+},
+{
 "aud": "adults",
 "cats": [
 "adults"
@@ -8863,31 +8947,6 @@
 5,
 6
 ]
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-08",
-"en": "2026-11-10",
-"id": "tg-padel_club-44531",
-"p": 44531,
-"pl": "Padel Pro; 20:30–22:00",
-"pr": "120 AED",
-"s": "padel_club",
-"sm": "Игра «Король корта» для уровней D/D+ от сообщества Padel Club.",
-"src": "tg",
-"st": "2026-11-10",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "King D/D+ — падел для начинающих в Padel Pro",
-"ty": "once",
-"u": "https://t.me/padel_club/44531"
 },
 {
 "aud": "adults",
@@ -9003,56 +9062,6 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-07",
-"en": "2026-11-10",
-"id": "tg-padeldubai-35756",
-"p": 35756,
-"pl": "Casa Padel, Ripe Market, Al Khawaneej (открытые корты); 20:30",
-"pr": "",
-"s": "padeldubai",
-"sm": "Традиционный мужской турнир сообщества «Падел в Дубае»: 11 участников, 3 корта и приглашённый профессионал из топ-5 рейтинга FIP России.",
-"src": "tg",
-"st": "2026-11-10",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "TOPOR — мужской падел-турнир с игроком сборной России",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-08",
-"en": "2026-11-10",
-"id": "tg-padeldubai-35768",
-"p": 35768,
-"pl": "PAUS Club, Jumeirah; 21:30",
-"pr": "",
-"s": "padeldubai",
-"sm": "Американо сообщества «Падел в Дубае» для начинающих игроков уровня D/D+; запись через бота.",
-"src": "tg",
-"st": "2026-11-10",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport"
-],
-"ti": "Американо для новичков D/D+ в PAUS Club",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
 "d": "2026-11-11",
 "en": "2026-11-12",
 "id": "tg-padeldubai-35887",
@@ -9069,6 +9078,59 @@
 "sport"
 ],
 "ti": "Фикс-пары «Король корта» C-/C в PAUS Club",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-11-15",
+"id": "tg-padeldubai-35968",
+"p": 35968,
+"pl": "Club 15, Al Quoz; 12:30",
+"pr": "170 AED",
+"s": "padeldubai",
+"sm": "Турнир «Король корта» сообщества «Падел в Дубае» в новом клубе Club 15, уровень D/C+; запись через бота.",
+"src": "tg",
+"st": "2026-11-15",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport",
+"games",
+"weekend"
+],
+"ti": "Король корта в Club 15 (все уровни)",
+"ty": "once",
+"u": "https://t.me/PadelDXB_bot"
+},
+{
+"aud": "adults",
+"cats": [
+"sport"
+],
+"city": "Дубай",
+"d": "2026-11-12",
+"en": "2026-11-15",
+"id": "tg-padeldubai-35978",
+"p": 35978,
+"pl": "Casa Padel Ripe Market, Al Khawaneej; 20:00",
+"pr": "150 AED",
+"s": "padeldubai",
+"sm": "Турнир сообщества «Падел в Дубае» при поддержке SeaLux Yacht, уровень D/C+; запись через бота сообщества.",
+"src": "tg",
+"st": "2026-11-15",
+"status": "approved",
+"sub": "padel",
+"tags": [
+"sport",
+"games"
+],
+"ti": "Shrimp of the Court — падел-турнир в Casa Padel",
 "ty": "once",
 "u": "https://t.me/PadelDXB_bot"
 },
@@ -9125,31 +9187,6 @@
 "ti": "Симфонический концерт оркестра Большого театра",
 "ty": "once",
 "u": "https://www.dubaiopera.com/en/season/season-26-27"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-09-25",
-"en": "2026-11-10",
-"id": "tg-silachi_duha-2412",
-"p": 2412,
-"pl": "The Fridge Warehouse, Alserkal Avenue, 20:00",
-"pr": "",
-"s": "silachi_duha",
-"sm": "Электронный дуэт АИГЕЛ впервые в Дубае.",
-"src": "tg",
-"st": "2026-11-10",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert"
-],
-"ti": "АИГЕЛ — концерт",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/ru/event-tickets/108565/aigel-live-at-the-fridge-in-dubai"
 },
 {
 "aud": "all",
