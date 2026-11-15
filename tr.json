@@ -36,11 +36,6 @@
 "sm": "Immersive light rooms.",
 "pr": "from 95 AED"
 },
-"pl-borderless-melodies-abida-parveen-and-kailash-kher": {
-"ti": "Borderless Melodies: Abida Parveen and Kailash Kher",
-"pl": "Dubai",
-"pr": "from 149 AED"
-},
 "pl-cego-xotiat-zenshhiny": {
 "ti": "Play “What Women Want” (in Russian)",
 "sm": "A play in Russian.",
@@ -97,9 +92,6 @@
 "sm": "Indoor theme park with the fastest roller coasters.",
 "pr": "from 345 AED"
 },
-"pl-flava-showcase-by-timati-at-be-beach-dubai": {
-"pr": "from 200 AED"
-},
 "pl-grand-hyatt-dubai-waterpark": {
 "sm": "Hotel water park, open until the end of November.",
 "pr": "from 120 AED"
@@ -136,9 +128,6 @@
 "pl-max-angioni-live-in-dubai": {
 "ti": "Max Angioni — stand-up",
 "pr": "from 160 AED"
-},
-"pl-momos-at-meyana-theatre-jumeirah-beach-hotel": {
-"pr": "from 150 AED"
 },
 "pl-new-years-eve-under-the-stars-gala-dinner-featuring-katy-perry-in-dubai": {
 "ti": "Katy Perry — New Year's Eve gala dinner",
@@ -455,10 +444,6 @@
 "sm": "Fenced dog parks and Dubai Islands beach, where dogs can swim.",
 "pl": "JLT, The Greens, Dubai Hills, DAMAC Hills, Springs 8; Dubai Islands beach"
 },
-"tg-dubaidecode-2888": {
-"ti": "FRANK — a musical play by Danila Kozlovsky",
-"sm": "Songs, personal stories and humour in a full theatre show, 12+."
-},
 "tg-dubaidecode-2894": {
 "ti": "Ripe Market — farmers' and family market",
 "sm": "Farmers, local brands, food and live music; for kids — ponies, a petting zoo, workshops and a mini train.",
@@ -585,10 +570,6 @@
 "ti": "Ludovico Einaudi — concert",
 "sm": "Italian pianist and composer. Sources differ on the date (24 or 27 January) — check when buying."
 },
-"tg-dubaitop777-9479-1": {
-"ti": "Hans Zimmer — concert",
-"sm": "Film music performed by its composer."
-},
 "tg-dubaitop777-9479-2": {
 "ti": "Tarkan — concert"
 },
@@ -690,16 +671,6 @@
 "ti": "Sergey Orlov — stand-up «Zvezda»",
 "sm": "New 2026 show, in Russian."
 },
-"ig-dubai_womensclub-DeygpWWNVKz-4": {
-"ti": "Sunset horse riding (EVA Women's Club)",
-"sm": "Sunset ride; book via Instagram DM.",
-"pl": "Meeting point in Dubai Marina; 15:30",
-"pr": "490 AED, transfer included"
-},
-"ig-dubai_womensclub-DeygpWWNVKz-5": {
-"ti": "9D Breathwork on a yacht (EVA Women's Club)",
-"sm": "Breathwork session on a yacht; book via Instagram DM."
-},
 "ig-dubai_womensclub-DeygpWWNVKz-6": {
 "ti": "Pilates on SUP boards at Zeta Seven (EVA Women's Club)",
 "sm": "Pilates on floating platforms in a rooftop pool; book via Instagram DM.",
@@ -709,11 +680,6 @@
 "ti": "«Symposium O: Love Past Apocalypse» — theatre",
 "sm": "NYUAD Theater Program play about love in uncertain times.",
 "pl": "The Black Box, NYU Abu Dhabi; 20–21 Nov at 19:30, 21–22 Nov at 14:00"
-},
-"pl-melpomena-theatre": {
-"ti": "«Where I Have Never Been» — Melpomena Theatre (in Russian)",
-"pl": "Dubai",
-"pr": "from 180 AED"
 },
 "tg-dubai_petrovich-15959-10": {
 "pl": "Soho Garden Meydan, from 22:00",
@@ -796,10 +762,6 @@
 "tg-dubai_petrovich-15959-29": {
 "sm": "A Harry Potter film with a live orchestra.",
 "pr": "from 120 AED"
-},
-"tg-dubai_petrovich-15959-3": {
-"ti": "Claptone and Groove Armada",
-"pr": "from 250 AED"
 },
 "tg-dubai_petrovich-15959-30": {
 "ti": "The Phantom of the Opera — musical",
@@ -1085,28 +1047,14 @@
 "ti": "Sunset Pilates on a yacht (EVA women's club)",
 "sm": "Pilates on a yacht with make-up, photos and gifts; book via Instagram DM."
 },
-"pl-anotr-live-in-dubai-pacha-icons-at-playa-pacha-five-luxe-jbr": {
-"sm": "Live beach set by Dutch duo ANOTR.",
-"pr": "from 240 AED"
-},
 "pl-bohemia-presents-alex-wann-sona-in-dubai": {
 "ti": "Alex Wann & SONA at Bohemia",
 "sm": "Afro-house sets by the sea.",
 "pr": "from 100 AED"
 },
-"pl-danzit-by-h44-girls-only-alcohol-free-dance-night": {
-"ti": "Danzit by H44 — girls-only dance night",
-"sm": "Alcohol-free dance party for women: international and Arabic hits, guess-the-song game.",
-"pr": "from 270 AED"
-},
 "pl-echoes-of-japan-whispers-in-the-winds": {
 "sm": "Japanese music by Tokiwa Ensemble and Yasukazu Kano.",
 "pr": "from 180 AED"
-},
-"pl-eden-presents-kimotion-live-at-cavo-in-dubai": {
-"ti": "Kimotion Live at Cavo",
-"sm": "Live electronic set with visuals.",
-"pr": "from 150 AED"
 },
 "pl-fall-celebration-beats-of-india": {
 "ti": "Beats of India — fall celebration",
@@ -1117,10 +1065,6 @@
 "ti": "Hala Mohanlal — show",
 "sm": "Music, dance and comedy with a special appearance by actor Mohanlal.",
 "pr": "from 100 AED"
-},
-"pl-joseph-capriati-at-soho-garden-meydan-dubai": {
-"sm": "House and techno set by the Italian DJ.",
-"pr": "from 150 AED"
 },
 "pl-love-moves-from-lebanon-to-be-beach": {
 "ti": "Love Moves: from Lebanon to Be Beach",
@@ -1141,11 +1085,6 @@
 "sm": "Rooftop house set.",
 "pr": "from 200 AED"
 },
-"pl-s4ks-macbeth-at-the-new-covent-garden-dubai": {
-"ti": "Macbeth — a family musical",
-"sm": "Shakespeare 4 Kidz's musical adaptation of the tragedy for the whole family.",
-"pr": "from 135 AED"
-},
 "pl-soul-of-cavo-presents-del-campo-live-in-dubai": {
 "ti": "Del Campo at Cavo",
 "sm": "Sets by Del Campo, Bazz Key, Hellfox and Qtee Rue.",
@@ -1160,14 +1099,6 @@
 "ti": "Bolshoi Theatre Orchestra conducted by Valery Gergiev",
 "sm": "Symphonic concert by the Bolshoi Theatre Orchestra.",
 "pr": "from 350 AED"
-},
-"pl-the-unlikely-hostage-at-toda-in-dubai": {
-"sm": "Abdurahman Afia's personal story told live with immersive visuals. In English.",
-"pr": "from 175 AED"
-},
-"tg-dubai_petrovich-16032": {
-"ti": "Wild Game Fest at Kite Beach",
-"sm": "Festival for the launch of Dubai Developed in Fortnite 2033: Dubai Drop city-quest players swap virtual prizes for gifts."
 },
 "tg-dubai_pike-9330": {
 "sm": "Two days of independent music and culture across three venues in the hotel."
@@ -1203,10 +1134,6 @@
 },
 "ig-alserkalavenue-DfW-1CvoAIh": {
 "sm": "Five decades of work by Palestinian artist Sliman Mansour; opening on 15 November at 18:00. Part of Alserkal Art Week."
-},
-"ig-otdeliskusstv_uae-DfWUgHIoukm": {
-"ti": "Artist's Salon: René Magritte (Otdel Iskusstv)",
-"sm": "An intimate talk on the Belgian surrealist: his life, paintings and visual riddles, in an antiques gallery. In Russian; limited seats."
 },
 "tg-dubai_petrovich-16056": {
 "sm": "Akram Khan's final touring work: a night-time ritual of women, set and costumes by Saudi artist Manal AlDowayan, music by more than 40 performers."
@@ -1289,11 +1216,6 @@
 "ti": "Stephen Speaks at Dubai Miracle Garden",
 "sm": "Hits, covers and songs from the new EP Right on Time."
 },
-"pl-skepta-live-at-be-beach-dubai": {
-"ti": "Skepta Live at Be Beach",
-"sm": "Skepta, Djammin and Fabrice on the beach.",
-"pr": "from 100 AED"
-},
 "pl-synthony-x-faithless-live-in-dubai": {
 "sm": "Live orchestra and Faithless Sound System: dance anthems, symphonic style.",
 "pr": "from 295 AED"
@@ -1356,10 +1278,6 @@
 "sm": "Horseback ride at sunset; sign up on the club's website.",
 "pl": "Meeting point in Dubai Marina; 15:00"
 },
-"ig-dubai_womensclub-DeygpWWNVKz-7": {
-"ti": "Padel training and game (EVA women's club)",
-"sm": "Padel training and a friendly game; sign up on the club's website."
-},
 "ig-dubai_womensclub-DeygpWWNVKz-8": {
 "ti": "Yacht Pilates and soap-making workshop (EVA women's club)",
 "sm": "Pilates on a yacht plus soap making; sign up on the club's website."
@@ -1367,10 +1285,6 @@
 "ig-dubai_womensclub-DeygpWWNVKz-9": {
 "ti": "Sunset yacht Pilates, 21 November (EVA women's club)",
 "sm": "Pilates on a yacht at sunset; sign up on the club's website."
-},
-"ig-otdeliskusstv_uae-DfhjzQux7aG": {
-"ti": "“The Artist's Salon: René Magritte” — art evening",
-"sm": "Otdel Iskusstv art evening at an antiques gallery dedicated to René Magritte. In Russian; tickets via the link in their profile or by DM."
 },
 "ig-paletteparty.ae-DfhdGjkoxRq": {
 "ti": "Strings of the Union: Union Day workshop (Palette Party)",
@@ -1479,10 +1393,6 @@
 "sm": "A play about a modest accountant who suddenly becomes the star of the office.",
 "pr": "160 AED (150 AED for AF members)"
 },
-"tg-c2053986524-2501-2": {
-"ti": "New galleries at Jameel Arts Centre: Bani Abidi and Afrah Shafiq",
-"sm": "Opening of new galleries: portraits by Bani Abidi and Afrah Shafiq's interactive multimedia game “Nobody Knows For Certain”."
-},
 "tg-c2053986524-2501-3": {
 "ti": "Music choir — first meeting",
 "sm": "The choir's first meeting: singing together and opening up through your voice. Sign up via the creative community."
@@ -1579,14 +1489,6 @@
 "sm": "An interactive show of mind reading and psychological illusions.",
 "pr": "from 150 AED"
 },
-"tg-c3051419488-2448": {
-"ti": "Mixed Doubles by LUNA PADEL",
-"sm": "LUNA PADEL community mixed tournament, level C/D+; water, balls for the winners, medals for 2nd–3rd place."
-},
-"tg-c3051419488-2450": {
-"ti": "King of the Court by LUNA PADEL",
-"sm": "LUNA PADEL community “King of the Court” tournament, level C/D+; registration after payment."
-},
 "tg-dubai_petrovich-16110-3": {
 "ti": "The Good Energy Club — fitness and wellness day",
 "sm": "A morning of workouts, activities and wellness at the Terra pavilion."
@@ -1595,19 +1497,6 @@
 "ti": "99 Burpees Challenge at adidas",
 "sm": "Fitness challenge: 99 burpees in 4 minutes wins a pair of trainers; fewer reps earn a discount.",
 "pr": "Free"
-},
-"tg-padel_club-44610": {
-"ti": "King Strong D+/C- at Padel One",
-"sm": "Padel Club community “King of the Court” game for level D+/C-."
-},
-"tg-padel_escape-1871": {
-"ti": "PADEL ESCAPE tournament at CLUB15",
-"sm": "PADEL ESCAPE community tournament for up to 12 players.",
-"pr": "160 AED (balls, water, medals)"
-},
-"tg-padeldubai-35887": {
-"ti": "Fixed pairs “King of the Court” C-/C at PAUS Club",
-"sm": "“Padel in Dubai” community fixed-pairs tournament, level C-/C; sign up via the bot."
 },
 "tg-squiz_dubai-2316": {
 "ti": "Squiz — quiz at Mr Toad's Pub",
@@ -1636,11 +1525,6 @@
 "sm": "A weekly badminton session for advanced players.",
 "pl": "Baseline Sports, Dubai Investments Park; Thu 20:00–22:00"
 },
-"pl-hitty-mash-up-fridays-at-the-penthouse": {
-"ti": "Hitty: Mash-Up Fridays at The Penthouse",
-"sm": "A house set with hip-hop and dancehall samples.",
-"pr": "from 100 AED"
-},
 "tg-creativedubai-29095": {
 "ti": "Disco band and music bingo at Magadan",
 "sm": "Live hits from Russian pop to ABBA and Kylie Minogue; guests pick the next song and play bingo, with prizes from the restaurant.",
@@ -1664,5 +1548,169 @@
 "tg-padeldubai-35978": {
 "ti": "Shrimp of the Court — padel tournament at Casa Padel",
 "sm": "“Padel in Dubai” community tournament supported by SeaLux Yacht, level D/C+; sign up via the community bot."
+},
+"dn-billionaire-the-list": {
+"ti": "The List at Billionaire on Sundays",
+"sm": "An evening of signature cocktails, surprises and a dress code at the Billionaire dinner-show venue.",
+"pl": "Billionaire Dubai; Sun evening"
+},
+"dn-celavi-in-house-mondays": {
+"ti": "In House — ladies' night at CÉ LA VI on Mondays",
+"sm": "Ladies' night with resident DJs; limited spots, book ahead.",
+"pl": "CÉ LA VI, Address Sky View; Mon 22:00–02:00",
+"pr": "150 AED (unlimited drinks)"
+},
+"dn-celavi-ladies-night-tuesdays": {
+"ti": "Ladies' night at CÉ LA VI on Tuesdays",
+"sm": "Set menu dinner, live entertainment and a DJ; limited spots.",
+"pl": "CÉ LA VI, Address Sky View; Tue 20:00–23:00",
+"pr": "set menu with drinks"
+},
+"dn-coucou-opulence": {
+"ti": "Opulence at CouCou on Mondays",
+"sm": "A rooftop party with Palm Jumeirah views: music and a club atmosphere.",
+"pl": "CouCou Rooftop, The View at the Palm; Mon evening"
+},
+"dn-le-piaf-encore-mondays": {
+"ti": "Encore Mondays at Le Piaf",
+"sm": "Dinner to live music from a DJ and trio, then dancers, shows and an after-party until late.",
+"pl": "Le Piaf, Jumeirah Emirates Towers; Mon evening"
+},
+"dn-lucky-voice-open-mic-karaoke": {
+"ti": "Open Mic Karaoke at Lucky Voice on Tuesdays",
+"sm": "Open mic: karaoke on stage for anyone who wants to sing.",
+"pl": "Lucky Voice, Grand Millennium Dubai (Barsha Heights); Tue 21:00–02:00"
+},
+"dn-raspoutine-enoo-napa": {
+"ti": "Enoo Napa × We Ain’t Saints at Raspoutine",
+"sm": "Dinner and an after-party with DJ Enoo Napa."
+},
+"dn-sana-comedy-night": {
+"ti": "Comedy Night at SANA on Sundays",
+"sm": "An evening of stand-up from several comedians; 25% off the restaurant menu that night.",
+"pl": "SANA, Jumeirah Mina A’Salam; Sun 19:00",
+"pr": "99 AED (drink included)"
+},
+"dn-smoki-moto-gents-night": {
+"ti": "Gent's Night at Smoki Moto",
+"sm": "A Sunday boys' night: steaks, unlimited fries and a DJ until late.",
+"pl": "Smoki Moto; Sun from 17:00",
+"pr": "first drink free with a grill order"
+},
+"ig-dubai_calendar-DfpLd8Rs9Vu": {
+"ti": "Paul Chowdhry — stand-up",
+"sm": "The British comedian with his show; in English."
+},
+"ig-dubai_calendar-DfrJuXQsn4y": {
+"ti": "Juan Musika Festival — Filipino music festival",
+"sm": "The first Filipino music festival: December Avenue, Gloc-9, Janine Berdin and more."
+},
+"ig-dubai_calendar-DfrW7AXM1Jm": {
+"sm": "SailGP catamaran racing: 13 national teams over two days of competition; Joel Corry and Rudimental perform after the racing."
+},
+"ig-dubai_calendar-Dft8GKwMgvB": {
+"sm": "An art and design festival in the historic lanes of Al Shindagha: artworks, performances and workshops."
+},
+"ig-dubai_calendar-DftzyMbxPfv": {
+"ti": "Dubai 4x4 Expo at Safa Park",
+"sm": "Three days of off-road culture: gear, vehicles and outdoor activities.",
+"pr": "free entry"
+},
+"ig-dubai_calendar-DfuT8XQMx7F": {
+"sm": "Jake Paul fights kickboxing world champion Cédric Doumbé."
+},
+"pl-a-tribute-to-amy-winehouse-in-dubai": {
+"ti": "Amy Winehouse tribute at ToDA",
+"sm": "Amy Winehouse songs performed by LaRudche and band, with 360° visuals.",
+"pr": "from 180 AED"
+},
+"pl-aitch-mash-up-fridays-at-the-penthouse": {
+"ti": "Aitch: Mash-Up Fridays at The Penthouse",
+"sm": "A set by British rapper Aitch with hits and Marina views.",
+"pr": "from 100 AED"
+},
+"pl-baroque-beyond-by-uae-philharmonic-orchestra-soloists-in-dubai": {
+"ti": "Baroque & Beyond: UAE Philharmonic Orchestra soloists",
+"sm": "Baroque music with 360° visuals.",
+"pr": "from 180 AED"
+},
+"pl-cavos-global-groove-presents-dj-deearnio-in-dubai": {
+"sm": "Sets by DJ Deearnio, Deeza, MC Mars and others.",
+"pr": "from 150 AED"
+},
+"pl-damian-lazarus-at-be-beach-dubai": {
+"ti": "Damian Lazarus at Be Beach",
+"sm": "Open-air electronic music: deep house and melodic sets.",
+"pl": "Be Beach, Dubai Harbour; from 20:00",
+"pr": "from 150 AED"
+},
+"pl-eden-presents-broder-live-at-cavo-in-dubai": {
+"ti": "Eden: Broder at Cavo",
+"sm": "A live electronic performance with visuals.",
+"pr": "from 150 AED"
+},
+"pl-eid-al-etihad-concert-al-shehhi-festival-bay": {
+"ti": "Union Day concert: Mohammed Al Shehhi at Festival Bay",
+"sm": "Emirati singer Mohammed Al Shehhi at the 55th Union Day celebration.",
+"pl": "Festival Bay, Dubai Festival City Mall; doors 19:00, concert 21:00",
+"pr": "free entry with registration"
+},
+"pl-eid-al-etihad-concert-balqees-festival-bay": {
+"ti": "Union Day concert: Balqees at Festival Bay",
+"sm": "Singer Balqees at a festive Union Day concert."
+},
+"pl-firdaus-orchestra-presents-opera-arias-love-passion-drama": {
+"ti": "Firdaus Orchestra: opera arias",
+"sm": "The Firdaus Orchestra performs famous opera arias.",
+"pr": "from 120 AED"
+},
+"pl-joris-voorn-live-at-amaru-dubai": {
+"ti": "Joris Voorn at Amaru",
+"sm": "Melodic techno and progressive house live.",
+"pr": "from 100 AED"
+},
+"pl-kumar-sanu": {
+"ti": "Kumar Sanu — concert",
+"sm": "Bollywood hits live.",
+"pr": "from 150 AED"
+},
+"pl-nurlan-saburov-context-at-dubai-opera": {
+"ti": "Nurlan Saburov — “Context”",
+"sm": "An updated stand-up programme in Russian.",
+"pr": "from 250 AED"
+},
+"pl-trevor-noah-live-at-dubai-opera": {
+"ti": "Trevor Noah at Dubai Opera",
+"sm": "Trevor Noah stand-up over several evenings."
+},
+"tg-c3051419488-2457": {
+"ti": "King of the Court by LUNA PADEL at Playce",
+"sm": "LUNA PADEL community King of the Court tournament, level C/D+; registration after payment."
+},
+"tg-dubaitop777-9606": {
+"ti": "Free open-air cinema in JLT Park",
+"sm": "Films and cartoons on a big screen every Saturday, free seating: 21 Nov Inside Out 2, 28 Nov Toy Story, 5 Dec The Martian, and more through 30 January.",
+"pl": "JLT Park, behind Cluster Q; Saturdays",
+"pr": "free"
+},
+"tg-padel_escape-1900": {
+"ti": "PADEL ESCAPE tournament at Matcha Club",
+"sm": "An evening tournament of the PADEL ESCAPE community on outdoor courts.",
+"pl": "Matcha Club (outdoor courts); 20:00",
+"pr": "160 AED (balls, water, medals)"
+},
+"tg-padeldubai-36090": {
+"ti": "King of the Court at PAUS Club (all levels)",
+"sm": "“Padel in Dubai” community King of the Court tournament, level D/C+; sign up via the bot."
+},
+"tg-padeldubai-36102": {
+"ti": "Women's Americano with a coach at Dock and Court",
+"sm": "Americano with a coach for women at level D/D+ by the “Padel in Dubai” community; sign up via the bot."
+},
+"tg-sysoevfmdubai-7945": {
+"ti": "“Ice 3” screening and meeting with Alexei Yashin",
+"sm": "Russian World Club screens the film “Ice 3”; before the screening, an interview with hockey player Alexei Yashin, photos and autographs.",
+"pl": "Dubai, venue given on registration",
+"pr": "registration required"
 }
 }
