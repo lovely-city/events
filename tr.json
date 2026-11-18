@@ -1712,5 +1712,281 @@
 "sm": "Russian World Club screens the film “Ice 3”; before the screening, an interview with hockey player Alexei Yashin, photos and autographs.",
 "pl": "Dubai, venue given on registration",
 "pr": "registration required"
+},
+"dn-above-eleven-after-11": {
+"ti": "After 11 — rooftop party at Above Eleven on Fridays",
+"sm": "City views, free-flowing drinks, a DJ and a percussionist.",
+"pl": "Above Eleven, Pullman Downtown; Fri late evening",
+"pr": ""
+},
+"dn-above-eleven-nikkei-social-club": {
+"ti": "Nikkei Social Club at Above Eleven on Thursdays",
+"sm": "Rooftop after-work: drinks, music and Japanese-Peruvian food.",
+"pl": "Above Eleven, Pullman Downtown; Thu evening",
+"pr": ""
+},
+"dn-above-eleven-shes-an-11": {
+"ti": "She's an 11 — ladies night at Above Eleven on Wednesdays",
+"sm": "Rooftop ladies night: drinks, Nikkei bites and live entertainment.",
+"pl": "Above Eleven, Pullman Downtown; Wed evening",
+"pr": ""
+},
+"dn-bar-du-port-ladies-night": {
+"ti": "Ladies night at Bar du Port on Wednesdays",
+"sm": "Ladies night by the harbour with free-flowing drinks.",
+"pl": "Bar du Port, Dubai Harbour; Wed evening",
+"pr": "230 AED"
+},
+"dn-sobremesa-serenata": {
+"ti": "Serenata — Mexican fiesta at Sobremesa on Thursdays",
+"sm": "Live mariachi, Mexican hits and DJ sets.",
+"pl": "Sobremesa, Souk Al Bahar; Thu from 19:00",
+"pr": ""
+},
+"ig-otdeliskusstv_uae-DfzJHVpFi8E": {
+"ti": "Anatomy of a Masterpiece: The Last Supper — art evening",
+"sm": "Art evening by Otdel Iskusstv: an art historian unpacks the symbols and composition of Leonardo's fresco while an actress brings the era to life. In Russian; drinks and snacks included.",
+"pl": "Cabinet of Curiosity, Al Quoz; 19:30",
+"pr": "259 AED + 5% VAT until 23.11, then 289 AED + 5% VAT"
+},
+"ig-skillkid.events-DfzdCSECMeQ": {
+"ti": "Winter Game Lab — Skill Kid winter camp",
+"sm": "Full-day camp for kids aged 5–16: mornings on a 'Create your own game' project (rules, mechanics, design), afternoons on social games. In Russian.",
+"pl": "Dubai Hills, Creek Harbour, Palm Jumeirah",
+"pr": "1350 AED per session until 06.12, then 1500 AED"
+},
+"pl-al-wasl-fc-vs-hatta-fc": {
+"ti": "Al Wasl FC — Hatta FC",
+"sm": "Football, UAE Pro League.",
+"pl": "Zabeel Stadium; 14:45",
+"pr": "from 20 AED"
+},
+"pl-arabic-music-night-at-toda-in-dubai": {
+"ti": "Arabic Music Night at ToDA",
+"sm": "Murad Helmi performs tarab, muwashshahat and Aleppo qudud.",
+"pl": "Theatre of Digital Art (ToDA), Souk Madinat Jumeirah; 19:30",
+"pr": "from 180 AED"
+},
+"pl-birds-of-mind-at-be-beach-dubai": {
+"ti": "Birds of Mind at Be Beach",
+"sm": "Hypnotic melodies and organic rhythms by the sea.",
+"pl": "Be Beach, Dubai Harbour; 19:30",
+"pr": "from 100 AED"
+},
+"pl-black-coffee-at-ushuaia-dubai-harbour-experience-in-dubai": {
+"ti": "Black Coffee at Ushuaïa Dubai",
+"sm": "The South African DJ with his signature Afro house.",
+"pl": "Ushuaïa Dubai Harbour Experience; 20:00",
+"pr": "from 195 AED"
+},
+"pl-bohemia-presents-john-bowtie-b2b-paul-svenson-kori-hall-b2b-fkr-stasi-sanlin": {
+"ti": "Bohemia: John Bowtie, Paul Svenson and more",
+"sm": "House sets on an open-air dance floor.",
+"pl": "Bohemia, FIVE Palm Jumeirah; 19:00",
+"pr": "from 100 AED"
+},
+"pl-bohemia-presents-mita-gami": {
+"ti": "Bohemia: Mita Gami",
+"sm": "Electronic music at an open-air venue.",
+"pl": "Bohemia, FIVE Palm Jumeirah; 19:00",
+"pr": "from 100 AED"
+},
+"pl-buena-vista-social-club-legacy": {
+"ti": "Buena Vista Social Club Legacy",
+"sm": "Ibrahim Ferrer Jr. and Cuban music classics.",
+"pl": "Dubai Opera; 20:00",
+"pr": "from 350 AED"
+},
+"pl-fightgecko-combat-series-4": {
+"ti": "FightGecko Combat Series 4",
+"sm": "A fight night where entrepreneurs and company founders step into the ring.",
+"pl": "W Dubai — The Palm; 17:00",
+"pr": "from 800 AED"
+},
+"pl-paul-de-saint-sernin-in-dubai": {
+"ti": "Paul de Saint Sernin — stand-up",
+"sm": "French comedian with personal stories and sharp humour.",
+"pl": "Emirates Theatre; 18:30",
+"pr": "from 160 AED"
+},
+"pl-rafael-skyline-saturdays-28-november-from-10-pm-in-dubai": {
+"ti": "Rafael: Skyline Saturdays at The Penthouse",
+"sm": "Melodic house and indie dance.",
+"pl": "The Penthouse, FIVE Palm Jumeirah; 22:00",
+"pr": "from 100 AED"
+},
+"pl-sara-landry-at-hive-soho-garden-meydan-dubai": {
+"ti": "Sara Landry at Soho Garden",
+"sm": "Her signature hard techno sound.",
+"pl": "Hive, Soho Garden Meydan; 22:00",
+"pr": "from 150 AED"
+},
+"pl-shabab-al-ahli-fc-vs-ajman-fc": {
+"ti": "Shabab Al Ahli FC — Ajman FC, ADNOC Pro League",
+"sm": "Football, UAE Pro League.",
+"pl": "Rashid Stadium; 17:25",
+"pr": "from 20 AED"
+},
+"pl-shortsweet-comedy-live-at-rove-city-walk": {
+"ti": "Short+Sweet Comedy at Rove City Walk",
+"sm": "Stand-up competition: the audience votes for the semi-finalists.",
+"pl": "Rove Hotel City Walk; 19:00",
+"pr": "from 75 AED"
+},
+"pl-soul-of-cavo-featuring-joediem-live-in-dubai": {
+"ti": "Soul of Cavo: Joediem",
+"sm": "Deep house, Afro and soul: Joediem, Bazz Key, Hellfox and Qtee Rue.",
+"pl": "Cavo, Dubai; 22:00",
+"pr": "from 150 AED"
+},
+"pl-the-games-afoot-at-the-junction-in-dubai": {
+"ti": "The Game's Afoot — comedy whodunit",
+"sm": "A farcical mystery full of theatrical chaos and twists; in English.",
+"pl": "The Junction, Al Quoz; 19:15",
+"pr": "from 120 AED"
+},
+"pl-vagabond-mind-against-at-surf-club-dubai": {
+"ti": "Vagabond: Mind Against at Surf Club",
+"sm": "Mind Against, Kaytek, Darmon, Katyagur and Versa.",
+"pl": "Surf Club, Palm Jumeirah; 18:00",
+"pr": "from 100 AED"
+},
+"pl-whomadewho-at-be-beach-dubai": {
+"ti": "WhoMadeWho at Be Beach",
+"sm": "Melodic house and indie electronica on the beach.",
+"pl": "Be Beach, Dubai Harbour; 20:00",
+"pr": "from 150 AED"
+},
+"pl-yuja-wang-piano-recital": {
+"ti": "Yuja Wang — piano recital",
+"sm": "Solo recital by the pianist; programme announced on the night.",
+"pl": "Dubai Opera; 20:00",
+"pr": "from 300 AED"
+},
+"tg-c2053986524-2505-3": {
+"ti": "Megacampus Summit",
+"sm": "Two-day summit on business and mindset: James Cameron, Wim Hof, Robert Greene and others.",
+"pl": "Coca-Cola Arena, City Walk; from 10:00",
+"pr": "from 550 AED"
+},
+"tg-c2053986524-2505-6": {
+"ti": "Horse ride and acoustic evening in Al Qudra desert",
+"sm": "A horseback ride followed by live music under the open sky; sign up via the chat.",
+"pl": "Al Qudra desert; riding from 16:00, music from 19:00",
+"pr": ""
+},
+"tg-c2053986524-2505-7": {
+"ti": "Romeo and Juliet by ByNujoom Theatre in Abu Dhabi",
+"sm": "The first production by ByNujoom theatre company; only four performances.",
+"pl": "Emirates Palace Mandarin Oriental Auditorium; 19:30",
+"pr": "from 150 AED"
+},
+"tg-c2053986524-2506": {
+"ti": "Music evening in the desert",
+"sm": "Live music under the stars with fruit and light snacks; sign up via the organiser's chat.",
+"pl": "Desert near Dubai; 19:00 (optional horse ride from 16:30)",
+"pr": "150 AED"
+},
+"tg-c3051419488-2460": {
+"ti": "Mixed Doubles by LUNA PADEL",
+"sm": "Mixed pairs, level C/D+; water, balls for the winners, medals for 2nd and 3rd place.",
+"pl": "ZY Padel; 20:30–22:00",
+"pr": "150 AED"
+},
+"tg-c3051419488-2464": {
+"ti": "King of the Court by LUNA PADEL",
+"sm": "King of the Court padel game for level C/D+; registration after payment.",
+"pl": "Rise Padel; 13:00–14:30",
+"pr": "120 AED"
+},
+"tg-dubai_petrovich-16199": {
+"ti": "Furusiyya: Return to Origins show at ADREA",
+"sm": "Classical dressage show with over 40 stallions and riders; tours of the stables and gallery are also available.",
+"pl": "Abu Dhabi Royal Equestrian Arts, Jubail Island; Saturdays, 19:00",
+"pr": "from 150 AED"
+},
+"tg-dubai_pike-9438": {
+"ti": "You Can See Everything at Cinema Akil",
+"sm": "Documentary about Elizabeth Holmes, founder of Theranos.",
+"pl": "Cinema Akil, Alserkal Avenue; 19, 20.11 — 20:45; 21.11 — 17:30; 22.11 — 15:00; 28.11 — 14:55; 29.11 — 21:15",
+"pr": ""
+},
+"tg-dubaiadvise-2575": {
+"ti": "Maritime Heritage Festival in Abu Dhabi",
+"sm": "Maritime heritage festival: a recreated Emirati coastal village, crafts, workshops, music and dhow boats.",
+"pl": "Corniche, Abu Dhabi; from 16:00",
+"pr": "from 12 AED"
+},
+"tg-dubaidecode-2978": {
+"ti": "Early Childhood Week across the Emirates",
+"sm": "Over 300 events for children under 8 and their parents: workshops, games, reading and sport; children's run on 20.11.",
+"pl": "Dubai Hills Mall (City of the Future), HCT Dubai and other venues",
+"pr": ""
+},
+"tg-padel_club-44889": {
+"ti": "King D+/C at Padel One",
+"sm": "King of the Court by Padel Club, level C-.",
+"pl": "Padel One; 20:00–22:00",
+"pr": "145 AED"
+},
+"tg-padeldubai-36172": {
+"ti": "King of the Court at PAUS Club (all levels)",
+"sm": "Game for levels D–C+; waiting list when full.",
+"pl": "PAUS Club, Jumeirah; 21:30",
+"pr": "150 AED"
+},
+"tg-padeldubai-36179": {
+"ti": "Padel from scratch at Dock and Court",
+"sm": "Training for complete beginners, groups of up to 4.",
+"pl": "Dock and Court Padel Club, Al Quoz; 09:00",
+"pr": "175 AED"
+},
+"tg-padeldubai-36197": {
+"ti": "HOPS League — Friday padel at Emirates Golf Club",
+"sm": "Friday league by the Padel in Dubai community with beer trophies.",
+"pl": "Emirates Golf Club, outdoor courts; 20:30",
+"pr": ""
+},
+"tg-padeldubai-36209": {
+"ti": "Girls-only Americano at Casa Padel",
+"sm": "GIRLS ONLY Americano by the Padel in Dubai community.",
+"pl": "Casa Padel, Ripe Market, Al Khawaneej; 20:30",
+"pr": "160 AED"
+},
+"tg-padeldubai-36211": {
+"ti": "Fixed-pairs King of the Court C-/C at PAUS Club",
+"sm": "Fixed-pairs game for level C-/C.",
+"pl": "PAUS Club, Jumeirah; 21:30",
+"pr": "150 AED"
+},
+"tg-squiz_dubai-2323": {
+"ti": "Squiz — quiz at Mr Toad's Pub",
+"sm": "7 rounds, 50 questions, 2 hours of team play.",
+"pl": "Mr Toad's Pub & Kitchen, Barsha Heights; 18:00",
+"pr": "100 AED"
+},
+"tg-sysoevfmdubai-7947": {
+"ti": "Salon du Chocolat et de la Pâtisserie Dubai",
+"sm": "Festival of chocolate and pastry: 50+ pastry chefs, tastings, workshops and a chocolate fashion show.",
+"pl": "Madinat Jumeirah",
+"pr": ""
+},
+"tg-sysoevfmdubai-7955": {
+"ti": "1000 Miglia Experience UAE — classic cars in DIFC",
+"sm": "Classic car rally (29.11–3.12); see the cars up close on 2 and 3 December.",
+"pl": "Under The Gate, DIFC",
+"pr": ""
+},
+"tg-sysoevfmdubai-7956": {
+"ti": "Christmas tree lightings at Dubai hotels",
+"sm": "Ceremonies with choirs, Santa and treats; some require registration.",
+"pl": "20.11 Address Montgomerie, 26.11 Ski Dubai, 28.11 Fairmont The Palm, 30.11 Al Habtoor Polo Resort, 4–11.12 — other hotels",
+"pr": "mostly free"
+},
+"tg-sysoevfmdubai-7956-2": {
+"ti": "Madinat Jumeirah Festive Market",
+"sm": "Christmas market with a giant tree, carousels and boat rides with Santa.",
+"pl": "Madinat Jumeirah",
+"pr": "free entry"
 }
 }
