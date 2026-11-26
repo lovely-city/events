@@ -1336,32 +1336,6 @@
 {
 "aud": "adults",
 "cats": [
-"beauty"
-],
-"city": "Дубай",
-"d": "2026-11-10",
-"en": "2026-11-24",
-"id": "ig-dubai_womensclub-DeygpWWNVKz-10",
-"p": "",
-"pl": "Дубай; 11:00",
-"pr": "",
-"s": "",
-"sm": "Утро о здоровье и заботе о себе; запись на сайте клуба.",
-"src": "ig",
-"st": "2026-11-24",
-"status": "approved",
-"sub": null,
-"tags": [
-"expo",
-"hobby"
-],
-"ti": "Wellness Morning × MedPalm Clinic (женский клуб EVA)",
-"ty": "once",
-"u": "https://www.instagram.com/dubai_womensclub/"
-},
-{
-"aud": "adults",
-"cats": [
 "sport"
 ],
 "city": "Дубай",
@@ -2916,31 +2890,6 @@
 "ti": "CamelPhat в Be Beach",
 "ty": "once",
 "u": "https://dubai.platinumlist.net/event-tickets/110079/camelphat-at-be-beach-dubai"
-},
-{
-"aud": "adults",
-"cats": [
-"adults"
-],
-"city": "Дубай",
-"d": "2026-11-15",
-"en": "2026-11-24",
-"id": "pl-cavos-global-groove-presents-dj-deearnio-in-dubai",
-"p": 0,
-"pl": "Cavo, Dubai; 21:00",
-"pr": "от 150 AED",
-"s": "pl",
-"sm": "Сеты DJ Deearnio, Deeza, MC Mars и других.",
-"src": "pl",
-"st": "2026-11-24",
-"status": "approved",
-"sub": null,
-"tags": [
-"concert"
-],
-"ti": "Cavo's Global Groove: DJ Deearnio",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/108850/cavos-global-groove-presents-dj-deearnio-in-dubai"
 },
 {
 "aud": "adults",
@@ -4752,31 +4701,6 @@
 "u": "https://dubai.platinumlist.net/event-tickets/106756/secondhand-serenade"
 },
 {
-"aud": "all",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "pl-shabab-al-ahli-fc-uae-vs-al-qadsiah-club-ksa-afc-champions-league-elite",
-"p": 0,
-"pl": "Rashid Stadium",
-"pr": "от 30 AED",
-"s": "pl",
-"sm": "Футбол, Лига чемпионов АФК.",
-"src": "pl",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "other",
-"tags": [
-"sportev"
-],
-"ti": "Shabab Al Ahli FC — Al Qadsiah, AFC Champions League Elite",
-"ty": "once",
-"u": "https://dubai.platinumlist.net/event-tickets/109873/shabab-al-ahli-fc-uae-vs-al-qadsiah-club-ksa-afc-champions-league-elite"
-},
-{
 "aud": "kids",
 "cats": [
 "kidsfun"
@@ -5788,58 +5712,6 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-23",
-"id": "tg-c3051419488-2476",
-"p": 2476,
-"pl": "Playce; 21:00–22:30",
-"pr": "135 AED",
-"s": "c/3051419488",
-"sm": "Турнир «Король корта» сообщества LUNA PADEL, уровень C/D+; запись после оплаты.",
-"src": "tg",
-"st": "2026-11-23",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "King of the Court от LUNA PADEL в Playce",
-"ty": "once",
-"u": ""
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "tg-c3051419488-2477",
-"p": 2477,
-"pl": "Padel Park; 20:00–21:30",
-"pr": "140 AED",
-"s": "c/3051419488",
-"sm": "«Король корта» с пиццей, уровень C/D+; запись после оплаты.",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "Pizza & Padel: King of the Court от LUNA PADEL",
-"ty": "once",
-"u": ""
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
 "d": "2026-11-23",
 "en": "2026-11-25",
 "id": "tg-c3051419488-2480",
@@ -5896,8 +5768,8 @@
 "en": "2026-11-27",
 "id": "tg-creativedubai-29085",
 "p": 29085,
-"pl": "Университет «Синергия», JLT; 18:00",
-"pr": "",
+"pl": "Mazaya Business Avenue, Tower BB1, 20 этаж, JLT; сбор 17:30, начало 18:00",
+"pr": "вход свободный по регистрации",
 "s": "creativedubai",
 "sm": "Открытие нового сезона: поэты, чтецы, музыканты и художники; можно выступить или прийти слушателем. На русском.",
 "src": "tg",
@@ -9536,58 +9408,6 @@
 "sport"
 ],
 "city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-23",
-"id": "tg-padel_club-45192",
-"p": 45192,
-"pl": "Padel Art; 21:00–23:00",
-"pr": "150 AED",
-"s": "padel_club",
-"sm": "Вечерняя игра сообщества Padel Club, уровень D+/C-; запись в боте.",
-"src": "tg",
-"st": "2026-11-23",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "Игра Padel Club в Padel Art (D+/C-)",
-"ty": "once",
-"u": "https://t.me/PadelClubUAEBot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-23",
-"en": "2026-11-24",
-"id": "tg-padel_club-45198",
-"p": 45198,
-"pl": "Padel One; 20:00–22:00",
-"pr": "150 AED (ракетка 25 AED)",
-"s": "padel_club",
-"sm": "Вечерняя игра сообщества Padel Club, уровень D+/C-; запись в боте.",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "Игра Padel Club в Padel One (D+/C-)",
-"ty": "once",
-"u": "https://t.me/PadelClubUAEBot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
 "d": "2026-11-24",
 "en": "2026-11-26",
 "id": "tg-padel_club-45250",
@@ -9691,136 +9511,6 @@
 2,
 4
 ]
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-23",
-"id": "tg-padeldubai-36364",
-"p": 36364,
-"pl": "PAUS Club, Jumeirah; 21:30",
-"pr": "150 AED",
-"s": "padeldubai",
-"sm": "Игра для уровней D–C+ от сообщества «Падел в Дубае».",
-"src": "tg",
-"st": "2026-11-23",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "«Король корта» в PAUS Club (все уровни)",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "tg-padeldubai-36367",
-"p": 36367,
-"pl": "Dock and Court Padel Club, Al Quoz; 09:00",
-"pr": "175 AED",
-"s": "padeldubai",
-"sm": "Тренировка для тех, кто ни разу не играл, группа до 4 человек.",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"master"
-],
-"ti": "Падел с нуля в Dock and Court",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "tg-padeldubai-36375",
-"p": 36375,
-"pl": "Dock and Court Padel Club, Al Quoz; 11:00",
-"pr": "150 AED",
-"s": "padeldubai",
-"sm": "Girls Only, уровень D/D+, игра с тренером.",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "Американо с тренером для девушек в Dock and Court",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "tg-padeldubai-36389",
-"p": 36389,
-"pl": "PAUS Club, Jumeirah; 21:30",
-"pr": "150 AED",
-"s": "padeldubai",
-"sm": "«Король корта» только для мужчин, уровень C-/C+.",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "ТОПОР Кинг — мужская игра в PAUS Club",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
-},
-{
-"aud": "adults",
-"cats": [
-"sport"
-],
-"city": "Дубай",
-"d": "2026-11-22",
-"en": "2026-11-24",
-"id": "tg-padeldubai-36391",
-"p": 36391,
-"pl": "Casa Padel, Ripe Market, Al Khawaneej; 20:30",
-"pr": "160 AED",
-"s": "padeldubai",
-"sm": "Американо для уровня D/D+ от сообщества «Падел в Дубае».",
-"src": "tg",
-"st": "2026-11-24",
-"status": "approved",
-"sub": "padel",
-"tags": [
-"sport",
-"games"
-],
-"ti": "Американо для новичков в Casa Padel",
-"ty": "once",
-"u": "https://t.me/PadelDXB_bot"
 },
 {
 "aud": "adults",
@@ -10594,5 +10284,2986 @@
 "ti": "Kanye West (Ye) — концерт в Абу-Даби",
 "ty": "once",
 "u": "https://t11.com/ye"
+},
+{
+"id": "dn-bagatelle-dolce-riviera",
+"ti": "Dolce Riviera в Bagatelle по четвергам",
+"st": "2026-11-26",
+"en": "",
+"pl": "Bagatelle Dubai; чт",
+"pr": "",
+"sm": "Вечер в стиле Французской Ривьеры с живой музыкой.",
+"tags": [
+"concert",
+"date",
+"places"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://bagatelle.com/venues/dubai/booking",
+"src": "dn",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+4
+]
+},
+{
+"id": "dn-bagatelle-the-weekend",
+"ti": "The Weekend at Bagatelle — пт и сб",
+"st": "2026-11-27",
+"en": "",
+"pl": "Bagatelle Dubai; пт и сб с ужина до поздней ночи",
+"pr": "",
+"sm": "Open-format музыка, ужин и игристое; дресс-код smart elegant, бронь обязательна.",
+"tags": [
+"date",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://bagatelle.com/venues/dubai/booking",
+"src": "dn",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5,
+6
+]
+},
+{
+"id": "ig-alserkalavenue-Df9j9K1qUF7",
+"ti": "«The Days Go On» — 20 лет Ayyam Gallery",
+"st": "2026-11-26",
+"en": "2027-01-01",
+"pl": "Ayyam Gallery, Alserkal Avenue",
+"pr": "",
+"sm": "Юбилейная выставка галереи, основанной в Дамаске: художники, с которыми она работала два десятилетия.",
+"tags": [
+"expo",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://www.instagram.com/ayyamgallery/",
+"src": "ig",
+"s": "alserkalavenue",
+"p": "",
+"sub": null,
+"ty": "range",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "ig-dubai_calendar-DgHC7jeDL6F",
+"ti": "World Series of Darts — Dubai Darts Masters",
+"st": "2027-01-22",
+"en": "2027-01-23",
+"pl": "Coca-Cola Arena",
+"pr": "",
+"sm": "Этап мировой серии по дартсу с топовыми игроками PDC. Общая продажа билетов — с 27 ноября, 14:00.",
+"tags": [
+"sportev"
+],
+"cats": [
+"sport"
+],
+"aud": "all",
+"u": "https://www.coca-cola-arena.com/",
+"src": "ig",
+"s": "dubai_calendar",
+"p": "",
+"sub": "other",
+"ty": "range",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "ig-dubai_calendar-DgK2ZKyCNY_",
+"ti": "Firdaus Orchestra: «Holiday Classics Around the World»",
+"st": "2026-12-11",
+"en": "2026-12-11",
+"pl": "Al Wasl Plaza, Expo City Dubai; двери с 19:30",
+"pr": "",
+"sm": "Праздничный концерт оркестра Firdaus с хором NAS Giocoso Singers: зимняя и рождественская музыка разных стран.",
+"tags": [
+"newyear",
+"concert"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://www.instagram.com/p/DgK2ZKyCNY_/",
+"src": "ig",
+"s": "dubai_calendar",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "ig-dubai_calendar-DgKMT9lsT9G",
+"ti": "ActivateMe Festival",
+"st": "2027-01-16",
+"en": "2027-01-17",
+"pl": "Dubai Silicon Oasis",
+"pr": "",
+"sm": "Семейный фестиваль спорта и активного образа жизни на два дня.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport",
+"kidsfun"
+],
+"aud": "all",
+"u": "https://www.instagram.com/p/DgKMT9lsT9G/",
+"src": "ig",
+"s": "dubai_calendar",
+"p": "",
+"sub": null,
+"ty": "range",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "ig-otdeliskusstv_uae-DgH_ZM3ITVS",
+"ti": "«Как это сделано: Щелкунчик» — ужин с театроведом",
+"st": "2026-12-03",
+"en": "2026-12-03",
+"pl": "Miya, Bluewaters; 19:00",
+"pr": "550 AED + VAT до 30.11, затем 590 AED + VAT",
+"sm": "Подготовка к просмотру балета: история и интерпретации «Щелкунчика»; ужин и бокал игристого или б/а напитка. На русском.",
+"tags": [
+"places",
+"hobby",
+"expo",
+"concert"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.instagram.com/otdeliskusstv_uae/",
+"src": "ig",
+"s": "otdeliskusstv_uae",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-20s-30s-dubai-social-activit-317323531",
+"ti": "20s 30s Dubai Social в Long's Bar",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Long's Bar & Restaurant; 19:30",
+"pr": "",
+"sm": "Встреча для тех, кому 20–30+.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/20s-30s-dubai-social-activities/events/317323531/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-a-few-good-pages-short-story-317513766",
+"ti": "Клуб коротких рассказов",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Mall of the Emirates; 10:30",
+"pr": "",
+"sm": "Читаем и обсуждаем короткие рассказы. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/a-few-good-pages-short-story-book-club/events/317513766/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-activefitnesscommunity-317515414",
+"ti": "Интервальная беговая тренировка в Zabeel Park",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Zabeel Park, Gate 1; 19:30",
+"pr": "",
+"sm": "Скоростные интервалы в группе.",
+"tags": [
+"sport"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/activefitnesscommunity/events/317515414/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "run",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-activefitnesscommunity-317551671",
+"ti": "Пробежка для начинающих",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Дубай, место сообщают после записи; 18:00",
+"pr": "",
+"sm": "Лёгкая групповая пробежка.",
+"tags": [
+"sport",
+"weekend",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/activefitnesscommunity/events/317551671/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "run",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-adventure-emarat-317563552",
+"ti": "Beyond the Horizon — утренний выезд на природу",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "сбор в Дубае; 06:00",
+"pr": "",
+"sm": "Ранний выезд на природу на выходных.",
+"tags": [
+"sport",
+"weekend",
+"games",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/adventure-emarat/events/317563552/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-adventure-partners-317408803",
+"ti": "Board Games & Connections — вечер настольных игр",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Настольные игры и знакомства в компании.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/adventure-partners/events/317408803/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-adventure-partners-317533622",
+"ti": "Утренняя прогулка-поход в Mushrif Park",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Mushrif Park; 06:00",
+"pr": "",
+"sm": "Ранняя прогулка по парку.",
+"tags": [
+"sport",
+"weekend",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/adventure-partners/events/317533622/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-adventure-partners-317552641",
+"ti": "World Social — знакомства с людьми со всего мира",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Вечер общения для экспатов.",
+"tags": [
+"games",
+"weekend",
+"places"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/adventure-partners/events/317552641/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-adventure-trails-317411889",
+"ti": "Cinema Under the Stars: квиз о кино",
+"st": "2026-12-03",
+"en": "2026-12-03",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Киноквиз под открытым небом.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/adventure-trails/events/317411889/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-aft-adventures-317397316",
+"ti": "Galilah — Ghaf: северный склон Джебель-Джайс",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Jebel Jais, Ras Al Khaimah; 08:00",
+"pr": "",
+"sm": "Горный маршрут с AFT Adventures.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/aft-adventures/events/317397316/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-aft-adventures-317407173",
+"ti": "Wadi Dhaher: голубые и белые бассейны",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Wadi Dhaher; 08:00",
+"pr": "",
+"sm": "Кольцевой маршрут к природным бассейнам.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/aft-adventures/events/317407173/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-aft-adventures-317450145",
+"ti": "Поход Wadi Naqab — Koob Canyon",
+"st": "2026-12-06",
+"en": "2026-12-06",
+"pl": "Wadi Naqab, Ras Al Khaimah; 07:30",
+"pr": "",
+"sm": "Маршрут по каньону с AFT Adventures.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/aft-adventures/events/317450145/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-aft-adventures-317581209",
+"ti": "Поход Wadi Abadillah с AFT",
+"st": "2026-12-06",
+"en": "2026-12-06",
+"pl": "Wadi Abadillah; 08:00",
+"pr": "",
+"sm": "Маршрут по вади с AFT Adventures.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/aft-adventures/events/317581209/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-316700513",
+"ti": "Поход Red Wall и деревня Sanet",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Red Wall, Sanet; 08:00",
+"pr": "",
+"sm": "Кольцевой маршрут уровня 3–4/10.",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/316700513/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317454677",
+"ti": "Поход для начинающих: Wadi Abadillah",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Wadi Abadillah; 14:30",
+"pr": "",
+"sm": "Лёгкий маршрут (2/10).",
+"tags": [
+"sport",
+"weekend",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/317454677/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317471160",
+"ti": "Stairways to Heaven (Ras Al Gash)",
+"st": "2026-12-05",
+"en": "2026-12-05",
+"pl": "Ras Al Khaimah; 07:00",
+"pr": "",
+"sm": "Сложный маршрут, два уровня: 5/10 и 6/10.",
+"tags": [
+"sport",
+"weekend",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/317471160/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317478940",
+"ti": "Поход ко Дню нации: Wadi Dahir и серные источники",
+"st": "2026-12-02",
+"en": "2026-12-02",
+"pl": "Fujairah; 09:00",
+"pr": "",
+"sm": "Маршрут для начинающих+ (3/10).",
+"tags": [
+"sport"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/317478940/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317479243",
+"ti": "Семейный закатный поход в Wadi Far Far",
+"st": "2026-12-03",
+"en": "2026-12-03",
+"pl": "Wadi Far Far; 14:00",
+"pr": "",
+"sm": "Лёгкий маршрут (2/10), можно с детьми.",
+"tags": [
+"sport",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "all",
+"u": "https://www.meetup.com/alpinetrekkers/events/317479243/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317480923",
+"ti": "Закатный поход в Wadi Kub ко Дню нации",
+"st": "2026-12-02",
+"en": "2026-12-02",
+"pl": "Wadi Kub; 14:00",
+"pr": "",
+"sm": "Лёгкий маршрут (2/10).",
+"tags": [
+"sport",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/317480923/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-alpinetrekkers-317485969",
+"ti": "Виа феррата: Wadi Daftah Flag Summit",
+"st": "2026-12-03",
+"en": "2026-12-03",
+"pl": "Wadi Daftah; 09:00",
+"pr": "",
+"sm": "Маршрут среднего уровня (4/10).",
+"tags": [
+"sport",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/alpinetrekkers/events/317485969/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-anhedi-experiences-317174374",
+"ti": "Mate & Amigos — аргентинский мате",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Дубай, место сообщают после записи; 16:00",
+"pr": "",
+"sm": "Знакомство с аргентинской традицией мате.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/anhedi-experiences/events/317174374/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-bibliophiles-dubai-book-club-316827750",
+"ti": "Книжный клуб: «Грозовой перевал»",
+"st": "2026-12-13",
+"en": "2026-12-13",
+"pl": "Дубай, место сообщают после записи; 17:30",
+"pr": "",
+"sm": "Обсуждение романа Эмили Бронте. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/bibliophiles-dubai-book-club/events/316827750/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-bibliophiles-dubai-book-club-317269430",
+"ti": "Книжный клуб: «Зулейха открывает глаза»",
+"st": "2027-01-10",
+"en": "2027-01-10",
+"pl": "Дубай, место сообщают после записи; 17:30",
+"pr": "",
+"sm": "Обсуждение романа Гузель Яхиной. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/bibliophiles-dubai-book-club/events/317269430/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-book-cellar-316622446",
+"ti": "Книжный клуб Book Cellar: «The Women Are Up to Something»",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Дубай, место сообщают после записи; 19:30",
+"pr": "",
+"sm": "Обсуждение книги Бенджамина Липскомба. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/book-cellar/events/316622446/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-bookends-book-club-1212",
+"ti": "Книжный клуб Bookends: «Remarkably Bright Creatures»",
+"st": "2026-12-12",
+"en": "2026-12-12",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 11:00",
+"pr": "",
+"sm": "Обсуждение романа Shelby Van Pelt о горе, одиночестве и неожиданной дружбе. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.instagram.com/bookendsae/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-bookends-dubai-315267280",
+"ti": "Книжный клуб Bookends: книга по выбору",
+"st": "2026-12-27",
+"en": "2026-12-27",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 11:00",
+"pr": "",
+"sm": "Открытое обсуждение: каждый рассказывает о своей книге. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.instagram.com/bookendsae/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-bookends-dubai-317523817",
+"ti": "Час тихого чтения в Bookends",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 10:00",
+"pr": "",
+"sm": "Читаем вместе в тишине книжного магазина.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.instagram.com/bookendsae/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-coffee-society-dxb-317567291",
+"ti": "Conversations Over Coffee",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Вечер общения за кофе.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/coffee-society-dxb/events/317567291/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-common-pace-317314296",
+"ti": "Common Pace — прогулка и разговоры",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Дубай, место сообщают после записи; 19:30",
+"pr": "",
+"sm": "Групповая прогулка в спокойном темпе.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/common-pace/events/317314296/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-common-pace-317515402",
+"ti": "Common Pace — велопрогулка",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Дубай, место сообщают после записи; 19:30",
+"pr": "",
+"sm": "Групповая поездка на велосипедах.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/common-pace/events/317515402/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-crafters-dubai-317549039",
+"ti": "Рукоделие в Dubai Mall",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Dubai Mall; 14:00",
+"pr": "",
+"sm": "Встреча любителей рукоделия: приносите свой проект.",
+"tags": [
+"master",
+"weekend",
+"hobby",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/crafters-dubai/events/317549039/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dice-divergence-1202",
+"ti": "Вечер настольных игр для нейроотличных людей",
+"st": "2026-12-02",
+"en": "2026-12-02",
+"pl": "tile Board Game Cafe, JLT; 19:00",
+"pr": "",
+"sm": "Спокойная встреча за настольными играми для людей с СДВГ, аутизмом и другими особенностями.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dice-divergence-dubai/events/317496109/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dine-club-317514897",
+"ti": "Dine & Connect — ужин и общение",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Ужин в компании новых знакомых.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dine-club/events/317514897/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-active-community-317502797",
+"ti": "Крикет на газоне в Port Rashid",
+"st": "2026-12-01",
+"en": "2026-12-01",
+"pl": "Port Rashid; 20:00",
+"pr": "",
+"sm": "Любительская игра в крикет.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-active-community/events/317502797/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "other",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-booze-book-babes-317513120",
+"ti": "Книжный клуб: «Alchemised»",
+"st": "2026-12-06",
+"en": "2026-12-06",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Обсуждение книги за бокалом. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-booze-book-babes/events/317513120/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-booze-book-babes-317513225",
+"ti": "Кинопоход: «Ebenezer» в Vox MOE",
+"st": "2026-12-01",
+"en": "2026-12-01",
+"pl": "Vox Cinemas, Mall of the Emirates; 19:00",
+"pr": "",
+"sm": "Совместный просмотр фильма с Джонни Деппом.",
+"tags": [
+"hobby",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-booze-book-babes/events/317513225/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-exclusive-317426383",
+"ti": "Socialize & Have Fun — афтепати",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Вечер общения и знакомств.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-exclusive/events/317426383/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-expats-social-language-317552554",
+"ti": "Языковой обмен по воскресеньям в Arjan",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Arjan; 19:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-expats-social-language-exchange/events/317552554/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-explorers-317576465",
+"ti": "Лёгкий рассветный поход в Хатте",
+"st": "2026-12-01",
+"en": "2026-12-01",
+"pl": "Hatta; 07:00",
+"pr": "",
+"sm": "Несложный подъём на рассвете.",
+"tags": [
+"sport",
+"games",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-explorers/events/317576465/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-fashion-photography-me-317365968",
+"ti": "Воркшоп по фэшн-фотографии",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "DAMSTUDIO; 10:00",
+"pr": "",
+"sm": "Практика съёмки с моделями и светом.",
+"tags": [
+"master",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-fashion-photography-meetup-group/events/317365968/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-food-lovers-317514746",
+"ti": "Coffee Connect — кофе и разговоры",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Уютный вечер за кофе.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-food-lovers/events/317514746/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-fun-social-317539497",
+"ti": "World Voices Social — языки и культуры",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-fun-social/events/317539497/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-ludo-masters-317351809",
+"ti": "Бесплатный лудо в Safa",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Al Safa High School, спортзал; 10:00",
+"pr": "бесплатно",
+"sm": "Игра в лудо для всех желающих.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://www.meetup.com/dubai-ludo-masters/events/317351809/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-socialites-317567347",
+"ti": "Conversations Without Borders — языковой вечер",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-socialites/events/317567347/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-socialites-group-317527342",
+"ti": "Talk the World — практика языков",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-socialites-group/events/317527342/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-socialites-group-317539470",
+"ti": "Girl Talk & Grounds — встреча для женщин",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Кофе и разговоры, только для женщин.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-socialites-group/events/317539470/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-women-s-art-club-paint-317437723",
+"ti": "Ladies Paint, Sip & Sketch — рисование для женщин",
+"st": "2026-12-04",
+"en": "2026-12-04",
+"pl": "Starbucks, Spinneys; 10:30",
+"pr": "65 AED",
+"sm": "Рисование и скетчинг за кофе; материалы включены. Только для женщин.",
+"tags": [
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-women-s-art-club-paint-sketch-art-therapy/events/317437723/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-women-s-art-club-paint-317449444",
+"ti": "Paint, Sip & Reconnect — рисование для женщин",
+"st": "2026-12-06",
+"en": "2026-12-06",
+"pl": "Starbucks, Spinneys; 10:30",
+"pr": "50 AED",
+"sm": "Рисование и скетчинг за кофе; материалы включены. Только для женщин.",
+"tags": [
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-women-s-art-club-paint-sketch-art-therapy/events/317449444/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-women-s-art-club-paint-317449541",
+"ti": "Paint your Mood — рисование для женщин",
+"st": "2026-12-06",
+"en": "2026-12-06",
+"pl": "Raw Coffee Company; 10:30",
+"pr": "65 AED",
+"sm": "Рисование и скетчинг за кофе; материалы включены. Только для женщин.",
+"tags": [
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-women-s-art-club-paint-sketch-art-therapy/events/317449541/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-women-s-art-club-paint-317523797",
+"ti": "Ladies Paint, Sip & Sketch — рисование для женщин",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Starbucks, Spinneys; 10:00",
+"pr": "50 AED",
+"sm": "Рисование и скетчинг за кофе; материалы включены. Только для женщин.",
+"tags": [
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubai-women-s-art-club-paint-sketch-art-therapy/events/317523797/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-dubai-yoga-meditation-group-317327267",
+"ti": "Кундалини-йога на Kite Beach по пятницам",
+"st": "2026-11-27",
+"en": "",
+"pl": "Kite Beach; пт 17:00",
+"pr": "80 AED",
+"sm": "Кундалини-йога на пляже.",
+"tags": [],
+"cats": [
+"yoga"
+],
+"aud": "all",
+"u": "https://www.meetup.com/dubai-yoga-meditation-group/events/317327267/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "yoga",
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5
+]
+},
+{
+"id": "mu-dubaisalsaclub-317529120",
+"ti": "Латино-вечеринки Dubai Salsa Club",
+"st": "2026-11-26",
+"en": "",
+"pl": "Дубай, место сообщают после записи; вт, чт, пт, сб с 22:00",
+"pr": "",
+"sm": "Социальные танцы: сальса, бачата, кизомба; разные вечеринки по дням.",
+"tags": [
+"date",
+"games",
+"places"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dubaisalsaclub/events/317529120/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "dance",
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+2,
+4,
+5,
+6
+]
+},
+{
+"id": "mu-dxb-dance-317568759",
+"ti": "Класс афробитс в MOOV",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "MOOV Dance & Fitness Center; 21:00",
+"pr": "",
+"sm": "Танцевальный класс в стиле афробитс.",
+"tags": [],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/dxb-dance/events/317568759/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "dance",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-e5-chess-club-2-years",
+"ti": "E5 Chess Club: турнир к двухлетию клуба",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Bert's Cafe, The Greens; 15:00",
+"pr": "",
+"sm": "Праздничный шахматный турнир в формате «мозг и рука» для участников всех уровней.",
+"tags": [
+"games",
+"weekend",
+"sportev"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://www.meetup.com/chess-club-dubai/events/317565865/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "other",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-explore-quest-club-dubai-317564764",
+"ti": "Sunset Quest Walk по Даунтауну",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "chök, Downtown Dubai; 17:30",
+"pr": "",
+"sm": "Прогулка-квест по Даунтауну на закате.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/explore-quest-club-dubai/events/317564764/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-exploring-socialising-for-al-317548128",
+"ti": "Social Game Night в SpartaCUEs",
+"st": "2026-12-19",
+"en": "2026-12-19",
+"pl": "SpartaCUEs Billiards and Board Game Cafe; 20:00",
+"pr": "",
+"sm": "Вечер игр и знакомств: настольные игры и бильярд.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/exploring-socialising-for-all-dubai/events/317548128/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-jbr-run-pilates-club-317589639",
+"ti": "JBR Run & Pilates Club",
+"st": "2026-12-02",
+"en": "2026-12-02",
+"pl": "JBR; 07:00",
+"pr": "",
+"sm": "Утренняя пробежка и пилатес на пляже.",
+"tags": [
+"sport"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/jbr-run-pilates-club/events/317589639/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "run",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-laughter-yoga-festive-1210",
+"ti": "Праздничная йога смеха в Al Barsha Pond Park",
+"st": "2026-12-10",
+"en": "2026-12-10",
+"pl": "Al Barsha Pond Park; 20:00",
+"pr": "около 50 AED наличными",
+"sm": "30-минутная сессия: растяжка, дыхание и упражнения йоги смеха в праздничном настроении.",
+"tags": [
+"sport"
+],
+"cats": [
+"yoga"
+],
+"aud": "all",
+"u": "https://www.meetup.com/dubai-laughter-club/events/316428916/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "yoga",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-learn-speak-arabic-in-dubai-317352492",
+"ti": "Арабский с нуля: воркшоп в Dubai Mall",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "3arabian, Dubai Mall; 12:00",
+"pr": "99 AED",
+"sm": "Первые фразы на арабском за одно занятие.",
+"tags": [
+"hobby"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/learn-speak-arabic-in-dubai/events/317352492/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-let-s-practice-english-toget-317549463",
+"ti": "Разговорный английский в компании",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Дубай, место сообщают после записи; 18:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/let-s-practice-english-together/events/317549463/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-meetup-group-gdyhtozr-317563494",
+"ti": "Dynasty Game Night в Al Habtoor Palace",
+"st": "2026-12-05",
+"en": "2026-12-05",
+"pl": "Al Habtoor Palace, Ballroom A; 19:00",
+"pr": "",
+"sm": "Большой игровой вечер в бальном зале отеля.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/meetup-group-gdyhtozr/events/317563494/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-meetup-group-ipsxrjpv-317539169",
+"ti": "Тихая писательская сессия",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Caféine Club UAE; 18:00",
+"pr": "",
+"sm": "Пишем каждый своё в спокойной компании.",
+"tags": [
+"hobby",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/meetup-group-ipsxrjpv/events/317539169/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-meetup-group-mkkjixhs-317550634",
+"ti": "Хатха-йога на закате на Sunset Beach",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Sunset Beach, Jumeirah 3; 16:45",
+"pr": "",
+"sm": "Йога на пляже на закате.",
+"tags": [
+"weekend",
+"sport"
+],
+"cats": [
+"yoga"
+],
+"aud": "all",
+"u": "https://www.meetup.com/meetup-group-mkkjixhs/events/317550634/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "yoga",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-moms-in-dubai-317577919",
+"ti": "Кофе для мам с малышами в Magic Planet",
+"st": "2026-12-01",
+"en": "2026-12-01",
+"pl": "Magic Planet, Wafi Mall; 13:00",
+"pr": "",
+"sm": "Мамы пьют кофе, дети играют рядом.",
+"tags": [
+"games"
+],
+"cats": [
+"kidsfun"
+],
+"aud": "all",
+"u": "https://www.meetup.com/moms-in-dubai/events/317577919/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-newvision-317533437",
+"ti": "Утренняя йога и прогулка",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Horizon Tower; 06:00",
+"pr": "",
+"sm": "Йога и прогулка ранним утром.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"yoga"
+],
+"aud": "all",
+"u": "https://www.meetup.com/newvision/events/317533437/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "yoga",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-ornaments-painting-1205",
+"ti": "Роспись ёлочных игрушек для девушек в Le Guepard",
+"st": "2026-12-05",
+"en": "2026-12-05",
+"pl": "Le Guepard, Alserkal Avenue (unit 57); 16:00",
+"pr": "41 USD (по Meetup)",
+"sm": "Расписываем гипсовые ёлочные игрушки за кофе и знакомимся. Только для женщин.",
+"tags": [
+"newyear",
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/your-dxb-tribe/events/317500385/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-ourworldwithoutstrangers-317352990",
+"ti": "Our World Without Strangers — обмен культурами",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "DIC Building 3, Thuraya Hall, Internet City; 12:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/ourworldwithoutstrangers/events/317352990/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-paint-stitch-sip-317512747",
+"ti": "Paint, Stitch & Sip в Bebax Coffee",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Bebax Coffee, Arjan; 14:30",
+"pr": "",
+"sm": "Рисование и вышивка за кофе.",
+"tags": [
+"master",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/paint-stitch-sip/events/317512747/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-primexar-book-club-317563821",
+"ti": "Книжный клуб: «The Stationery Shop of Tehran»",
+"st": "2026-12-19",
+"en": "2026-12-19",
+"pl": "One Lake Plaza, Cluster T, JLT; 16:00",
+"pr": "",
+"sm": "Обсуждение романа Марьям Камали. На английском.",
+"tags": [
+"hobby",
+"weekend",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/primexar-book-club/events/317563821/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-project-baila-317527856",
+"ti": "Project Baila: сальса и бачата в JADS Studio",
+"st": "2026-11-27",
+"en": "",
+"pl": "JADS Studio, Flora Hotel, 7-й этаж, Al Barsha; пт 20:00, сб 13:00, вс 18:00",
+"pr": "50 (по Meetup)",
+"sm": "Классы сальсы и бачаты для разных уровней.",
+"tags": [],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/project-baila/events/317527856/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "dance",
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5,
+6,
+0
+]
+},
+{
+"id": "mu-safar-book-group-317408980",
+"ti": "Книжный клуб Safar: Лиз Бурбо",
+"st": "2026-12-16",
+"en": "2026-12-16",
+"pl": "Media One Hotel; 19:15",
+"pr": "",
+"sm": "Обсуждение книги «Исцели свои раны и найди себя». На английском.",
+"tags": [
+"hobby",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/safar-book-group/events/317408980/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-social-dance-club-317314629",
+"ti": "Классы сальсы в Dance For You",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Dance For You; 20:15",
+"pr": "",
+"sm": "Групповой класс сальсы.",
+"tags": [],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/social-dance-club/events/317314629/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "dance",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-sports-fitness-dxb-317251286",
+"ti": "Padel & Party с диджеем",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "Дубай, место сообщают после записи; 17:00",
+"pr": "",
+"sm": "Падел и вечеринка с живым диджеем на корте.",
+"tags": [
+"sport",
+"weekend",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/sports-fitness-dxb/events/317251286/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-talk-cafe-317494374",
+"ti": "Английский разговорный клуб для женщин",
+"st": "2026-12-09",
+"en": "2026-12-09",
+"pl": "Dubai Mall, фуд-корт China Town; 10:00",
+"pr": "",
+"sm": "Практика иностранных языков и знакомства в неформальной обстановке.",
+"tags": [
+"hobby",
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/talk-cafe/events/317494374/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-coffee-salon-317567336",
+"ti": "Conversations That Brew — кофейный вечер",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Дубай, место сообщают после записи; 19:00",
+"pr": "",
+"sm": "Вечер общения за кофе.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-coffee-salon/events/317567336/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317129975",
+"ti": "Шахматное воскресенье в The South Market",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "The South Market food hall, 2-й этаж; 15:30",
+"pr": "",
+"sm": "Шахматы для всех уровней.",
+"tags": [
+"games",
+"weekend",
+"sport"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-crazy-club/events/317129975/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "other",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317328843",
+"ti": "Pub Tales — истории в баре",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Nuevo restaurant; 20:00",
+"pr": "",
+"sm": "Вечер рассказов и разговоров.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-crazy-club/events/317328843/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317354344",
+"ti": "Dreamy Discussions — разговоры о снах",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "The South Market food hall, 2-й этаж; 16:00",
+"pr": "",
+"sm": "Дискуссионный клуб о снах и их значении.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-crazy-club/events/317354344/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317527599",
+"ti": "Friday Night Pub Chess в Nuevo",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Nuevo restaurant; 19:30",
+"pr": "",
+"sm": "Шахматы в баре по пятницам.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-crazy-club/events/317527599/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317528834",
+"ti": "Crime Time — дискуссия об этике и мотивах",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "La Vue Bar; 21:15",
+"pr": "",
+"sm": "Обсуждаем преступления, мораль и мотивы.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-crazy-club/events/317528834/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-crazy-club-317549381",
+"ti": "Пазлы в The South Market",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "The South Market food hall, 2-й этаж; 14:00",
+"pr": "бесплатно",
+"sm": "Собираем пазлы вместе.",
+"tags": [
+"games",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://www.meetup.com/the-crazy-club/events/317549381/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-hiking-hub-317577623",
+"ti": "Поход по тропам Хатты",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Hatta; 08:00",
+"pr": "",
+"sm": "Маршрут по горным тропам Хатты.",
+"tags": [
+"sport",
+"weekend"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/the-hiking-hub/events/317577623/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-the-holistic-circle-317568273",
+"ti": "Sunset Stretch & Move на Kite Beach",
+"st": "2026-11-29",
+"en": "2026-11-29",
+"pl": "Kite Beach; 16:30",
+"pr": "",
+"sm": "Растяжка и движение на закате.",
+"tags": [
+"weekend",
+"sport"
+],
+"cats": [
+"yoga"
+],
+"aud": "all",
+"u": "https://www.meetup.com/the-holistic-circle/events/317568273/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "yoga",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-top-padel-pickleball-events-317561882",
+"ti": "Open Social: падел и пиклбол в Top Padel",
+"st": "2026-11-26",
+"en": "",
+"pl": "Top Padel / Top Pickle, City Centre Me'aisem; чт и сб 19:30",
+"pr": "",
+"sm": "Открытые игры в падел и пиклбол для всех.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/top-padel-pickleball-events/events/317561882/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "padel",
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+4,
+6
+]
+},
+{
+"id": "mu-uae-outdoor-enthusiasts-meet-317267303",
+"ti": "Однодневная поездка в Мусандам",
+"st": "2026-12-03",
+"en": "2026-12-03",
+"pl": "выезд из Дубая; 07:00",
+"pr": "",
+"sm": "Однодневная поездка в Мусандам (Оман).",
+"tags": [
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/uae-outdoor-enthusiasts-meetup/events/317267303/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-uae-weekend-lovers-316893270",
+"ti": "Santa Hike на восточном побережье",
+"st": "2026-12-12",
+"en": "2026-12-12",
+"pl": "восточное побережье ОАЭ; 08:00",
+"pr": "",
+"sm": "Праздничный предрождественский поход.",
+"tags": [
+"sport",
+"weekend",
+"newyear",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/uae-weekend-lovers/events/316893270/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-wildwonders-317552880",
+"ti": "Лёгкий закатный поход в Хатте",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Hatta, сбор в Business Bay; 17:00",
+"pr": "",
+"sm": "Несложный подъём на закате.",
+"tags": [
+"sport",
+"places",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/wildwonders/events/317552880/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "outdoor",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-winner-dinner-317313542",
+"ti": "Индор-падел в Nad Al Hammar",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Nad Al Hammar Park 2; 18:30",
+"pr": "",
+"sm": "Игра в падел в закрытом зале; запись через WhatsApp.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/winner-dinner/events/317313542/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "mu-winner-dinner-317568147",
+"ti": "Blood on the Clocktower — социальная дедукция",
+"st": "2026-11-30",
+"en": "2026-11-30",
+"pl": "Al Barsha; 20:00",
+"pr": "",
+"sm": "Ролевая игра в духе «Мафии»; запись через WhatsApp.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.meetup.com/winner-dinner/events/317568147/",
+"src": "mu",
+"s": "",
+"p": "",
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-engelbert-humperdinck-farewell-tour",
+"ti": "Engelbert Humperdinck — прощальный тур",
+"st": "2027-01-31",
+"en": "2027-01-31",
+"pl": "The Agenda, Dubai Media City",
+"pr": "от 290 AED",
+"sm": "«Король романса» исполнит свои классические хиты в рамках мирового прощального тура.",
+"tags": [
+"concert"
+],
+"cats": [
+"adults"
+],
+"aud": "all",
+"u": "https://dubai.platinumlist.net/event-tickets/110194/engelbert-humperdinck-international-music-legend-comes-to-dubai-on-his-worldwide-farewell-tour",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-familybeatz-studio-one-hotel-dubai-studio-city",
+"ti": "FamilyBeatz — хаус-вечеринка для всей семьи",
+"st": "2027-01-24",
+"en": "2027-01-24",
+"pl": "Studio One Hotel, Dubai Studio City",
+"pr": "от 100 AED",
+"sm": "Хаус-музыка, танцы и занятия для детей и родителей.",
+"tags": [
+"concert",
+"weekend",
+"games"
+],
+"cats": [
+"kidsfun"
+],
+"aud": "all",
+"u": "https://dubai.platinumlist.net/event-tickets/110296/familybeatz-studio-one-hotel-dubai-studio-city",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-indo-warehouse",
+"ti": "Indo Warehouse — Новый год в The Penthouse",
+"st": "2026-12-31",
+"en": "2026-12-31",
+"pl": "The Penthouse, FIVE Palm Jumeirah",
+"pr": "от 300 AED",
+"sm": "Новогодняя ночь с сетом Indo Warehouse и семиминутным фейерверком.",
+"tags": [
+"newyear",
+"concert"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://dubai.platinumlist.net/event-tickets/indo-warehouse",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-jazz-to-havana-with-live-duo",
+"ti": "Jazz to Havana — живой джаз по пятницам во Flashback",
+"st": "2026-11-27",
+"en": "2027-01-29",
+"pl": "Flashback Speakeasy, Paramount Hotel; пт",
+"pr": "120 AED (3 напитка включены)",
+"sm": "Джаз и латиноамериканская музыка в исполнении дуэта Anabel & Alejandro в баре-спикизи.",
+"tags": [
+"concert",
+"date",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://dubai.platinumlist.net/event-tickets/jazz-to-havana-with-live-duo",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5
+]
+},
+{
+"id": "pl-marco-carola-music-on-2027-02-05",
+"ti": "Marco Carola: Music On в Pacha ICONS",
+"st": "2027-02-05",
+"en": "2027-02-05",
+"pl": "Pacha ICONS, Five Luxe JBR",
+"pr": "от 200 AED",
+"sm": "Фирменная вечеринка Music On итальянского техно-диджея.",
+"tags": [
+"concert",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://dubai.platinumlist.net/event-tickets/110026/marco-carola-presents-music-on-pacha-icons",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-pluma",
+"ti": "Pluma — цирковое шоу",
+"st": "2026-09-30",
+"en": "2026-12-13",
+"pl": "Шатёр Pluma, Dubai Festival City Mall",
+"pr": "от 100 AED",
+"sm": "Современный цирк для всей семьи: воздушная акробатика, история и музыка. Показы продлили до 13 декабря.",
+"tags": [
+"concert",
+"weekend"
+],
+"cats": [
+"kidsfun",
+"adults"
+],
+"aud": "all",
+"u": "https://dubai.platinumlist.net/event-tickets/pluma",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "range",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "pl-ppitos-spotlight-at-flashback-speakeasy",
+"ti": "Ppito’s Spotlight — акустика по пятницам во Flashback",
+"st": "2026-11-27",
+"en": "",
+"pl": "Flashback Speakeasy, Paramount Hotel; пт",
+"pr": "120 AED",
+"sm": "Акустическая латиноамериканская музыка вживую в баре-спикизи.",
+"tags": [
+"concert",
+"date"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://dubai.platinumlist.net/event-tickets/ppitos-spotlight-at-flashback-speakeasy",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5
+]
+},
+{
+"id": "pl-vini-vici-at-troy-in-dubai",
+"ti": "Vini Vici в Troy",
+"st": "2026-12-19",
+"en": "2026-12-19",
+"pl": "Troy, Ramee Dream Hotel",
+"pr": "от 125 AED",
+"sm": "Израильский дуэт psytrance с большим электронным сетом.",
+"tags": [
+"concert",
+"weekend"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://dubai.platinumlist.net/event-tickets/110197/vini-vici-at-troy-in-dubai",
+"src": "pl",
+"s": "pl",
+"p": 0,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-creativedubai-29107",
+"ti": "Back to the 90s — танцевальная вечеринка в MAGADAN Dubai",
+"st": "2026-11-28",
+"en": "2026-11-28",
+"pl": "MAGADAN Dubai, Palm West Beach (Radisson Beach Resort); 21:30",
+"pr": "вход бесплатный по регистрации",
+"sm": "Живая группа, русские и зарубежные хиты 90-х, розыгрыш подарков; 3 часа бесплатной парковки.",
+"tags": [
+"concert",
+"weekend",
+"date"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://forms.gle/3nU2zLzAUaiKL1iu5",
+"src": "tg",
+"s": "creativedubai",
+"p": 29107,
+"sub": null,
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-dubaidecode-2986",
+"ti": "Советские комедии по пятницам в Garden by Kickers",
+"st": "2026-11-27",
+"en": "",
+"pl": "Garden by Kickers, Dubai Sports City; пт с 20:00",
+"pr": "",
+"sm": "«Ирония судьбы», «Операция „Ы“», «Иван Васильевич меняет профессию» и другие; фильм недели можно уточнить у бара.",
+"tags": [
+"games"
+],
+"cats": [
+"adults"
+],
+"aud": "adults",
+"u": "https://www.instagram.com/kickersportsbar/",
+"src": "tg",
+"s": "dubaidecode",
+"p": 2986,
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+5
+]
+},
+{
+"id": "tg-dubaimap-15060",
+"ti": "Cinema Under the Stars в парке JLT по субботам",
+"st": "2026-11-28",
+"en": "2027-01-30",
+"pl": "JLT Park; сб 19:30",
+"pr": "бесплатно; место у экрана — 30 AED",
+"sm": "Кино под открытым небом: можно прийти со своими пледами, стульями и закусками. 28 ноября — «История игрушек».",
+"tags": [
+"weekend",
+"places"
+],
+"cats": [
+"kidsfun",
+"adults"
+],
+"aud": "all",
+"u": "https://jlt.ae/calendar/cinema-under-the-stars",
+"src": "tg",
+"s": "dubaimap",
+"p": 15060,
+"sub": null,
+"ty": "recurring",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved",
+"wd": [
+6
+]
+},
+{
+"id": "tg-dubaitop777-9669",
+"ti": "Тюльпаны к Национальному дню в d3",
+"st": "2026-11-25",
+"en": "2026-12-01",
+"pl": "Dubai Design District, между зданиями 4 и 6; 16:30–18:00",
+"pr": "бесплатно",
+"sm": "Инсталляция из тюльпанов, выращенных жителями, к 55-му Национальному дню ОАЭ; каждый день раздают 55 букетов.",
+"tags": [
+"expo",
+"weekend",
+"places"
+],
+"cats": [
+"adults",
+"kidsfun"
+],
+"aud": "all",
+"u": "https://t.me/dubaitop777/9669",
+"src": "tg",
+"s": "dubaitop777",
+"p": 9669,
+"sub": null,
+"ty": "range",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-padel_club-45316",
+"ti": "Игра D+/C- в ZY Padel",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "ZY Padel; 18:30–20:30",
+"pr": "150 AED",
+"sm": "Групповая игра на 20 участников от Padel Club UAE.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://t.me/PadelClubUAEBot",
+"src": "tg",
+"s": "padel_club",
+"p": 45316,
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-padeldubai-36483",
+"ti": "Американо для новичков в Casa Padel",
+"st": "2026-11-26",
+"en": "2026-11-26",
+"pl": "Casa Padel, Ripe Market, Al Khawaneej; 20:30",
+"pr": "160 AED",
+"sm": "Игра для уровней D/D+ от сообщества «Падел в Дубае».",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://t.me/PadelDXB_bot",
+"src": "tg",
+"s": "padeldubai",
+"p": 36483,
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-padeldubai-36518",
+"ti": "HOPS League в Emirates Golf Club",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Emirates Golf Club, Dubai Marina; 20:30",
+"pr": "150 AED",
+"sm": "Лига для уровней D–C+ от сообщества «Падел в Дубае».",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://t.me/PadelDXB_bot",
+"src": "tg",
+"s": "padeldubai",
+"p": 36518,
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
+},
+{
+"id": "tg-padeldubai-36520",
+"ti": "«Король корта» D/D+ в Paus Club",
+"st": "2026-11-27",
+"en": "2026-11-27",
+"pl": "Paus Club, Jumeirah; 21:00",
+"pr": "150 AED",
+"sm": "Формат «король корта» для начинающих игроков.",
+"tags": [
+"sport",
+"games"
+],
+"cats": [
+"sport"
+],
+"aud": "adults",
+"u": "https://t.me/PadelDXB_bot",
+"src": "tg",
+"s": "padeldubai",
+"p": 36520,
+"sub": "padel",
+"ty": "once",
+"city": "Дубай",
+"d": "2026-11-26",
+"status": "approved"
 }
 ]

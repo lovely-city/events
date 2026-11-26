@@ -1233,7 +1233,8 @@
 "tg-creativedubai-29085": {
 "ti": "Poetfest.Dubai — poetry and music night",
 "sm": "Season opening: poets, readers, musicians and artists; perform or just listen. In Russian.",
-"pl": "Synergy University, JLT; 18:00"
+"pl": "Mazaya Business Avenue, Tower BB1, 20th floor, JLT; gathering 17:30, start 18:00",
+"pr": "free entry with registration"
 },
 "pl-bongos-bingo-dubai": {
 "sm": "Bingo party with singalongs, rave rounds, dance-offs and confetti.",
@@ -2642,5 +2643,592 @@
 "sm": "Creative “Explore Dubai” camp for children.",
 "pl": "Al Jalila Cultural Centre for Children",
 "pr": ""
+},
+"dn-bagatelle-dolce-riviera": {
+"ti": "Dolce Riviera at Bagatelle on Thursdays",
+"sm": "A French Riviera-style evening with live music.",
+"pl": "Bagatelle Dubai; Thu"
+},
+"dn-bagatelle-the-weekend": {
+"ti": "The Weekend at Bagatelle — Fri & Sat",
+"sm": "Open-format music, dinner and bubbles; smart elegant dress code, reservations required.",
+"pl": "Bagatelle Dubai; Fri & Sat from dinner till late"
+},
+"ig-alserkalavenue-Df9j9K1qUF7": {
+"ti": "“The Days Go On” — 20 years of Ayyam Gallery",
+"sm": "Anniversary show of the gallery founded in Damascus, with the artists it has worked with for two decades.",
+"pl": "Ayyam Gallery, Alserkal Avenue"
+},
+"ig-dubai_calendar-DgHC7jeDL6F": {
+"ti": "World Series of Darts — Dubai Darts Masters",
+"sm": "A World Series stop with top PDC players. General ticket sale from 27 November, 14:00.",
+"pl": "Coca-Cola Arena"
+},
+"ig-dubai_calendar-DgK2ZKyCNY_": {
+"ti": "Firdaus Orchestra: “Holiday Classics Around the World”",
+"sm": "Festive concert by the Firdaus Orchestra with NAS Giocoso Singers: winter and Christmas music from around the world.",
+"pl": "Al Wasl Plaza, Expo City Dubai; doors from 19:30"
+},
+"ig-dubai_calendar-DgKMT9lsT9G": {
+"ti": "ActivateMe Festival",
+"sm": "A two-day family festival of sport and active living.",
+"pl": "Dubai Silicon Oasis"
+},
+"ig-otdeliskusstv_uae-DgH_ZM3ITVS": {
+"ti": "“How It’s Made: The Nutcracker” — dinner with a theatre critic",
+"sm": "Get ready for the ballet: the history and interpretations of “The Nutcracker”; dinner and a glass of sparkling or soft drink. In Russian.",
+"pl": "Miya, Bluewaters; 19:00",
+"pr": "550 AED + VAT until 30.11, then 590 AED + VAT"
+},
+"mu-20s-30s-dubai-social-activit-317323531": {
+"ti": "20s 30s Dubai Social at Long's Bar",
+"sm": "A meetup for people in their 20s and 30s.",
+"pl": "Long's Bar & Restaurant; 19:30"
+},
+"mu-a-few-good-pages-short-story-317513766": {
+"ti": "Short Story Book Club",
+"sm": "Reading and discussing short stories. In English.",
+"pl": "Mall of the Emirates; 10:30"
+},
+"mu-activefitnesscommunity-317515414": {
+"ti": "Interval running session in Zabeel Park",
+"sm": "Group speed intervals.",
+"pl": "Zabeel Park, Gate 1; 19:30"
+},
+"mu-activefitnesscommunity-317551671": {
+"ti": "Beginners run",
+"sm": "An easy group run.",
+"pl": "Dubai, venue shared after sign-up; 18:00"
+},
+"mu-adventure-emarat-317563552": {
+"ti": "Beyond the Horizon — early morning nature trip",
+"sm": "An early weekend trip out into nature.",
+"pl": "meeting point in Dubai; 06:00"
+},
+"mu-adventure-partners-317408803": {
+"ti": "Board Games & Connections",
+"sm": "Board games and meeting new people.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-adventure-partners-317533622": {
+"ti": "Morning walk-hike in Mushrif Park",
+"sm": "An early walk through the park.",
+"pl": "Mushrif Park; 06:00"
+},
+"mu-adventure-partners-317552641": {
+"ti": "World Social — meet people from all over the world",
+"sm": "A social evening for expats.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-adventure-trails-317411889": {
+"ti": "Cinema Under the Stars: movie quiz",
+"sm": "An open-air movie quiz.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-aft-adventures-317397316": {
+"ti": "Galilah to Ghaf: north face of Jebel Jais",
+"sm": "A mountain route with AFT Adventures.",
+"pl": "Jebel Jais, Ras Al Khaimah; 08:00"
+},
+"mu-aft-adventures-317407173": {
+"ti": "Wadi Dhaher: blue and white pools",
+"sm": "A loop route to natural pools.",
+"pl": "Wadi Dhaher; 08:00"
+},
+"mu-aft-adventures-317450145": {
+"ti": "Wadi Naqab — Koob Canyon hike",
+"sm": "A canyon route with AFT Adventures.",
+"pl": "Wadi Naqab, Ras Al Khaimah; 07:30"
+},
+"mu-aft-adventures-317581209": {
+"ti": "Wadi Abadillah hike with AFT",
+"sm": "A wadi route with AFT Adventures.",
+"pl": "Wadi Abadillah; 08:00"
+},
+"mu-alpinetrekkers-316700513": {
+"ti": "Red Wall & Sanet Village loop hike",
+"sm": "Loop route, level 3–4/10.",
+"pl": "Red Wall, Sanet; 08:00"
+},
+"mu-alpinetrekkers-317454677": {
+"ti": "Beginner hike: Wadi Abadillah",
+"sm": "Easy route (2/10).",
+"pl": "Wadi Abadillah; 14:30"
+},
+"mu-alpinetrekkers-317471160": {
+"ti": "Stairways to Heaven (Ras Al Gash)",
+"sm": "Hard route, two levels: 5/10 and 6/10.",
+"pl": "Ras Al Khaimah; 07:00"
+},
+"mu-alpinetrekkers-317478940": {
+"ti": "National Day hike: Wadi Dahir & sulphur pools",
+"sm": "Beginner+ route (3/10).",
+"pl": "Fujairah; 09:00"
+},
+"mu-alpinetrekkers-317479243": {
+"ti": "Family sunset hike in Wadi Far Far",
+"sm": "Easy route (2/10), kids welcome.",
+"pl": "Wadi Far Far; 14:00"
+},
+"mu-alpinetrekkers-317480923": {
+"ti": "National Day sunset hike in Wadi Kub",
+"sm": "Easy route (2/10).",
+"pl": "Wadi Kub; 14:00"
+},
+"mu-alpinetrekkers-317485969": {
+"ti": "Via ferrata: Wadi Daftah Flag Summit",
+"sm": "Intermediate route (4/10).",
+"pl": "Wadi Daftah; 09:00"
+},
+"mu-anhedi-experiences-317174374": {
+"ti": "Mate & Amigos — Argentine mate",
+"sm": "An introduction to the Argentine mate tradition.",
+"pl": "Dubai, venue shared after sign-up; 16:00"
+},
+"mu-bibliophiles-dubai-book-club-316827750": {
+"ti": "Book club: “Wuthering Heights”",
+"sm": "Discussing Emily Brontë’s novel. In English.",
+"pl": "Dubai, venue shared after sign-up; 17:30"
+},
+"mu-bibliophiles-dubai-book-club-317269430": {
+"ti": "Book club: “Zuleikha”",
+"sm": "Discussing Guzel Yakhina’s novel. In English.",
+"pl": "Dubai, venue shared after sign-up; 17:30"
+},
+"mu-book-cellar-316622446": {
+"ti": "Book Cellar club: “The Women Are Up to Something”",
+"sm": "Discussing Benjamin Lipscomb’s book. In English.",
+"pl": "Dubai, venue shared after sign-up; 19:30"
+},
+"mu-bookends-book-club-1212": {
+"ti": "Bookends Book Club: “Remarkably Bright Creatures”",
+"sm": "Discussing Shelby Van Pelt’s novel about grief, loneliness and unexpected friendship. In English.",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 11:00"
+},
+"mu-bookends-dubai-315267280": {
+"ti": "Bookends Book Club: readers’ choice",
+"sm": "Open discussion: everyone talks about a book of their choice. In English.",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 11:00"
+},
+"mu-bookends-dubai-317523817": {
+"ti": "Silent reading hour at Bookends",
+"sm": "Reading together in the quiet of a bookshop.",
+"pl": "Bookends, A3 Building, Dubai Silicon Oasis; 10:00"
+},
+"mu-coffee-society-dxb-317567291": {
+"ti": "Conversations Over Coffee",
+"sm": "A social evening over coffee.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-common-pace-317314296": {
+"ti": "Common Pace — walk and talk",
+"sm": "A group walk at an easy pace.",
+"pl": "Dubai, venue shared after sign-up; 19:30"
+},
+"mu-common-pace-317515402": {
+"ti": "Common Pace — social ride",
+"sm": "A group bike ride.",
+"pl": "Dubai, venue shared after sign-up; 19:30"
+},
+"mu-crafters-dubai-317549039": {
+"ti": "Crafting at Dubai Mall",
+"sm": "A crafters’ meetup: bring your own project.",
+"pl": "Dubai Mall; 14:00"
+},
+"mu-dice-divergence-1202": {
+"ti": "Board game night for neurodivergent people",
+"sm": "A relaxed board game meetup for people with ADHD, autism and other differences.",
+"pl": "tile Board Game Cafe, JLT; 19:00"
+},
+"mu-dine-club-317514897": {
+"ti": "Dine & Connect",
+"sm": "Dinner with new people.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-active-community-317502797": {
+"ti": "Turf cricket at Port Rashid",
+"sm": "An amateur cricket game.",
+"pl": "Port Rashid; 20:00"
+},
+"mu-dubai-booze-book-babes-317513120": {
+"ti": "Book club: “Alchemised”",
+"sm": "Discussing the book over a glass. In English.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-booze-book-babes-317513225": {
+"ti": "Movie outing: “Ebenezer” at Vox MOE",
+"sm": "Watching the Johnny Depp film together.",
+"pl": "Vox Cinemas, Mall of the Emirates; 19:00"
+},
+"mu-dubai-exclusive-317426383": {
+"ti": "Socialize & Have Fun — afterparty",
+"sm": "An evening of socialising and meeting people.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-expats-social-language-317552554": {
+"ti": "Sunday language exchange in Arjan",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Arjan; 19:00"
+},
+"mu-dubai-explorers-317576465": {
+"ti": "Easy sunrise hike in Hatta",
+"sm": "An easy climb at sunrise.",
+"pl": "Hatta; 07:00"
+},
+"mu-dubai-fashion-photography-me-317365968": {
+"ti": "Fashion photography workshop",
+"sm": "Hands-on shooting with models and lighting.",
+"pl": "DAMSTUDIO; 10:00"
+},
+"mu-dubai-food-lovers-317514746": {
+"ti": "Coffee Connect",
+"sm": "A cosy evening over coffee.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-fun-social-317539497": {
+"ti": "World Voices Social — languages and cultures",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-ludo-masters-317351809": {
+"ti": "Free ludo in Safa",
+"sm": "Ludo games open to everyone.",
+"pl": "Al Safa High School, sports hall; 10:00",
+"pr": "free"
+},
+"mu-dubai-socialites-317567347": {
+"ti": "Conversations Without Borders — language night",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-socialites-group-317527342": {
+"ti": "Talk the World — language practice",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-socialites-group-317539470": {
+"ti": "Girl Talk & Grounds — women’s meetup",
+"sm": "Coffee and conversation, women only.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-dubai-women-s-art-club-paint-317437723": {
+"ti": "Ladies Paint, Sip & Sketch",
+"sm": "Painting and sketching over coffee; materials included. Women only.",
+"pl": "Starbucks, Spinneys; 10:30",
+"pr": "65 AED"
+},
+"mu-dubai-women-s-art-club-paint-317449444": {
+"ti": "Paint, Sip & Reconnect",
+"sm": "Painting and sketching over coffee; materials included. Women only.",
+"pl": "Starbucks, Spinneys; 10:30",
+"pr": "50 AED"
+},
+"mu-dubai-women-s-art-club-paint-317449541": {
+"ti": "Paint your Mood",
+"sm": "Painting and sketching over coffee; materials included. Women only.",
+"pl": "Raw Coffee Company; 10:30",
+"pr": "65 AED"
+},
+"mu-dubai-women-s-art-club-paint-317523797": {
+"ti": "Ladies Paint, Sip & Sketch",
+"sm": "Painting and sketching over coffee; materials included. Women only.",
+"pl": "Starbucks, Spinneys; 10:00",
+"pr": "50 AED"
+},
+"mu-dubai-yoga-meditation-group-317327267": {
+"ti": "Kundalini yoga at Kite Beach on Fridays",
+"sm": "Kundalini yoga on the beach.",
+"pl": "Kite Beach; Fri 17:00",
+"pr": "80 AED"
+},
+"mu-dubaisalsaclub-317529120": {
+"ti": "Dubai Salsa Club Latin nights",
+"sm": "Social dancing: salsa, bachata, kizomba; a different party each night.",
+"pl": "Dubai, venue shared after sign-up; Tue, Thu, Fri, Sat from 22:00"
+},
+"mu-dxb-dance-317568759": {
+"ti": "Afrobeats dance class at MOOV",
+"sm": "An Afrobeats-style dance class.",
+"pl": "MOOV Dance & Fitness Center; 21:00"
+},
+"mu-e5-chess-club-2-years": {
+"ti": "E5 Chess Club: 2nd anniversary tournament",
+"sm": "A festive “brain and hand” chess tournament for all levels.",
+"pl": "Bert's Cafe, The Greens; 15:00"
+},
+"mu-explore-quest-club-dubai-317564764": {
+"ti": "Sunset Quest Walk in Downtown",
+"sm": "A quest walk through Downtown at sunset.",
+"pl": "chök, Downtown Dubai; 17:30"
+},
+"mu-exploring-socialising-for-al-317548128": {
+"ti": "Social Game Night at SpartaCUEs",
+"sm": "Games and new people: board games and billiards.",
+"pl": "SpartaCUEs Billiards and Board Game Cafe; 20:00"
+},
+"mu-jbr-run-pilates-club-317589639": {
+"ti": "JBR Run & Pilates Club",
+"sm": "Morning run and pilates on the beach.",
+"pl": "JBR; 07:00"
+},
+"mu-laughter-yoga-festive-1210": {
+"ti": "Festive laughter yoga in Al Barsha Pond Park",
+"sm": "A 30-minute session: stretching, breathing and laughter yoga in a festive mood.",
+"pl": "Al Barsha Pond Park; 20:00",
+"pr": "about 50 AED, cash"
+},
+"mu-learn-speak-arabic-in-dubai-317352492": {
+"ti": "Arabic from scratch: workshop at Dubai Mall",
+"sm": "Your first Arabic phrases in one session.",
+"pl": "3arabian, Dubai Mall; 12:00",
+"pr": "99 AED"
+},
+"mu-let-s-practice-english-toget-317549463": {
+"ti": "Practise spoken English together",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Dubai, venue shared after sign-up; 18:00"
+},
+"mu-meetup-group-gdyhtozr-317563494": {
+"ti": "Dynasty Game Night at Al Habtoor Palace",
+"sm": "A big games night in the hotel ballroom.",
+"pl": "Al Habtoor Palace, Ballroom A; 19:00"
+},
+"mu-meetup-group-ipsxrjpv-317539169": {
+"ti": "Quiet writing session",
+"sm": "Everyone writes their own work in calm company.",
+"pl": "Caféine Club UAE; 18:00"
+},
+"mu-meetup-group-mkkjixhs-317550634": {
+"ti": "Sunset hatha yoga at Sunset Beach",
+"sm": "Yoga on the beach at sunset.",
+"pl": "Sunset Beach, Jumeirah 3; 16:45"
+},
+"mu-moms-in-dubai-317577919": {
+"ti": "Coffee for mums with little ones at Magic Planet",
+"sm": "Mums have coffee while the kids play nearby.",
+"pl": "Magic Planet, Wafi Mall; 13:00"
+},
+"mu-newvision-317533437": {
+"ti": "Morning yoga and walk",
+"sm": "Yoga and a walk early in the morning.",
+"pl": "Horizon Tower; 06:00"
+},
+"mu-ornaments-painting-1205": {
+"ti": "Christmas ornament painting for women at Le Guepard",
+"sm": "Painting plaster ornaments over coffee and meeting new people. Women only.",
+"pl": "Le Guepard, Alserkal Avenue (unit 57); 16:00",
+"pr": "41 USD (per Meetup)"
+},
+"mu-ourworldwithoutstrangers-317352990": {
+"ti": "Our World Without Strangers — cultural exchange",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "DIC Building 3, Thuraya Hall, Internet City; 12:00"
+},
+"mu-paint-stitch-sip-317512747": {
+"ti": "Paint, Stitch & Sip at Bebax Coffee",
+"sm": "Painting and embroidery over coffee.",
+"pl": "Bebax Coffee, Arjan; 14:30"
+},
+"mu-primexar-book-club-317563821": {
+"ti": "Book club: “The Stationery Shop of Tehran”",
+"sm": "Discussing Marjan Kamali’s novel. In English.",
+"pl": "One Lake Plaza, Cluster T, JLT; 16:00"
+},
+"mu-project-baila-317527856": {
+"ti": "Project Baila: salsa and bachata at JADS Studio",
+"sm": "Salsa and bachata classes for different levels.",
+"pl": "JADS Studio, Flora Hotel, 7th floor, Al Barsha; Fri 20:00, Sat 13:00, Sun 18:00",
+"pr": "50 (per Meetup)"
+},
+"mu-safar-book-group-317408980": {
+"ti": "Safar Book Group: Lise Bourbeau",
+"sm": "Discussing “Heal Your Wounds & Find Your True Self”. In English.",
+"pl": "Media One Hotel; 19:15"
+},
+"mu-social-dance-club-317314629": {
+"ti": "Salsa classes at Dance For You",
+"sm": "A group salsa class.",
+"pl": "Dance For You; 20:15"
+},
+"mu-sports-fitness-dxb-317251286": {
+"ti": "Padel & Party with a DJ",
+"sm": "Padel and a party with a live DJ on court.",
+"pl": "Dubai, venue shared after sign-up; 17:00"
+},
+"mu-talk-cafe-317494374": {
+"ti": "English conversation club for women",
+"sm": "Practise foreign languages and meet people in a relaxed setting.",
+"pl": "Dubai Mall, China Town food court; 10:00"
+},
+"mu-the-coffee-salon-317567336": {
+"ti": "Conversations That Brew — coffee night",
+"sm": "A social evening over coffee.",
+"pl": "Dubai, venue shared after sign-up; 19:00"
+},
+"mu-the-crazy-club-317129975": {
+"ti": "Chess Sunday at The South Market",
+"sm": "Chess for all levels.",
+"pl": "The South Market food hall, 2nd floor; 15:30"
+},
+"mu-the-crazy-club-317328843": {
+"ti": "Pub Tales",
+"sm": "An evening of stories and conversation.",
+"pl": "Nuevo restaurant; 20:00"
+},
+"mu-the-crazy-club-317354344": {
+"ti": "Dreamy Discussions — talking about dreams",
+"sm": "A discussion club about dreams and their meaning.",
+"pl": "The South Market food hall, 2nd floor; 16:00"
+},
+"mu-the-crazy-club-317527599": {
+"ti": "Friday Night Pub Chess at Nuevo",
+"sm": "Chess in a bar on Fridays.",
+"pl": "Nuevo restaurant; 19:30"
+},
+"mu-the-crazy-club-317528834": {
+"ti": "Crime Time — ethics and motives discussion",
+"sm": "Talking about crimes, morality and motives.",
+"pl": "La Vue Bar; 21:15"
+},
+"mu-the-crazy-club-317549381": {
+"ti": "Puzzles at The South Market",
+"sm": "Doing jigsaw puzzles together.",
+"pl": "The South Market food hall, 2nd floor; 14:00",
+"pr": "free"
+},
+"mu-the-hiking-hub-317577623": {
+"ti": "Hatta trail hike",
+"sm": "A route along Hatta’s mountain trails.",
+"pl": "Hatta; 08:00"
+},
+"mu-the-holistic-circle-317568273": {
+"ti": "Sunset Stretch & Move at Kite Beach",
+"sm": "Stretching and movement at sunset.",
+"pl": "Kite Beach; 16:30"
+},
+"mu-top-padel-pickleball-events-317561882": {
+"ti": "Open Social: padel and pickleball at Top Padel",
+"sm": "Open padel and pickleball games for everyone.",
+"pl": "Top Padel / Top Pickle, City Centre Me'aisem; Thu & Sat 19:30"
+},
+"mu-uae-outdoor-enthusiasts-meet-317267303": {
+"ti": "Day trip to Musandam",
+"sm": "A one-day trip to Musandam (Oman).",
+"pl": "departure from Dubai; 07:00"
+},
+"mu-uae-weekend-lovers-316893270": {
+"ti": "Santa Hike on the east coast",
+"sm": "A festive pre-Christmas hike.",
+"pl": "UAE east coast; 08:00"
+},
+"mu-wildwonders-317552880": {
+"ti": "Easy sunset hike in Hatta",
+"sm": "An easy climb at sunset.",
+"pl": "Hatta, meeting point in Business Bay; 17:00"
+},
+"mu-winner-dinner-317313542": {
+"ti": "Indoor padel at Nad Al Hammar",
+"sm": "Indoor padel game; booking via WhatsApp.",
+"pl": "Nad Al Hammar Park 2; 18:30"
+},
+"mu-winner-dinner-317568147": {
+"ti": "Blood on the Clocktower — social deduction",
+"sm": "A Mafia-style role-playing game; booking via WhatsApp.",
+"pl": "Al Barsha; 20:00"
+},
+"pl-engelbert-humperdinck-farewell-tour": {
+"ti": "Engelbert Humperdinck — farewell tour",
+"sm": "The “King of Romance” performs his classic hits on his worldwide farewell tour.",
+"pl": "The Agenda, Dubai Media City",
+"pr": "from 290 AED"
+},
+"pl-familybeatz-studio-one-hotel-dubai-studio-city": {
+"ti": "FamilyBeatz — a house party for the whole family",
+"sm": "House music, dancing and activities for kids and parents.",
+"pl": "Studio One Hotel, Dubai Studio City",
+"pr": "from 100 AED"
+},
+"pl-indo-warehouse": {
+"ti": "Indo Warehouse — New Year’s Eve at The Penthouse",
+"sm": "New Year’s Eve with an Indo Warehouse set and a seven-minute fireworks show.",
+"pl": "The Penthouse, FIVE Palm Jumeirah",
+"pr": "from 300 AED"
+},
+"pl-jazz-to-havana-with-live-duo": {
+"ti": "Jazz to Havana — live jazz on Fridays at Flashback",
+"sm": "Jazz and Latin music by the duo Anabel & Alejandro in a speakeasy bar.",
+"pl": "Flashback Speakeasy, Paramount Hotel; Fri",
+"pr": "120 AED (3 drinks included)"
+},
+"pl-marco-carola-music-on-2027-02-05": {
+"ti": "Marco Carola: Music On at Pacha ICONS",
+"sm": "The Italian techno DJ’s signature Music On party.",
+"pl": "Pacha ICONS, Five Luxe JBR",
+"pr": "from 200 AED"
+},
+"pl-pluma": {
+"ti": "Pluma — circus show",
+"sm": "Modern circus for the whole family: aerial acrobatics, a story and music. Extended until 13 December.",
+"pl": "Pluma tent, Dubai Festival City Mall",
+"pr": "from 100 AED"
+},
+"pl-ppitos-spotlight-at-flashback-speakeasy": {
+"ti": "Ppito’s Spotlight — acoustic Fridays at Flashback",
+"sm": "Live acoustic Latin music in a speakeasy bar.",
+"pl": "Flashback Speakeasy, Paramount Hotel; Fri",
+"pr": "120 AED"
+},
+"pl-vini-vici-at-troy-in-dubai": {
+"ti": "Vini Vici at Troy",
+"sm": "The Israeli psytrance duo with a big electronic set.",
+"pl": "Troy, Ramee Dream Hotel",
+"pr": "from 125 AED"
+},
+"tg-creativedubai-29107": {
+"ti": "Back to the 90s dance party at MAGADAN Dubai",
+"sm": "Live band, Russian and international 90s hits, prize draw; 3 hours of free parking.",
+"pl": "MAGADAN Dubai, Palm West Beach (Radisson Beach Resort); 21:30",
+"pr": "free entry with registration"
+},
+"tg-dubaidecode-2986": {
+"ti": "Soviet comedies on Fridays at Garden by Kickers",
+"sm": "“The Irony of Fate”, “Operation Y”, “Ivan Vasilievich Changes Profession” and more; ask the bar which film is on this week.",
+"pl": "Garden by Kickers, Dubai Sports City; Fri from 20:00"
+},
+"tg-dubaimap-15060": {
+"ti": "Cinema Under the Stars in JLT Park on Saturdays",
+"sm": "Open-air cinema: bring your own blankets, chairs and snacks. 28 November — “Toy Story”.",
+"pl": "JLT Park; Sat 19:30",
+"pr": "free; seat near the screen — 30 AED"
+},
+"tg-dubaitop777-9669": {
+"ti": "Tulips for National Day at d3",
+"sm": "An installation of tulips grown by residents for the UAE’s 55th National Day; 55 bouquets handed out daily.",
+"pl": "Dubai Design District, between buildings 4 and 6; 16:30–18:00",
+"pr": "free"
+},
+"tg-padel_club-45316": {
+"ti": "D+/C- game at ZY Padel",
+"sm": "A 20-player group game from Padel Club UAE.",
+"pl": "ZY Padel; 18:30–20:30",
+"pr": "150 AED"
+},
+"tg-padeldubai-36483": {
+"ti": "Beginners’ Americano at Casa Padel",
+"sm": "A game for D/D+ levels from the Padel in Dubai community.",
+"pl": "Casa Padel, Ripe Market, Al Khawaneej; 20:30",
+"pr": "160 AED"
+},
+"tg-padeldubai-36518": {
+"ti": "HOPS League at Emirates Golf Club",
+"sm": "A league for D–C+ levels from the Padel in Dubai community.",
+"pl": "Emirates Golf Club, Dubai Marina; 20:30",
+"pr": "150 AED"
+},
+"tg-padeldubai-36520": {
+"ti": "King of the Court D/D+ at Paus Club",
+"sm": "King-of-the-court format for beginners.",
+"pl": "Paus Club, Jumeirah; 21:00",
+"pr": "150 AED"
 }
 }
