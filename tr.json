@@ -1214,7 +1214,9 @@
 },
 "pl-right-on-time-stephen-speaks": {
 "ti": "Stephen Speaks at Dubai Miracle Garden",
-"sm": "Hits, covers and songs from the new EP Right on Time."
+"sm": "The American acoustic pop-rock act: hits, covers and songs from the “Right on Time” EP. Moved from 21 November to 24 January.",
+"pl": "Dubai Miracle Garden",
+"pr": "from 299 AED"
 },
 "pl-synthony-x-faithless-live-in-dubai": {
 "sm": "Live orchestra and Faithless Sound System: dance anthems, symphonic style.",
@@ -3397,5 +3399,128 @@
 "sm": "Resident DJ and entertainment; free-flowing drinks for ladies at the bar.",
 "pl": "CÉ LA VI, Address Sky View; Sat from 22:00",
 "pr": "ladies 150–199 AED (unlimited), gents 199 AED for 2 drinks"
+},
+"tg-dubaitop777-9698": {
+"ti": "National Day fireworks: Festival City and Hatta",
+"sm": "Fireworks for the UAE’s 55th anniversary; in Hatta they light up the Hajar Mountains.",
+"pl": "Dubai Festival City Mall — 1 and 2 December at 20:55; Hatta — 2 December at 21:00",
+"pr": "free"
+},
+"tg-dubai_pike-9568-1": {
+"ti": "Eid Al Etihad Village at City Walk",
+"sm": "A National Day village: traditional performances, Emirati culture and workshops.",
+"pl": "City Walk; 16:00–22:00",
+"pr": "free"
+},
+"tg-dubai_pike-9568-2": {
+"ti": "National Day celebration in Hatta",
+"sm": "Outdoor fun, light installations and a free 65-minute Candlelight concert.",
+"pl": "Hatta Wadi Hub",
+"pr": "free"
+},
+"tg-dubai_pike-9568-3": {
+"ti": "UAE flag made of LEGO at Mall of the Emirates",
+"sm": "A world-record attempt: anyone can add bricks to the largest LEGO UAE flag and get a participation certificate.",
+"pl": "Mall of the Emirates",
+"pr": "free"
+},
+"tg-dubaitop777-9691": {
+"ti": "“Living Legacies” at Louvre Abu Dhabi",
+"sm": "An exhibition on protecting world heritage: objects from many museums and stories of saving artefacts through conflicts and disasters.",
+"pl": "Louvre Abu Dhabi, Saadiyat",
+"pr": "museum ticket, 70 AED"
+},
+"tg-dubaimap-15082": {
+"ti": "The Hope Run — charity run in Creek Park",
+"sm": "1, 2.5 and 5 km distances; proceeds support cancer patients and their families. Family activities and free health checks.",
+"pl": "Creek Park"
+},
+"tg-eventsindubai-13403": {
+"ti": "Mafia game night with Mafia Vero at FRNDS",
+"sm": "40 guests playing at several tables at once; come even without company. In Russian.",
+"pl": "FRNDS Restaurant, Downtown; 18:00"
+},
+"tg-padel_club-45428": {
+"ti": "Evening D+/C- game at Padel Art (Monday)",
+"sm": "A 16-player group game from Padel Club UAE.",
+"pl": "Padel Art; 21:00–23:00",
+"pr": "150 AED"
+},
+"tg-padeldubai-36637": {
+"ti": "Shrimp of the Court by SeaLux Yacht at Club 15",
+"sm": "A padel game from the Padel in Dubai community, supported by SeaLux Yacht.",
+"pl": "Club 15, Al Quoz; 12:00",
+"pr": "170 AED"
+},
+"pl-joe-labero-an-evening-of-magic-and-illusion": {
+"ti": "Joe Labero — An Evening of Magic and Illusion",
+"sm": "The Swedish illusionist’s show with unlimited bites and drinks; ages 8 and up.",
+"pl": "Marriott Marquis Dubai",
+"pr": "from 245 AED"
+},
+"pl-al-nasr-fc-vs-shabab-al-ahli-fc": {
+"ti": "Football: Al Nasr vs Shabab Al Ahli",
+"sm": "ADNOC Pro League match.",
+"pl": "Al Maktoum Stadium",
+"pr": "from 20 AED"
+},
+"pl-hatta-fc-vs-kalba-fc": {
+"ti": "Football: Hatta vs Kalba",
+"sm": "ADNOC Pro League match.",
+"pl": "Hamdan Bin Rashid Al Maktoum Stadium",
+"pr": "from 20 AED"
+},
+"ig-otdeliskusstv_uae-DgNTA0dxNdF": {
+"ti": "“Christian Dior: A Floral Revolution” — art lecture",
+"sm": "Flowers in painting, the gardens of Granville and why Dior collections look like bouquets. In Russian.",
+"pl": "Babushka, JBR; 13:00",
+"pr": "190 AED + VAT until 1.12, then 210 AED + VAT"
+},
+"ig-paletteparty.ae-DgP2Fl3RZCT": {
+"ti": "The 2027 Vision Edit — vision board workshop",
+"sm": "Create your 2027 vision board: all materials and a drink included, no art skills needed. 18+.",
+"pl": "Acacia Garden Center; 14:00–16:30",
+"pr": "185 AED (170 AED each for 2+), register by 9.12"
+},
+"ig-dubai_womensclub-DgPevtmDc2Y": {
+"ti": "Pilates on a yacht with sound healing, 2 December (EVA women’s club)",
+"sm": "Pilates on deck, then singing bowls at sunset; partner gifts and a photographer. Women only.",
+"pl": "Yacht, Dubai; 16:00",
+"pr": "480 AED"
+},
+"mu-aft-adventures-317604166": {
+"ti": "Kebdah Canyon loop",
+"sm": "A canyon hike with AFT Adventures.",
+"pl": "Kebdah Canyon; 14:30"
+},
+"mu-aft-adventures-317583945": {
+"ti": "Wadi Naqab: Sheri village trail",
+"sm": "An intermediate route (6/10) with AFT Adventures.",
+"pl": "Wadi Naqab, Ras Al Khaimah; 08:00"
+},
+"mu-aft-adventures-317603708": {
+"ti": "Wadi Sena sunset hike",
+"sm": "A sunset hike with AFT Adventures.",
+"pl": "Wadi Sena; 15:00"
+},
+"mu-aft-adventures-317528496": {
+"ti": "Al Hajar Challenge: Hebs Village",
+"sm": "A stage of the Al Hajar Challenge mountain hike series with AFT Adventures.",
+"pl": "Hebs Village, Hajar Mountains; 07:30"
+},
+"mu-social-space-boardgame-n-317610504": {
+"ti": "Board game night at ROVE Deira City Centre",
+"sm": "Board games and meeting new people.",
+"pl": "ROVE Deira City Centre, Port Saeed; 18:30"
+},
+"mu-greenwayadventures-317590960": {
+"ti": "Sunset hike in Mushrif Park",
+"sm": "An easy sunset walk-hike through the park.",
+"pl": "Mushrif Park; 15:30"
+},
+"mu-book-cellar-312974270": {
+"ti": "Book Cellar club: “The Body Keeps the Score”",
+"sm": "Discussing Bessel van der Kolk’s book. In English.",
+"pl": "Dubai, venue shared after sign-up; 19:30"
 }
 }
